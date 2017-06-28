@@ -1,5 +1,5 @@
-BAMBI scripts
-=============
+BAMBI scripts and data files
+============================
 
 Full NanoOK documentation can be found at https://documentation.tgac.ac.uk/display/NANOOK/NanoOK
 
