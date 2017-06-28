@@ -1,0 +1,5 @@
+2	24	gi|529186758|gb|CP004022.1|	"Proteus mirabilis BB2000, complete genome"
+49	1	gi|301072224|gb|HM146786.1|	"Proteus mirabilis HldD (hldD) gene, partial cds; and WaaF (waaF), WaaC (waaC), WamD (wamD), Mig-14 (mig-14), WabN (wabN), WabH (wabH), WabG (wabG), WaaQ (waaQ), WaaA (waaA), WaaE (waaE), CoaD (coaD), Fpg (fpg), WaaL (waaL), WalM (walM), WalN (walN), WalO (walO), WalR (walR), RpmG (rpmG), RpmB (rpmB), and RadC (radC) genes, complete cds"
+4	16	gi|1026616321|gb|CP015347.1|	"Proteus mirabilis strain AOUC-001, complete genome"
+53	1	gi|172046403|emb|AM942759.1|	"Proteus mirabilis strain HI4320, complete genome"
+Total	42		
