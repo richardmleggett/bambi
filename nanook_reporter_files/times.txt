@@ -1,0 +1,3 @@
+mux_scan_start_time:07/03/17 10:06:27
+sequencing_run_start_time:07/03/17 10:14:47
+first_basecalled_read:07/03/17 10:07:07
