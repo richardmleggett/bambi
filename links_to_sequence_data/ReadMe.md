@@ -28,4 +28,12 @@ Oxford Nanopore data
 Illumina data
 -------------
 
-
+| **Run** | **Sample** | Platform | ENA link |
+| --- | --- | --- | --- |
+| 1 | P10N | HiSeq 2500 2x251 | https://www.ebi.ac.uk/ena/data/view/ERR2099157 |
+| 2 | P10R | HiSeq 2500 2x251 | https://www.ebi.ac.uk/ena/data/view/ERR2099158 |
+| 3 | P10V | HiSeq 2500 2x251 | https://www.ebi.ac.uk/ena/data/view/ERR2099159 |
+| 4 | Mock | MiSeq 2x301 | https://www.ebi.ac.uk/ena/data/view/ERR2099160 |
+| 5 | Klebsiella pneumoniae isolate | HiSeq 2500 2x125 | https://www.ebi.ac.uk/ena/data/view/ERR2099161 |
+| 6 | P10N 16S | MiSeq 2x301 | https://www.ebi.ac.uk/ena/data/view/ERR2099162 |
+| 7 | P10V 16S | MiSeq 2x301 | https://www.ebi.ac.uk/ena/data/view/ERR2099163 |
