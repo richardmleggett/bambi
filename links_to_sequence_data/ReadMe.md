@@ -1,3 +1,13 @@
+Links to sequencing data
+========================
+
+All data is contained under ENA study PRJEB22207, available at https://www.ebi.ac.uk/ena/data/view/PRJEB22207
+
+Links to individual samples are provided below for convenience.
+
+Oxford Nanopore data
+--------------------
+
 | **Run** | **Sample** | **Flow cell** | **Kit** | **Library type** | **ENA link** |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Mock | R7.3 (MAP103) | MAP006 | 2D | https://www.ebi.ac.uk/ena/data/view/ERR2105049 |
@@ -14,3 +24,8 @@
 | 12 | P106I | R9.5 (MIN107) | LSK108 | 1D Ligation | https://www.ebi.ac.uk/ena/data/view/ERR2793137 |
 | 13 | P116I | R9.5 (MIN107) | LSK108 | 1D Ligation | https://www.ebi.ac.uk/ena/data/view/ERR2793135 |
 | 14 | P103M | R9.5 (MIN107) | RAD004 | 1D Rapid |   |
+
+Illumina data
+-------------
+
+
