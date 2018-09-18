@@ -3,11 +3,9 @@ scripts
 
 Scripts used for analysis of data:
 
-* **gather_heatmap_data.pl** - take summary files from NanoOK Reporter, together with file that maps ARO IDs to groups and generate a file  summarising hits per group at each timepoint.
+* **gather_heatmap_data.pl** - take summary files from NanoOK Reporter and generate a file summarising hits per group at each timepoint.
 * **plot_card_heatmap.R** - R script to make heat map from output of gather_heatmap_data.pl.
 * **remove_low_abundance_taxa.pl** - given a MEGAN exported file, remove nodes with count lower than threshold.
-* **walk_out_preprocess.sh** - go through all CARD BLAST hits and write file containing each CARD hit and the corresponding nt hits for the same read.
-* **walk_out.pl** - takes output of walk_out_preprocess.sh and parses read-by-read, generating counts of encompassing bacteria.
 * **bambi_summary.pl** - summarises BLAST output from NanoOKReporter.
 * **bambi_summary_all.sh** - example of running bambi_summary.pl.
 
