@@ -1,8 +1,15 @@
+# Program: plot_card_heatmap.R
+# Purpose: Produce AMR heat maps for BAMBI data
+# Author:  Richard Leggett (richard.leggett@earlham.ac.uk)
+
 library(plyr)
 library(ggplot2)
 library(scales)
 library(reshape)
 library(grid)
+
+# Uncomment the appropriate set of parameters below depending on the sample
+# Also need to uncomment the appropriate data.m line below
 
 sample = "BAMBI_1D_19092017";
 n_groups = 25
@@ -45,13 +52,14 @@ yield_data = read.table(paste(sample, "/", sample, "_yield.txt", sep=""), header
 time_data = read.table(paste(sample, "/", "heatmap_timepoints.txt", sep=""), header=TRUE, sep="\t")
 groups = read.table(paste(sample, "/", "groups.txt", sep=""), sep="\t", header=TRUE)
 
+# Uncomment the appropriate line below depending on the number of groups in this dataset
+
 data.m = melt(table_data, id.vars = "Reads", measure.vars = c("G1", "G2", "G3", "G4", "G5", "G6", "G7", "G8", "G9", "G10", "G11", "G12", "G13", "G14", "G15", "G16", "G17", "G18", "G19", "G20", "G21", "G22", "G23", "G24", "G25"))
 #data.m = melt(table_data, id.vars = "Reads", measure.vars = c("G1", "G2", "G3", "G4", "G5", "G6", "G7", "G8", "G9", "G10", "G11", "G12", "G13"))
 #data.m = melt(table_data, id.vars = "Reads", measure.vars = c("G1", "G2", "G3", "G4", "G5", "G6", "G7"))
 #data.m = melt(table_data, id.vars = "Reads", measure.vars = c("G1", "G2", "G3", "G4", "G5", "G6", "G7", "G8"))
 #data.m = melt(table_data, id.vars = "Reads", measure.vars = c("G1", "G2", "G3", "G4", "G5", "G6", "G7", "G8", "G9", "G10"))
 #data.m = melt(table_data, id.vars = "Reads", measure.vars = c("G1", "G2", "G3", "G4"))
-
 
 png(paste(sample, ".png", sep=""), width=1800, height=plot_height);
 #pdf(paste(sample, ".pdf", sep=""), width=plot_width_pdf, height=plot_height_pdf);
