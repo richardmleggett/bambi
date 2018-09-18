@@ -1,0 +1,25 @@
+ReadId	HostHit	Overlap	Independent	CARDhit
+9f0f9a0b-6fe1-4a75-938f-dfc23d4db4d2	Escherichia coli	169	Y	gb|M95287.4|+|0-828|ARO:3001397|OXA-2
+10d84984-ad13-43db-969e-3a8f5b8514c5	Klebsiella michiganensis	144	Y	gb|NC_000913.3|-|1170517-1173964|ARO:3003844|mfd
+30f0dfaf-f209-45fc-bdf8-48f3daee6721	Enterobacter cloacae	2096	Y	gb|NC_010378.1|+|47850-51003|ARO:3003923|oqxB
+efafc11b-d3b7-46d4-8dd2-8d9b99b788c7	Enterobacter cloacae	1689	Y	gb|NC_000913.3|-|721055-721733|ARO:3003841|kdpE
+43962585-c65f-4aea-8206-b51480c82537	Enterobacter cloacae	1180	Y	gb|JQ727667|+|0-870|ARO:3000825|robA
+9f9cc129-8097-4d1f-97c8-aa0ccbbe756c	Enterobacter cloacae	3412	Y	gb|JQ727667|+|0-870|ARO:3000825|robA
+92eaf722-df44-4365-a8db-07d259356b37	Klebsiella pneumoniae	771	Y	gb|M95287.4|+|0-828|ARO:3001397|OXA-2
+1e8a4a88-f0b8-423f-aba1-de54058ae3ca	Enterobacter cloacae	219	Y	gb|DQ679966|+|1515-4662|ARO:3000216|acrB
+1f44caa1-0583-439a-b131-d9702fd434cc	Klebsiella pneumoniae	4220	Y	gb|M95287.4|+|0-828|ARO:3001397|OXA-2
+e43018b6-dcda-4ad4-aa71-62142beb26c1	Enterobacter cloacae	7	N	gb|NC_010378.1|+|47850-51003|ARO:3003923|oqxB
+5bb34b6f-e995-4d6d-8fa4-3e250a9cafa7	Klebsiella michiganensis	965	Y	gb|AP009048|-|4153663-4154296|ARO:3000518|CRP
+ba11cd47-e6ca-40d9-ba63-4ff556a8aa26	Enterobacter cloacae	5768	Y	gb|JQ727667|+|0-870|ARO:3000825|robA
+8e2be451-e215-42b9-8c61-688cd4e1bf9f	Klebsiella michiganensis	119	Y	gb|NC_000913.3|+|3219493-3220873|ARO:3000024|patA
+f83466ea-27f2-43f1-9720-eb8e4f9e7ee8	Enterobacter cloacae	1578	Y	gb|NC_002695|-|4903561-4904935|ARO:3000830|cpxA
+251ae543-f190-4ce8-8b2c-2c679dd06acf	Enterobacter cloacae	261	Y	gb|U00096|+|2812615-2814154|ARO:3000074|emrB
+4f53fedf-196c-4662-8cb3-326760985a76	Pantoea sp.	762	Y	gb|M95287.4|+|0-828|ARO:3001397|OXA-2
+ef636997-37c4-4e78-807e-2239a8b2d83c	Enterobacter cloacae	8753	Y	gb|DQ679966|+|299-1493|ARO:3000207|acrA
+2800067b-11af-4835-9d8a-accb104478d7	Enterobacter cloacae	2867	Y	gb|KF992028|+|761-1907|ARO:3001839|ACT-18
+6812662b-6164-4994-af4d-3fe912a313ce	Enterobacter cloacae	635	Y	gb|NC_002695|-|1737553-1737967|ARO:3000676|H-NS
+f75b2cb7-dab3-4976-a535-30323fc6ddb5	Enterobacter cloacae	13554	Y	gb|KF992028|+|761-1907|ARO:3001839|ACT-18
+8f706682-d0dc-4ecd-9c6a-5c83b424fbd2	Enterobacter cloacae	1236	Y	gb|U00096|+|2812615-2814154|ARO:3000074|emrB
+29bba103-15dd-4448-872c-3a6d94259d81	Enterobacter cloacae	1217	Y	gb|AP009048|-|4153663-4154296|ARO:3000518|CRP
+43bed59d-0a16-4fbb-8869-7e6b62312f7e	Klebsiella michiganensis	2240	Y	gb|L11616|+|1569-4710|ARO:3000378|mexB
+f93c2543-62e6-4571-a016-6159520b5bbd	Klebsiella pneumoniae	230	Y	gb|M95287.4|+|0-828|ARO:3001397|OXA-2
