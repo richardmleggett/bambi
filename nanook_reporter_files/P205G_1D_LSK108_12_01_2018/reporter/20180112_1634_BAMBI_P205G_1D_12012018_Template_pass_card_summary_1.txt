@@ -1,0 +1,4 @@
+Rank,Count,ID,Name,Description
+1,1,gb|FJ237368|+|0-1146|ARO:3001830|ACT-7,ACT-7,"ACT-7 is a beta-lactamase. From the Lahey list of ACT beta-lactamases."
+2,1,gb|DQ679966|+|1515-4662|ARO:3000216|acrB,acrB,"Protein subunit of AcrA-AcrB-TolC multidrug efflux complex. AcrB functions as a herterotrimer which forms the inner membrane component and is primarily responsible for substrate recognition and energy transduction by acting as a drug/proton antiporter."
+3,1,gb|AF173226|+|3767-6917|ARO:3003052|smeB,smeB,"smeB is the inner membrane multidrug exporter of the efflux complex smeABC in Stenotrophomonas maltophilia"

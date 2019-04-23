@@ -1,0 +1,13 @@
+Group	Name
+G1	Fusidic acid resistance
+G2	Macrolide resistance
+G3	Trimethoprim resistant
+G4	Tetracycline resistance
+G5	Elfamycin resistance
+G6	Bacitracin resistance
+G7	Aminoglycoside resistance
+G8	Mupirocin resistance
+G9	Beta-lactamase
+G10	Fluoroquinolone resistance
+G11	Aminocoumarin resistance
+G12	Multidrug efflux pump

@@ -1,0 +1,2 @@
+Rank,Count,ID,Name,Description
+1,1,gb|AF173226|+|3767-6917|ARO:3003052|smeB,smeB,"smeB is the inner membrane multidrug exporter of the efflux complex smeABC in Stenotrophomonas maltophilia"
