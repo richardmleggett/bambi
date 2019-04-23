@@ -1,0 +1,6 @@
+Rank,Count,ID,Name,Description
+1,27,gb|M18896|+|0-1920|ARO:3000190|tetO,tetO,"TetO is a ribosomal protection protein. It is associated with conjugative plasmids."
+2,22,gb|NC_014638|-|1610636-1613960|ARO:3003730|Bifidobacteria,"Bifidobacteria intrinsic ileS conferring resistance to mupirocin","Bifidobacteria have an intrinsically resistant form of ileS (isoleucyl-tRNA synthetase) that confers resistance to mupirocin."
+3,2,gb|AP009048|-|4338624-4340268|ARO:3003576|PmrC,PmrC,"PmrC mediates the modification of Lipid A by the addition of 4-amino-4-deoxy-L-arabinose (L-Ara4N) and phosphoethanolamine, resulting in a less negative cell membrane and decreased binding of polymyxin B."
+4,2,gb|X98831.1|+|361-1555|ARO:3003359|Streptomyces,"Streptomyces cinnamoneus EF-Tu mutants conferring resistance to elfamycin","Sequence variants of Streptomyces cinnamoneus elongation factor Tu that confer resistance to elfamycin antibiotics."
+5,1,gb|AP009048|-|4153663-4154296|ARO:3000518|CRP,CRP,"CRP is a global regulator that represses MdtEF multidrug efflux pump expression."

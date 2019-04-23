@@ -1,0 +1,51 @@
+ReadId	HostTopHit	HostLCAHit	CARDHit	CARDGroup	PercentID	Length	Distance
+e399f74c-1c45-4313-97ac-2c539c957cc1	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	97.13	244	373
+f752ad8c-69cd-4a2a-b81b-2cf151342fd4	Megasphaera elsdenii	Bacteria	ARO:3000190|tetO	group tet-6	89.68	155	276
+637fa061-7575-4f81-9a82-45b0aaf50e80	Bifidobacterium breve	Bacteria	ARO:3000190|tetO	group tet-6	96.11	360	218
+5f81782b-62f3-4d63-af02-937d677eaeea	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	80.73	493	202
+e5a298a8-c2e9-46ba-88aa-8643fff41109	Bifidobacterium bifidum	Bacteria	ARO:3000190|tetO	group tet-6	92.56	309	95
+e2b7818b-aa49-4e15-b56b-0128eb645f1c	Bifidobacterium breve	Bifidobacterium	ARO:3003359|Streptomyces	Streptomyces	76.77	310	199
+4016bd6e-0019-43c9-8daa-2a35e0f55606	Bifidobacterium breve	Bacteria	ARO:3000190|tetO	group tet-6	90.23	430	189
+d3eb212e-5b1a-4cb6-b291-f48dc1b2a96a	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	73.91	345	312
+f20ab0ba-8575-41a2-a8fd-781a59324b55	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	77.08	698	58
+148efe11-2629-4844-a641-f5fa3c3a3b73	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	83.39	271	388
+132539fb-70f8-4bbc-9b0f-82d690c06a8f	Bifidobacterium bifidum	Bifidobacterium bifidum	ARO:3003730|Bifidobacterium ileS	ileS	84.42	199	392
+19182bec-f00a-4c76-a724-8060b6e58271	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	88.57	175	416
+06eb746f-f71b-4528-b5dc-45c882bfc9ee	Bifidobacterium breve	Bifidobacterium	ARO:3003576|PmrC	PmrC	86.23	167	597
+915d0c67-c562-4cc6-865a-0639b3c878f0	Bifidobacterium breve	Bifidobacterium breve	ARO:3000190|tetO	group tet-6	95.57	203	238
+70ef1f46-d786-4a08-ac9c-7efdb855584c	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	91.61	143	626
+f6a72057-187a-4342-aac6-0175800f244a	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	87.43	183	188
+dc60d563-21c4-4d72-ba25-4ba67fd9343e	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	88.79	214	187
+acaad62a-03a9-4d72-8b62-387d5d65c2a4	Bifidobacterium breve	Bacteria	ARO:3000190|tetO	group tet-6	94.04	470	515
+c54ca562-f6bf-4007-a445-bf4d04a48882	Shigella sp.	Enterobacteriaceae	ARO:3000518|CRP	CRP	87.68	211	112
+90b172da-b5e0-4b26-8e03-08a397209e98	Megasphaera elsdenii	Bacteria	ARO:3000190|tetO	group tet-6	97.37	152	305
+6067dfa4-87c6-433e-8175-0cf82842c8d8	Bifidobacterium breve	Bifidobacterium breve	ARO:3000190|tetO	group tet-6	93.73	271	333
+3ed8bb92-bee5-4ea6-8692-d869a76f0755	Bifidobacterium breve	Bacteria	ARO:3000190|tetO	group tet-6	91.69	397	94
+ba046325-ccc7-4d51-a82c-ad74534ae8e6	Bifidobacterium breve	Bacteria	ARO:3000190|tetO	group tet-6	91.56	237	193
+c537096a-80ff-4a12-b662-23042c260551	Bifidobacterium breve	Bifidobacterium	ARO:3003359|Streptomyces	Streptomyces	83.08	130	312
+438e8551-23e7-48c2-86b1-f433cf86246c	Bifidobacterium breve	Bacteria	ARO:3000190|tetO	group tet-6	93.03	330	356
+e6a4bc75-fa42-4eb8-af92-d7b79f7d1b5e	Megasphaera elsdenii	Bacteria	ARO:3000190|tetO	group tet-6	95.72	187	105
+585ae7ae-f5ab-4001-ab66-b25f03f57914	Bifidobacterium breve	Bifidobacterium bifidum	ARO:3003730|Bifidobacterium ileS	ileS	94.21	259	209
+552945ed-f36e-4f4d-bb54-616d4e0dfb03	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	81.19	202	113
+6450e6c7-8279-4205-9aa9-131b70f27612	Streptococcus suis	Bacteria	ARO:3000190|tetO	group tet-6	89.3	1065	564
+3dd542bc-07ed-4afc-8df1-a7af28d85e5a	Bifidobacterium breve	Bifidobacterium	ARO:3003730|Bifidobacterium ileS	ileS	89.22	167	306
+19d88935-3b2c-4b3f-b51c-98d921da75cf	Bifidobacterium breve	Bacteria	ARO:3000190|tetO	group tet-6	96.04	202	241
+811f0f76-d174-441e-8181-1f507daea4d5	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	81.33	332	229
+631be24d-6779-4152-bcef-2b0a6afa9932	Bifidobacterium breve	Bifidobacterium	ARO:3000190|tetO	group tet-6	91.19	261	254
+2e29e969-80b1-4847-81ea-e0c02110fd61	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	87.06	201	242
+a009f005-d2b1-457c-a38d-865fc0779f9f	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	80.41	194	213
+11259d19-8aed-4b86-8648-17a841a06f57	Uncultured bacterium	Bacteria	ARO:3000190|tetO	group tet-6	90.62	224	337
+3843921f-ca78-4763-9734-df69b5498a80	Bifidobacterium breve	Bacteria	ARO:3000190|tetO	group tet-6	85.66	279	155
+e79bb550-c34d-4d37-8ce7-14a9224dceb7	Bifidobacterium breve	Enterobacteriaceae	ARO:3000309|emrD	emrD	88.61	237	225
+6d6568ff-4caa-42c5-aa89-7ecf7b2a78e9	Bifidobacterium breve	Bifidobacterium breve	ARO:3003318|Streptomyces	Streptomyces	77.08	192	87
+1352b529-3386-4ec3-aa6f-2c26362acc77	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	84.92	179	212
+670291d2-6b7e-42f3-b407-48f6243e9b13	Bifidobacterium breve	Bacteria	ARO:3000190|tetO	group tet-6	87.84	255	209
+9ecce9e4-f539-4c16-b14b-5201f286f9e4	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	81.96	194	412
+621bcfc6-4d78-465e-84ee-2f01771d22ee	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	85.86	403	309
+2c9383fd-c700-45dd-ab8b-6cc793a087bc	Bifidobacterium breve	Bifidobacterium	ARO:3000190|tetO	group tet-6	87.26	212	382
+e8e60ad4-e21c-44cf-a586-39dd5aefad34	Bifidobacterium breve	Bifidobacterium	ARO:3000190|tetO	group tet-6	94.29	105	1479
+612956dd-debf-4205-a972-b865e47fb3fd	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	83.1	284	227
+0e547652-8354-4775-9137-97343ce7649a	Escherichia coli	Bacteria	ARO:3003844|mfd	mfd	91.07	291	700
+0e547652-8354-4775-9137-97343ce7649a	Escherichia coli	Bacteria	ARO:3003844|mfd	mfd	86.36	132	990
+88d8d675-6337-44d4-83a5-13d300a01dfc	Bifidobacterium breve	Bacteria	ARO:3000190|tetO	group tet-6	87.3	244	127
+7a4d8eee-a11d-4153-9270-71f45730e8c5	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	78.73	362	76
