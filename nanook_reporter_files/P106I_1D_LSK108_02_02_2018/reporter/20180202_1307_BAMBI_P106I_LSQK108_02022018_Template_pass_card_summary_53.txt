@@ -1,0 +1,7 @@
+Rank,Count,ID,Name,Description
+1,20,gb|NC_014638|-|1610636-1613960|ARO:3003730|Bifidobacteria,"Bifidobacteria intrinsic ileS conferring resistance to mupirocin","Bifidobacteria have an intrinsically resistant form of ileS (isoleucyl-tRNA synthetase) that confers resistance to mupirocin."
+2,18,gb|M18896|+|0-1920|ARO:3000190|tetO,tetO,"TetO is a ribosomal protection protein. It is associated with conjugative plasmids."
+3,4,gb|AB091338|+|173-1355|ARO:3003551|emeA,emeA,"A multidrug efflux pump from Enterococcus faecalis. There exist efflux activity of several antimicrobial agents such as DAPI, Hoechst 33342 and acriflavine. Efflux of DAPI via EmeA was strongly inhibited by reserpine."
+4,2,gb|AM180355|+|600033-601953|ARO:3000186|tetM,tetM,"TetM is a ribosomal protection protein that confers tetracycline resistance. It is found on transposable DNA elements and its horizontal transfer between bacterial species has been documented."
+5,1,gb|AF028811|+|0-462|ARO:3002875|dfrE,dfrE,"dfrE is a chromosome-encoded dihydrofolate reductase found in Enterococcus faecalis"
+6,1,gb|L12710|+|0-549|ARO:3002556|AAC(6')-Ii,AAC(6')-Ii,"AAC(6')-Ii is a chromosomal-encoded aminoglycoside acetyltransferase in Enterococcus spp."

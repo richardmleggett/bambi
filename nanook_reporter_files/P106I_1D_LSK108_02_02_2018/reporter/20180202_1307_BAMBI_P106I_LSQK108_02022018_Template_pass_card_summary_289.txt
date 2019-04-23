@@ -1,0 +1,13 @@
+Rank,Count,ID,Name,Description
+1,111,gb|NC_014638|-|1610636-1613960|ARO:3003730|Bifidobacteria,"Bifidobacteria intrinsic ileS conferring resistance to mupirocin","Bifidobacteria have an intrinsically resistant form of ileS (isoleucyl-tRNA synthetase) that confers resistance to mupirocin."
+2,93,gb|M18896|+|0-1920|ARO:3000190|tetO,tetO,"TetO is a ribosomal protection protein. It is associated with conjugative plasmids."
+3,8,gb|AB091338|+|173-1355|ARO:3003551|emeA,emeA,"A multidrug efflux pump from Enterococcus faecalis. There exist efflux activity of several antimicrobial agents such as DAPI, Hoechst 33342 and acriflavine. Efflux of DAPI via EmeA was strongly inhibited by reserpine."
+4,6,gb|AY587982|+|309-1806|ARO:3000300|lsaA,lsaA,"LsaA is an ABC efflux pump expressed in Enterococcus faecalis. It confers resistance to clindamycin, quinupristin-dalfopristin, and dalfopristin."
+5,4,gb|AM180355|+|600033-601953|ARO:3000186|tetM,tetM,"TetM is a ribosomal protection protein that confers tetracycline resistance. It is found on transposable DNA elements and its horizontal transfer between bacterial species has been documented."
+6,3,gb|AF235050.4|+|38028-40140|ARO:3003318|Streptomyces,"Streptomyces rishiriensis parY mutant conferring resistance to aminocoumarin","point mutation on the Streptomyces rishiriensis parY resulting in aminocoumarin resistance"
+7,2,gb|AB566411|+|0-1545|ARO:3003046|qacA,qacA,"qacA is a subunit of the qac multidrug efflux pump"
+8,1,gb|X98831.1|+|361-1555|ARO:3003359|Streptomyces,"Streptomyces cinnamoneus EF-Tu mutants conferring resistance to elfamycin","Sequence variants of Streptomyces cinnamoneus elongation factor Tu that confer resistance to elfamycin antibiotics."
+9,1,gb|NC_013342.1|-|26737-27499|ARO:3003905|ANT(4')-Ib,ANT(4')-Ib,"Kanamycin nucleotidyltransferase sequence from Staphylococcus aureus plasmid. Confers resistance to kanamycin, neomycin and other aminoglycosides"
+10,1,gb|AF028811|+|0-462|ARO:3002875|dfrE,dfrE,"dfrE is a chromosome-encoded dihydrofolate reductase found in Enterococcus faecalis"
+11,1,gb|AF313494|+|0-1479|ARO:3002819|msrC,msrC,"msrC is a chromosomal-encoded ABC-efflux pump expressed in Enterococcus faecium that confers resistance to erythromycin and other macrolide and streptogramin B antibiotics."
+12,1,gb|L12710|+|0-549|ARO:3002556|AAC(6')-Ii,AAC(6')-Ii,"AAC(6')-Ii is a chromosomal-encoded aminoglycoside acetyltransferase in Enterococcus spp."

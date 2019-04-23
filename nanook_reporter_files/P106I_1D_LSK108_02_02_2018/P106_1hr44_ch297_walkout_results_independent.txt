@@ -1,0 +1,81 @@
+ReadId	HostTopHit	HostLCAHit	CARDHit	CARDGroup	PercentID	Length	Distance
+2522d729-aad8-4cbc-b289-b550781df890	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	79.9	383	63
+ba745347-46b3-49a1-bf5b-5b930300780b	Enterococcus faecalis	Enterococcus	ARO:3003551|emeA	group bmr-eme-1	86.61	112	377
+40b82906-f1ac-4c10-b8bf-37579c2f175a	Campylobacter coli	Bacteria	ARO:3000190|tetO	group tet-6	87.58	459	53
+077cb488-1287-40de-a69f-7e9cf92ef49d	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	82.69	335	55
+dfd311d2-d5ec-4fd9-b68e-ff44e844bf18	Campylobacter coli	Bacteria	ARO:3000190|tetO	group tet-6	84.55	369	259
+119236da-7529-4f08-9516-914288b763fa	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	85.1	839	500
+b3fb9bc3-6d96-4a3e-933d-60b0b1d1ca2e	Enterococcus faecalis	Enterococcus faecalis	ARO:3003551|emeA	group bmr-eme-1	80.42	337	113
+364559a9-7403-4a43-9c8c-3e5a31b30e95	Campylobacter jejuni	Bacteria	ARO:3000190|tetO	group tet-6	89.82	452	117
+fca72ba2-817f-4ca3-8a71-a1a0c16b1a12	Bifidobacterium bifidum	Bifidobacterium bifidum	ARO:3003551|emeA	group bmr-eme-1	93.25	252	318
+02e199f6-02a6-42cd-ab57-2ffde1af3413	Streptococcus suis	Bacteria	ARO:3000190|tetO	group tet-6	90.36	197	406
+e6a0bf51-85f5-4490-85e6-01254e237ff3	Streptococcus suis	Bacteria	ARO:3000190|tetO	group tet-6	88.35	103	575
+061ff935-04cd-4016-a9e1-75e37807563f	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	85.59	347	82
+e15b0a71-bd05-41aa-b10b-b07033330f3a	Campylobacter coli	Bacteria	ARO:3000190|tetO	group tet-6	89.37	395	314
+d1fbca5c-a8ee-4e38-b896-c4097f38903e	Enterococcus faecium	Enterococcus faecium	ARO:3002556|AAC(6')-Ii	group AAC-10	94.44	126	500
+fed18c77-73e8-459b-8b43-b4e5003e34c3	Bifidobacterium bifidum	Bifidobacterium bifidum	ARO:3003730|Bifidobacterium ileS	ileS	83.07	313	374
+47aa7424-f833-49ef-96ff-f4ac5bfb9fff	Enterococcus faecalis	Enterococcus	ARO:3002875|dfrE	dfrE	89.31	393	52
+4ebda9f3-e591-48ee-9218-a0b710968d80	Bifidobacterium bifidum	Bifidobacterium bifidum	ARO:3003730|Bifidobacterium ileS	ileS	93.02	387	341
+053f8e68-55af-4def-b110-9fda89227f59	Peptoclostridium difficile	Firmicutes	ARO:3000186|tetM	group tet-6	85.71	329	267
+5fcd3105-e33c-46b1-a891-0b755884eb0a	Bifidobacterium bifidum	Bifidobacterium bifidum	ARO:3003730|Bifidobacterium ileS	ileS	87.9	248	270
+c3f3191a-4e1b-4f74-934e-a041bcb34d03	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	83.96	293	157
+c54e7980-06e3-465a-88a0-9a3c2889ee0d	Bifidobacterium bifidum	Bifidobacterium bifidum	ARO:3003730|Bifidobacterium ileS	ileS	90.89	867	171
+c54e7980-06e3-465a-88a0-9a3c2889ee0d	Bifidobacterium bifidum	Bifidobacterium bifidum	ARO:3003730|Bifidobacterium ileS	ileS	89.14	175	847
+33499b16-3583-4c28-a73d-fd27ea0f2a58	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	80.54	221	153
+aef6d60a-54d8-44d0-bd7b-db39d112599f	Bifidobacterium bifidum	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	83.03	495	246
+29f5ec5e-93d6-4986-a0a5-299d2fd0fe2b	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	80.53	714	70
+86ec9743-aeeb-434f-8ecc-0c9eb5252daa	Bifidobacterium bifidum	Bifidobacterium bifidum	ARO:3003318|Streptomyces	Streptomyces	77.37	380	345
+b82fda24-97ae-432d-8047-5a211c0019b6	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	78.99	376	557
+87e81595-f836-4939-8582-9e92d61e335e	Bifidobacterium breve	Bacteria	ARO:3000190|tetO	group tet-6	92.73	275	261
+9840a6ee-c528-42a6-bcc0-5a2d68e1d1f3	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	83.58	201	234
+75066983-8a0d-48fc-86ea-fd1698c03cc9	Bifidobacterium longum	Bacteria	ARO:3000190|tetO	group tet-6	91.16	294	145
+1d4be7bb-e388-43e4-8b1a-696f50d60f5a	Megasphaera elsdenii	Bacteria	ARO:3000190|tetO	group tet-6	91.76	255	106
+855731a8-2511-4f62-9ce9-55c0456047b2	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	83.11	527	678
+0488225d-43e0-4616-ad26-a709f864cf45	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	91.04	212	456
+e3fd7938-47ef-469b-914d-2d592b5a878b	Roseburia intestinalis	Bacteria	ARO:3000190|tetO	group tet-6	88.71	363	508
+230e2407-52f2-40eb-86e4-869d07966ee0	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	80.95	651	427
+d3eeb2fb-fb3c-4721-af3e-7a818f974c91	Enterococcus faecalis	Firmicutes	ARO:3000186|tetM	group tet-6	90.54	539	180
+c8b83567-9735-452f-89c3-a8de494880ea	Bifidobacterium breve	Bifidobacterium breve	ARO:3000190|tetO	group tet-6	90.45	199	298
+18853774-9697-4588-aab1-96abaa9a804a	Campylobacter jejuni	Bacteria	ARO:3000190|tetO	group tet-6	86.38	690	68
+432792ba-5ef8-4451-955d-4d4db504b931	Staphylococcus aureus	Bacillales	ARO:3003905|ANT(4')-Ib	ANT(4')-Ib	94.86	292	332
+0de9133f-e2d7-4f86-b268-2301732f98de	Megasphaera elsdenii	Bacteria	ARO:3000190|tetO	group tet-6	92.64	163	440
+1e9fe359-05f5-4040-bd91-31d19fbf3177	Campylobacter jejuni	Bacteria	ARO:3000190|tetO	group tet-6	89.1	156	227
+8e5c588a-a3ce-418b-b655-938fe7c90eb5	Peptoclostridium difficile	Bacteria	ARO:3000186|tetM	group tet-6	92.78	277	129
+044cf975-d6bd-45a0-a2a0-69ff80fb1a9c	Uncultured bacterium	Bacteria	ARO:3000190|tetO	group tet-6	86.57	134	224
+5910cd9f-2f85-4cc4-a37c-f2b21e8eb27f	Enterococcus faecalis	Enterococcus	ARO:3000300|lsaA	lsaA	82.27	440	524
+ee77c9ed-e318-470c-9747-9bd8fde73812	Campylobacter jejuni	Bacteria	ARO:3000190|tetO	group tet-6	90.07	141	607
+56116a5b-d06d-4ef8-9fd7-943d5b80c6db	Enterococcus faecalis	Enterococcus	ARO:3003551|emeA	group bmr-eme-1	92.51	307	116
+cff30703-95cf-4ac0-a1cb-0b643011bed3	Streptococcus suis	Bacteria	ARO:3000190|tetO	group tet-6	90.09	222	622
+876ad116-6b67-4a67-b3b8-b2440048c6f7	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	83.19	226	678
+c7167c96-3646-490d-bdb0-fea1369d92f4	Enterococcus faecalis	Enterococcus	ARO:3000190|tetO	group tet-6	89.91	228	439
+793ba5e8-3ff1-4a75-87fb-17477f2c4782	Streptococcus suis	Bacteria	ARO:3000190|tetO	group tet-6	82.64	144	504
+387990ad-9ee0-4c11-b857-e11dc19a5f74	Megasphaera elsdenii	Bacteria	ARO:3000190|tetO	group tet-6	93.82	178	387
+20d1c45a-cb60-41fe-bdf3-35c0203501eb	Bifidobacterium breve	Bifidobacterium breve	ARO:3003318|Streptomyces	Streptomyces	76.88	173	300
+be5b832c-af94-43d6-9931-e7d3450a86fc	Bifidobacterium bifidum	Bifidobacterium bifidum	ARO:3000300|lsaA	lsaA	87.61	226	509
+386edaff-3c47-48b9-9c7d-4eaf9abf28d3	Campylobacter jejuni	Bacteria	ARO:3000190|tetO	group tet-6	86.27	670	275
+9c07c5c1-4e3b-4aed-8cdc-b8d21dcee0bb	Campylobacter jejuni	Bacteria	ARO:3000190|tetO	group tet-6	89.22	371	78
+18a725f3-ae42-4221-a5af-52f9c70397f3	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	85.53	636	514
+5d87e7b2-6410-4c54-b439-a964727ea006	Bifidobacterium breve	Bifidobacterium breve	ARO:3003359|Streptomyces	Streptomyces	71.8	532	121
+5eeb5644-068d-4be0-9601-96a0069d72fc	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	80.0	515	219
+0f702a76-7e66-4db3-970a-d1dddf04bd8e	Clostridium cellulovorans	Bacteria	ARO:3000190|tetO	group tet-6	83.03	277	187
+f664dfda-842d-410a-95ec-ac1d137d6f15	Bifidobacterium breve	Bifidobacterium breve	ARO:3000190|tetO	group tet-6	90.66	396	621
+7af82613-0820-4d72-abf5-72a486f01971	Megasphaera elsdenii	Bacteria	ARO:3000190|tetO	group tet-6	92.71	247	77
+eb2b8491-85de-470a-84ef-33d5c221a8ab	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	83.29	419	54
+4dcbc305-ce77-45a8-bc17-ba11209a9ba5	Megasphaera elsdenii	Bacteria	ARO:3000190|tetO	group tet-6	92.53	241	372
+56c26236-0bc9-4918-bd97-d8796dcf7816	Campylobacter jejuni	Bacteria	ARO:3000190|tetO	group tet-6	89.76	537	249
+31376f4c-2a13-4501-b4de-42e7c74bcc6a	Mobiluncus curtisii	Bacteria	ARO:3000190|tetO	group tet-6	91.79	1157	118
+edb3785f-6147-4063-b8e5-94d373279979	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	80.92	346	70
+9a5d54ab-c1f9-48b8-a989-65af3a9d020f	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	84.48	406	54
+1612600b-ee7e-4cb7-9920-80503b224773	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	81.54	298	294
+f51ae2a1-1abb-4b2f-b193-fbf79b33806f	Megasphaera elsdenii	Bacteria	ARO:3000190|tetO	group tet-6	90.28	144	231
+853e90eb-9091-4f88-9bbf-61dc4eb1aa3e	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	81.5	400	155
+b8d02aae-1cab-46a2-8522-b4c699209826	Enterococcus faecalis	Enterococcus	ARO:3003551|emeA	group bmr-eme-1	91.18	465	235
+4e186750-7e79-4780-8119-227111698d29	Campylobacter jejuni	Bacteria	ARO:3000190|tetO	group tet-6	89.24	288	344
+c4f8cdc2-0d7e-47b9-9b1e-a64b196cb527	Enterococcus faecalis	Enterococcus	ARO:3000300|lsaA	lsaA	87.8	205	161
+3d9f0d99-b343-4df0-9ad6-bbd578a5cdff	Bifidobacterium breve	Bifidobacterium breve	ARO:3003730|Bifidobacterium ileS	ileS	84.57	363	66
+9ab140ad-b682-405a-82b8-5445801071ac	Streptococcus suis	Bacteria	ARO:3000190|tetO	group tet-6	89.32	384	433
+a43404c9-550d-4d55-8109-37cee5560b3d	Megasphaera elsdenii	Bacteria	ARO:3000190|tetO	group tet-6	87.06	255	183
+bd71b923-9813-4b0d-900e-0f3be2f7c436	Bifidobacterium bifidum	Bifidobacterium bifidum	ARO:3003318|Streptomyces	Streptomyces	85.37	123	828
+dd8bb203-9756-4a3c-b563-286c0638034a	Bifidobacterium bifidum	Bifidobacterium bifidum	ARO:3003730|Bifidobacterium ileS	ileS	83.47	248	194
+4abb2c82-3c55-4f4b-82c2-6f00c4208ca3	Uncultured bacterium	Bacteria	ARO:3000190|tetO	group tet-6	88.79	223	103
+46d8d7b6-0002-4f4b-a927-48d6f61bb365	Bifidobacterium breve	Bifidobacterium breve	ARO:3000190|tetO	group tet-6	88.83	788	758

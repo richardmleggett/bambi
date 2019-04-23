@@ -1,0 +1,8 @@
+Group	Name
+G1	Elfamycin resistance
+G2	Trimethoprim resistance
+G3	Aminoglycoside resistance
+G4	Aminocoumarin resistance
+G5	Multidrug efflux pump
+G6	Tetracycline resistance
+G7	Mupirocin resistance
