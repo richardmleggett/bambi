@@ -1,0 +1,316 @@
+Rank	Count	ID	Name	Description			Group			
+1	72	gb	DQ679966	+	1515-4662	ARO:3000216	Multidrug efflux pump	acrB	acrB	Protein subunit of AcrA-AcrB-TolC multidrug efflux complex. AcrB functions as a herterotrimer which forms the inner membrane component and is primarily responsible for substrate recognition and energy transduction by acting as a drug/proton antiporter.
+2	72	gb	X98831.1	+	361-1555	ARO:3003359	elfamycin resistance	Streptomyces	Streptomyces cinnamoneus EF-Tu mutants conferring resistance to elfamycin	Sequence variants of Streptomyces cinnamoneus elongation factor Tu that confer resistance to elfamycin antibiotics.
+3	66	gb	NC_010378.1	+	47850-51003	ARO:3003923	Multidrug efflux pump	oqxB	oqxB	RND efflux pump conferring resistance to fluoroquinolone
+4	66	gb	NC_000913.3	+	3219493-3220873	ARO:3000024	Fluoroquinolone resistance	patA	patA	PatA is an ABC transporter of Streptococcus pneumoniae that interacts with PatB to confer fluoroquinolone resistance.
+5	63	gb	NC_000913.3	-	1170517-1173964	ARO:3003844	Fluoroquinolone resistance	mfd	mfd	"mfd dissociates transcription elongation complexes blocked at nonpairing lesions and mediates recruitment of DNA repair proteins. The Mfd (mutation frequency decline) protein, also known as transcription-repair coupling factor, is responsible for ATP-dependent removal of stalled RNA polymerase from DNA lesions by inducing forward movement of the RNA polymerase and subsequent recruitment of nucleotide excision repair machinery to the sites of the lesions."
+6	61	gb	NC_000913.3	-	2819380-2822011	ARO:3003830	Aminocoumarin resistance	aminocoumarin	aminocoumarin resistant alaS	alanyl-tRNA synthetase conferring resistance to novobiocin in Escherichia coli
+7	57	gb	NC_007779	+	2586250-2589364	ARO:3000491	Aminoglycoside resistance	acrD	acrD	"AcrD is an aminoglycoside efflux pump expressed in E. coli. Its expression can be induced by indole, and is regulated by baeRS and cpxAR."
+8	55	gb	AY768532	+	0-1935	ARO:3000535	Multidrug efflux pump	macB	macB	MacB is an ATP-binding cassette (ABC) transporter that exports macrolides with 14- or 15- membered lactones. It forms an antibiotic efflux complex with MacA and TolC.
+9	51	gb	U00096	+	3415032-3418137	ARO:3000502	Multidrug efflux pump	acrF	acrF	"AcrF is a inner membrane transporter, similar to AcrB."
+10	45	gb	U00096	+	2155262-2158385	ARO:3000793	Aminocoumarin resistance	mdtB	mdtB	MdtB is a transporter that forms a heteromultimer complex with MdtC to form a multidrug transporter. MdtBC is part of the MdtABC-TolC efflux complex.
+11	45	gb	U00096	+	2812615-2814154	ARO:3000074	Fluoroquinolone resistance	emrB	emrB	"emrB is a translocase in the emrB -TolC efflux protein in E. coli. It recognizes substrates including carbonyl cyanide m-chlorophenylhydrazone (CCCP), nalidixic acid, and thioloactomycin."
+12	45	gb	KU302801	+	102199-102430	ARO:3002831	Multidrug efflux pump	vgaC	vgaC	vgaC is an efflux protein expressed in staphylococci that confers resistance to streptogramin A antibiotics and related compounds. It is associated with plasmid DNA.
+13	38	gb	GG749185.1	+	116812-118003	ARO:3000309	Multidrug efflux pump	emrD	emrD	EmrD is a multidrug transporter from the Major Facilitator Superfamily (MFS) primarily found in Escherichia coli. EmrD couples efflux of amphipathic compounds with proton import across the plasma membrane.
+14	37	gb	NC_002695	-	1737553-1737967	ARO:3000676	Multidrug efflux pump	H-NS	H-NS	"H-NS is a histone-like protein involved in global gene regulation in Gram-negative bacteria. It is a repressor of the membrane fusion protein genes acrE, mdtE, and emrK as well as nearby genes of many RND-type multidrug exporters."
+15	37	gb	AP009048	-	4153663-4154296	ARO:3000518	Multidrug efflux pump	CRP	CRP	CRP is a global regulator that represses MdtEF multidrug efflux pump expression.
+16	37	gb	JQ727667	+	0-870	ARO:3000825	Multidrug efflux pump	robA	robA	"robA is a positive regulator for the acrAB efflux genes, and is structurally similar to SoxS and MarA."
+17	36	gb	U00096	-	4567286-4568519	ARO:3001214	Multidrug efflux pump	mdtM	mdtM	Multidrug resistance protein MdtM
+18	36	gb	NC_002695	-	4903561-4904935	ARO:3000830	Multidrug efflux pump	cpxA	cpxA	"CpxA is a membrane-localized sensor kinase that is activated by envelope stress. It starts a kinase cascade that activates CpxR, which promotes efflux complex expression."
+19	36	gb	NC_007779	-	1115840-1117067	ARO:3001329	Multidrug efflux pump	mdtG	mdtG	Efflux protien mdtG.
+20	35	gb	U00096	-	1124117-1125326	ARO:3001216	Fluoroquinolone resistance	mdtH	mdtH	Multidrug resistance protein MdtH
+21	34	gb	U00096	-	3203309-3204131	ARO:3002986	Bacitracin resistance	bacA	bacA	bacA is a gene that recycles undecaprenyl pyrophosphate during cell wall biosynthesis which confers resistance to bacitracin
+22	34	gb	FJ768952	+	0-1488	ARO:3000237	Multidrug efflux pump	tolC	tolC	TolC is a protein subunit of many multidrug efflux complexes in Gram negative bacteria. It is an outer membrane efflux protein and is constitutively open. Regulation of efflux activity is often at its periplasmic entrance by other components of the efflux complex.
+23	33	gb	AJ252200	+	1278-4401	ARO:3003056	Multidrug efflux pump	smeE	smeE	smeE is the RND protein of the efflux complex smeDEF in Stenotrophomonas maltophilia
+24	32	gb	NC_000913.3	+	1333854-1334829	ARO:3003840	Aminocoumarin resistance	aminocoumarin	aminocoumarin resistant cysB	"Positive regulator of gene expression in the cysteine regulon. cysB mutants confer resistance to novobiocin, an aminocoumarin antibiotic, in Escherichia coli."
+25	31	gb	KP143090	-	1199-1619	ARO:3003209	fosfomycin resistance	FosA5	FosA5	"fosA5 is a fosfomycin resistance gene isolated from clinical strain of Escherichia coli E265. It is susceptible to amikacin, tetracycline and imipenem, and resistant to sulphonamide, cephalosporins, gentamicin, ciprofloxacin, chloramphenicol and streptomycin"
+26	31	gb	U00096	+	2158385-2161463	ARO:3000794	Aminocoumarin resistance	mdtC	mdtC	"MdtC is a transporter that forms a heteromultimer complex with MdtB to form a multidrug transporter. MdtBC is part of the MdtABC-TolC efflux complex. In the absence of MdtB, MdtC can form a homomultimer complex that results in a functioning efflux complex with a narrower drug specificity."
+27	31	gb	JQ394987	+	0-1233	ARO:3001328	Multidrug efflux pump	mdfA	mdfA	Multidrug translocase MdfA
+28	31	gb	U00096	+	3891614-3892790	ARO:3001215	Multidrug efflux pump	mdtL	mdtL	Multidrug resistance protein MdtL
+29	28	gb	U00096	+	2367070-2368039	ARO:3003578	polymyxin resistance	PmrF	PmrF	"PmrF is required for the synthesis and transfer of 4-amino-4-deoxy-L-arabinose (Ara4N) to Lipid A, which allows gram-negative bacteria to resist the antimicrobial activity of cationic antimicrobial peptides and antibiotics such as polymyxin"
+30	27	gb	NC_010378.1	+	46651-47827	ARO:3003922	Multidrug efflux pump	oqxA	oqxA	RND efflux pump conferring resistance to fluoroquinolone
+31	27	gb	NC_000913.3	-	721055-721733	ARO:3003841	Aminoglycoside resistance	kdpE	kdpE	kdpE is a transcriptional activator that is part of the two-component system KdpD/KdpE that is studied for its regulatory role in potassium transport and has been identified as an adaptive regulator involved in the virulence and intracellular survival of pathogenic bacteria. kdpE regulates a range of virulence loci through direct promoter binding.
+32	26	gb	NC_000913.3	+	84367-85312	ARO:3003843	Multidrug efflux pump	leuO	leuO	"leuO, a LysR family transcription factor, exists in a wide variety of bacteria of the family Enterobacteriaceae and is involved in the regulation of as yet unidentified genes affecting the stress response and pathogenesis expression."
+33	26	gb	U00096	+	2161463-2162879	ARO:3001330	Multidrug efflux pump	mdtD	mdtD	Efflux pump mdtD
+34	26	gb	NC_002516.2	+	3982020-3984009	ARO:3002985	polymyxin resistance	arnA	arnA	arnA modifies lipid A with 4-amino-4-deoxy-L-arabinose (Ara4N) which allows gram-negative bacteria to resist the antimicrobial activity of cationic antimicrobial peptides and antibiotics such as polymyxin. arnA is found in E. coli and P. aeruginosa.
+35	25	gb	U00096	-	2098446-2099613	ARO:3003577	polymyxin resistance	PmrE	PmrE	"PmrE is required for the synthesis and transfer of 4-amino-4-deoxy-L-arabinose (Ara4N) to Lipid A, which allows gram-negative bacteria to resist the antimicrobial activity of cationic antimicrobial peptides and antibiotics such as polymyxin"
+36	25	gb	AP009048	-	4338624-4340268	ARO:3003576	polymyxin resistance	PmrC	PmrC	"PmrC mediates the modification of Lipid A by the addition of 4-amino-4-deoxy-L-arabinose (L-Ara4N) and phosphoethanolamine, resulting in a less negative cell membrane and decreased binding of polymyxin B."
+37	25	gb	CP014358.1	-	2161325-2162750	ARO:3001327	Multidrug efflux pump	mdtK	mdtK	"A multidrug and toxic compound extrusions (MATE) transporter conferring resistance to norfloxacin, doxorubicin and acriflavine."
+38	25	gb	L36601	+	1420-3130	ARO:3003036	Macrolide resistance	oleB	oleB	oleB is an ABC transporter in Streptomyces antibioticus and is involved in oleandomycin secretion
+39	24	gb	U46859	-	22365-24057	ARO:3003049	Multidrug efflux pump	rosB	rosB	rosB is a potassium antiporter in Yersinia that confers resistance to cationic antimicrobial peptides such as polymyxin B
+40	23	gb	L11616	+	1569-4710	ARO:3000378	Multidrug efflux pump	mexB	mexB	MexB is the inner membrane multidrug exporter of the efflux complex MexAB-OprM.
+41	22	gb	AF173226	-	351-1041	ARO:3003066	Multidrug efflux pump	smeR	smeR	smeR is the responder component of a two component signal transduction system that includes smeS
+42	22	gb	M80346	+	0-1656	ARO:3002817	Macrolide resistance	carA	carA	carA is an ABC transporter involved in macrolide resistance. It is found in Streptomyces thermotolerans
+43	22	gb	JQ727668	+	0-375	ARO:3000823	Multidrug efflux pump	ramA	ramA	"RamA (""resistance antibiotic multiple"") is a positive regulator of AcrAB-TolC and leads to high level multidrug resistance in Klebsiella pneumoniae, Salmonella enterica, and Enterobacter aerugenes, increasing the expression of both the mar operon as well as AcrAB. RamA also decreases OmpF expression."
+44	21	gb	AB219524.1	+	1176-4338	ARO:3003699	Multidrug efflux pump	mexQ	mexQ	MexQ is the inner membrane transporter of the multidrug efflux pump MexPQ-OpmE.
+45	21	gb	AF235050.4	+	38028-40140	ARO:3003318	Aminocoumarin resistance	Streptomyces	Streptomyces rishiriensis parY mutant conferring resistance to aminocoumarin	point mutation on the Streptomyces rishiriensis parY resulting in aminocoumarin resistance
+46	19	gb	U00096	+	2368038-2370021	ARO:3002985	polymyxin resistance	arnA	arnA	arnA modifies lipid A with 4-amino-4-deoxy-L-arabinose (Ara4N) which allows gram-negative bacteria to resist the antimicrobial activity of cationic antimicrobial peptides and antibiotics such as polymyxin. arnA is found in E. coli and P. aeruginosa.
+47	19	gb	U00096	+	3413863-3415021	ARO:3000499	Multidrug efflux pump	acrE	acrE	"AcrE is a membrane fusion protein, similar to AcrA."
+48	19	gb	U00096	+	2154015-2155263	ARO:3000792	Aminocoumarin resistance	mdtA	mdtA	MdtA is the membrane fusion protein of the multidrug efflux complex mdtABC.
+49	19	gb	AP009048	-	4306556-4307588	ARO:3003548	Multidrug efflux pump	mdtN	mdtN	"Multidrug resistance efflux pump. Could be involved in resistance to puromycin, acriflavine and tetraphenylarsonium chloride."
+50	19	gb	NC_007779	+	1621287-1621671	ARO:3000263	Multidrug efflux pump	marA	marA	"In the presence of antibiotic stress, E. coli overexpresses the global activator protein MarA, which besides inducing MDR efflux pump AcrAB, also down- regulates synthesis of the porin OmpF."
+51	18	gb	X63451	+	0-1653	ARO:3002828	Macrolide resistance	srmB	srmB	srmB is an efflux pump found in Streptomyces ambofaciens that confers resistance to spiramycin
+52	18	gb	NC_003197	-	2039657-2040380	ARO:3000826	Multidrug efflux pump	sdiA	sdiA	"SdiA is a cell division regulator that is also a positive regulator of AcrAB only when it's expressed from a plasmid. When the sdiA gene is on the chromosome, it has no effect on expression of acrAB"
+53	18	gb	NC_007779	+	2166412-2167135	ARO:3000828	Multidrug efflux pump	baeR	baeR	BaeR is a response regulator that promotes the expression of MdtABC and AcrD efflux complexes.
+54	17	gb	NC_002516.2	+	179521-182569	ARO:3003681	Multidrug efflux pump	TriC	TriC	"TriC is a resistance nodulation cell division (RND) transporter that is a part of TriABC-OpmH, a triclosan-specific efflux protein."
+55	17	gb	M57437	+	0-1647	ARO:3002827	Multidrug efflux pump	tlrC	tlrC	"tlrC is an efflux pump found in Streptomyces fradiae and confers resistance to mycinamicin, tylosin and lincosamides. tlrC is found in the tylosin biosynthetic cluster and is one mechanism by which S. fradiae protects itself from self-destruction when producing this macrolide."
+56	17	gb	AF173226	+	3767-6917	ARO:3003052	Multidrug efflux pump	smeB	smeB	smeB is the inner membrane multidrug exporter of the efflux complex smeABC in Stenotrophomonas maltophilia
+57	17	gb	NC_002695	+	3211891-3212506	ARO:3000832	Multidrug efflux pump	evgA	evgA	"EvgA, when phosphorylated, is a positive regulator for efflux protein complexes emrKY and mdtEF. While usually phosphorylated in a EvgS dependent manner, it can be phosphorylated in the absence of EvgS when overexpressed."
+58	16	gb	AE004091.2	-	4116187-4119265	ARO:3003693	Multidrug efflux pump	mexK	mexK	mexK is the inner membrane resistance-nodulation-cell division (RND) transporter in the MexJK multidrug efflux protein.
+59	15	gb	NC_002516	-	2208168-2211306	ARO:3002983	Aminoglycoside resistance	amrB	amrB	amrB is the membrane fusion protein of the AmrAB-OprM multidrug efflux complex.
+60	15	gb	NC_000913.3	+	2810769-2811300	ARO:3000516	Fluoroquinolone resistance	emrR	emrR	EmrR is a negative regulator for the EmrAB-TolC multidrug efflux pump in E. coli. Mutations lead to EmrAB-TolC overexpression.
+61	13	gb	DQ679966	+	299-1493	ARO:3000207	Multidrug efflux pump	acrA	acrA	Protein subunit of AcrA-AcrB-TolC multidrug efflux complex. AcrA represents the periplasmic portion of the transport protein.
+62	13	gb	NC_007779	-	4336858-4337950	ARO:3003583	polymyxin resistance	PmrB	PmrB	Histidine protein kinase sensor Lipid A modification gene; part of a two-component system involved in polymyxin resistance that senses high extracellular Fe(2+)
+63	12	gb	AP009048	+	2165012-2166416	ARO:3000829	Multidrug efflux pump	baeS	baeS	"BaeS is a sensor kinase in the BaeSR regulatory system. While it phosphorylates BaeR to increase its activity, BaeS is not necessary for overexpressed BaeR to confer resistance."
+64	12	gb	CP012901.1	-	5979156-5980365	ARO:3003801	Multidrug efflux pump	bcr1	bcr-1	"Transmembrane protein which expels bicyclomycin from the cell, leading to bicyclomycin resistance. Identified in Pseudomonas aeruginosa strains responsible for outbreaks in Brazil, often appearing with blaSPM-1, another bicyclomycin resistance gene"
+65	11	gb	NC_002516	+	4707534-4710624	ARO:3000808	Multidrug efflux pump	mexI	mexI	MexI is the inner membrane transporter of the efflux complex MexGHI-OpmD.
+66	11	gb	AB061440	-	305-770	ARO:3002870	tetracycline resistance	tet34	tet34	"tet34 causes the activation of Mg2+-dependent purine nucleotide synthesis, which protects the protein synthesis pathway. It is found in Gram-negative Vibrio"
+67	11	gb	NC_003197	-	393892-397060	ARO:3000790	Multidrug efflux pump	mdsB	mdsB	MdsB is the inner membrane transporter of the multidrug and metal efflux complex MdsABC.
+68	11	gb	AP009048	+	2810082-2811255	ARO:3000027	Fluoroquinolone resistance	emrA	emrA	"EmrA is a membrane fusion protein, providing an efflux pathway with EmrB and TolC between the inner and outer membranes of E. coli, a Gram-negative bacterium."
+69	10	gb	U46859	-	24294-25527	ARO:3003048	polymyxin resistance	rosA	rosA	rosA is an efflux pump in Yersinia that confers resistance to cationic antimicrobial peptides such as polymyxin B
+70	10	gb	NC_002695	-	4904931-4905630	ARO:3000831	Multidrug efflux pump	cpxR	cpxR	"CpxR is a regulator that promotes acrD expression when phosphorylated by a cascade involving CpxA, a sensor kinase."
+71	10	gb	NC_002516	+	2810008-2813197	ARO:3000804	Multidrug efflux pump	mexF	mexF	MexF is the multidrug inner membrane transporter of the MexEF-OprN complex.
+72	9	gb	AF170880	+	0-1848	ARO:3002522	Aminocoumarin resistance	novA	novA	"A type III ABC transporter, identified on the novobiocin biosynthetic gene cluster, involved in the transport and resistance of novobiocin."
+73	9	gb	U57969	+	4622-6062	ARO:3000802	Multidrug efflux pump	oprJ	oprJ	OprJ is the outer membrane channel component of the MexCD-OprJ multidrug efflux complex.
+74	9	gb	NC_014638	-	1610636-1613960	ARO:3003730	Mupirocin resistance	Bifidobacteria	Bifidobacteria intrinsic ileS conferring resistance to mupirocin	Bifidobacteria have an intrinsically resistant form of ileS (isoleucyl-tRNA synthetase) that confers resistance to mupirocin.
+75	8	gb	AB219523.1	+	1175-4286	ARO:3003705	Multidrug efflux pump	mexN	mexN	MexN is the inner membrane transporter of the MexMN-OprM multidrug efflux complex.
+76	8	gb	NC_002516.2	+	4904646-4907703	ARO:3003031	Multidrug efflux pump	mexW	mexW	MexW is the RND-type membrane protein of the efflux complex MexVW-OprM.
+77	8	gb	JQ064560	+	0-1536	ARO:3000448	Fluoroquinolone resistance	qepA	qepA	"QepA is a plasmid-mediated fluoroquinolone efflux pump found in E. coli. It is regulated by sox genes, also known as global stress regulators."
+78	8	gb	NC_002516	-	5151077-5154209	ARO:3000801	Multidrug efflux pump	mexD	mexD	MexD is the multidrug inner membrane transporter of the MexCD-OprJ complex.
+79	7	gb	AP009048	-	4303042-4304509	ARO:3003550	Multidrug efflux pump	mdtP	mdtP	"Multidrug resistance efflux pump. Could be involved in resistance to puromycin, acriflavine and tetraphenylarsonium chloride"
+80	7	gb	NC_002516	+	476332-477790	ARO:3000379	Multidrug efflux pump	oprM	oprM	"OprM is an outer membrane factor protein found in Pseudomonas aeruginosa and Burkholderia vietnamiensis. It is part of the MexAB-OprM, MexVW-OprM, MexXY-OprM and the AmrAB-OprM complex."
+81	7	gb	M11587	+	879-1533	ARO:3002670	chloramphenicol resistance	cat	cat	"cat is used to describe many variants of the chloramphenicol acetyltransferase gene in a range of organisms including Acinetobacter calcoaceticus, Agrobacterium tumefaciens, Bacillus clausii, Bacillus subtilis, Campylobacter coli, Enterococcus faecalis, Enterococcus faecium, Lactococcus lactis, Listeria monocytogenes, Listonella anguillarum"
+82	7	gb	AJ252200	+	4493-5894	ARO:3003057	Multidrug efflux pump	smeF	smeF	smeF is an outer membrane multidrug efflux protein of the smeDEF complex in Stenotrophomonas maltophilia
+83	6	gb	NC_000913.3	+	484425-485619	ARO:3000207	Multidrug efflux pump	acrA	acrA	Protein subunit of AcrA-AcrB-TolC multidrug efflux complex. AcrA represents the periplasmic portion of the transport protein.
+84	6	gb	U00096	+	3660413-3663527	ARO:3000796	Multidrug efflux pump	mdtF	mdtF	MdtF is the multidrug inner membrane transporter for the MdtEF-TolC efflux complex.
+85	6	gb	AF038993	+	0-1197	ARO:3000177	tetracycline resistance	tetJ	tetJ	"TetJ is a tetracycline efflux protein expressed in Gram-negative bacteria (Escherichia, Morganella, and Proteus)."
+86	6	gb	NC_010410	-	3621491-3622283	ARO:3002601	Aminoglycoside resistance	aadA	aadA	"ANT(3'')-Ia is an aminoglycoside nucleotidyltransferase gene encoded by plasmids, transposons, integrons in Enterobacteriaceae, A. baumannii, P. aeruginosa and Vibrio cholerae"
+87	5	gb	AF079900	+	39-1731	ARO:3002892	tetracycline resistance	otrB	otrB	otrB is a tetracycline resistance efflux pump found in Streptomyces rimosus
+88	5	gb	LN515533	+	0-867	ARO:3003154	Beta-lactamase	SHV-187	SHV-187	From the Lahey list of beta-lactamases.
+89	5	gb	NC_002516	+	4710620-4712084	ARO:3000809	Multidrug efflux pump	opmD	opmD	OpmD is the outer membrane channel protein of the efflux complex MexGHI-OpmD.
+90	5	gb	AF441286	+	224-965	ARO:3000843	Beta-lactamase	MUS-1	MUS-1 beta-lactamase	MUS-1 is a chromosome-encoded beta-lactamase from Myroides odoratus and Myroides odoratimimus.
+91	5	gb	D38215	+	0-1539	ARO:3002893	tetracycline resistance	tcr3	tcr3	tcr3 is a tetracycline efflux pump that confers self-resistance to Streptomyces aureofaciens
+92	4	gb	KC539823	+	1017-2586	ARO:3002829	Multidrug efflux pump	vgaA	vgaA	vgaA is an efflux protein expressed in staphylococci that confers resistance to streptogramin A antibiotics and related compounds. It is associated with plasmid DNA.
+93	4	gb	X53401	+	0-1992	ARO:3002891	tetracycline resistance	otrA	otrA	otrA is an oxytetracycline resistance ribosomal protection protein found in Streptomyces rimosus
+94	4	gb	KF478993	+	1539-2580	ARO:3002913	Vancomycin resistance	vanO	vanO	"VanO is a D-Ala-D-Ala ligase homolog that can synthesize D-Ala-D-Lac, an alternative substrate for peptidoglycan synthesis that reduces vancomycin binding affinity. It is associated with both vancomycin and teicoplanin resistance."
+95	4	gb	AB639410	+	0-1404	ARO:3003039	Multidrug efflux pump	oprA	oprA	OprA is an outer membrane factor protein found in Pseudomonas aeruginosa. It is part of the MexXY-OprA complex.
+96	4	gb	KJ151292	+	294-2892	ARO:3000444	rifampin resistance	rifampin	rifampin phosphotransferase	The enzymatic inactivation of rifampin by phosphorylation at the 21-OH position.
+97	4	gb	U97042	+	1263-4347	ARO:3003010	Multidrug efflux pump	ceoB	ceoB	ceoB is a cytoplasmic membrane component of the CeoAB-OpcM efflux pump
+98	4	gb	KP109676	+	0-1026	ARO:3003718	Beta-lactamase	MSI-1	MSI-1	MSI-1 is a subclass B3 metallo-beta lactamase isolated from Massilia oculi conferring resistance to carbapenems.
+99	3	gb	U38944.1	+	0-1536	ARO:3003037	Multidrug efflux pump	opcM	opcM	OpcM is an outer membrane factor protein found in Burkholderia cepacia. It is part of the CeoAB-OpcM complex.
+100	3	gb	U00096	+	2484373-2487967	ARO:3000833	Multidrug efflux pump	evgS	evgS	EvgS is a sensor protein that phosphorylates the regulatory protein EvgA.
+101	3	gb	JX121119	+	0-858	ARO:3001191	Beta-lactamase	SHV-152	SHV-152	SHV-152 is a beta-lactamase.
+102	3	gb	Y00459	+	2824-3748	ARO:3002657	Aminoglycoside resistance	APH(6)-Ia	APH(6)-Ia	APH(6)-Ia is a chromosomal-encoded aminoglycoside phosphotransferase in S. griseus
+103	3	gb	AY154657	+	0-1161	ARO:3000601	Macrolide resistance	Erm(38)	Erm(38)	ErmD confers MLSb phenotype.
+104	3	gb	NC_002516	+	2813193-2814612	ARO:3000805	Multidrug efflux pump	oprN	oprN	OprN is the outer membrane channel component of the MexEF-OprN multidrug efflux complex.
+105	3	gb	HQ433550	+	0-1020	ARO:3000813	Multidrug efflux pump	mexS	mexS	"MexS is a suppressor of MexT, which is an activator of the multidrug pump MexEF-OprN. Mutations in MexS lead to multidrug resistance."
+106	3	gb	BX664015	-	204137-204554	ARO:3000168	tetracycline resistance	tetD	tetD	TetD is a tetracycline efflux pump found exclusively in Gram-negative bacteria.
+107	3	gb	AJ252200	+	81-1266	ARO:3003055	Multidrug efflux pump	smeD	smeD	smeD is the membrane fusion protein of the smeDEF multidrug efflux complex in Stenotrophomonas maltophilia
+108	3	gb	JYFL01000006.1	-	112069-113503	ARO:3002813	Lincosamide resistance	lmrB	lmrB	lmrB is a chromosomally-encoded efflux pump that confers resistance to lincosamides in Bacillus subtilis
+109	3	gb	AY264780	-	1824-3006	ARO:3000569	tetracycline resistance	tet41	tet41	"Tet41 is a tetracycline efflux pump found in Serratia, a Gram-negative bacterium.  It is related to Acinetobacter Tet(39)."
+110	3	gb	Z30177	+	348-1224	ARO:3002389	Beta-lactamase	OXY-1-1	OXY-1-1	OXY-1-1 is a beta-lactamase found in Klebsiella oxytoca
+111	3	gb	U00096	-	3412802-3413465	ARO:3000656	Multidrug efflux pump	acrS	acrS	AcrS is a repressor of the AcrAB efflux complex and is associated with the expression of AcrEF. AcrS is believed to regulate a switch between AcrAB and AcrEF efflux.
+112	3	gb	JQ768046	+	7760-9440	ARO:3001313	elfamycin resistance	facT	facT	"Efflux protein facT confers resistance to factumycin. The gene has been heterologously expressed in S. coelicolor and its function was confirmed (Thaker et al. Med. Chem. Commun. 2012, 3: 1020). It is possible that this gene can efflux other kirromycin-like elfamycins, but this has not been tested."
+113	3	gb	EU999036	+	688-1390	ARO:3002934	Glycopeptide resistance	vanSD	vanSD	vanSD is a mutated vanS variant found in the vanD gene cluster that caused constitutive expression of vanD peptidoglycan synthesis
+114	3	gb	AY079099	+	148-1009	ARO:3001096	AMR genes detected in K.pneumoniae	SHV-38	SHV-38	SHV-38 is an extended-spectrum beta-lactamase found in Klebsiella pneumoniae.
+115	3	gb	NC_002516.2	+	178454-179525	ARO:3003680	Multidrug efflux pump	TriB	TriB	TriB is a membrane protein that is fused to TriA and both are required for the triclosan efflux pump function of TriABC-OpmH in P. aeruginosa.
+116	3	gb	AB765395	+	0-1143	ARO:3002993	Beta-lactamase	AQU-1	AQU-1	AQU-1 is a chromosomal class C beta-lactamase found in clinical Aeromonas dhakensis isolates
+117	3	gb	AJ005045	+	0-876	ARO:3001870	Beta-lactamase	CTX-M-7	CTX-M-7	CTX-M-7 is a beta-lactamase found in Salmonella typhimurium
+118	3	gb	GQ244501	-	59-1619	ARO:3000573	tetracycline resistance	tet43	tet43	"Tet(43) is a tetracycline resistance gene with unknown origins, isolated from metagenomic DNA."
+119	3	gb	AM176558	+	0-861	ARO:3001137	AMR genes detected in K.pneumoniae	SHV-83	SHV-83	SHV-83 is a broad-spectrum beta-lactamase found in Klebsiella pneumoniae.
+120	3	gb	AY768531	+	0-1179	ARO:3000533	Macrolide resistance	macA	macA	MacA is a membrane fusion protein that forms an antibiotic efflux complex with MacB and TolC.
+121	2	gb	AY661734.1	+	839-2195	ARO:3000026	Multidrug efflux pump	mepA	mepA	"MepA is an efflux protein regulated by MepR and part of the MepRAB cluster. Its presence in Staphylococcus aureus led to multidrug resistance, while it has also been shown to decrease tigecycline susceptibility."
+122	2	gb	M28303	+	242-1187	ARO:3003564	Beta-lactamase	EXO	EXO beta-lactamase	Class A beta-lactamase found in Streptomyces albus G
+123	2	gb	AY077483	+	182-1055	ARO:3002392	Beta-lactamase	OXY-1-4	OXY-1-4	OXY-1-4 is a beta-lactamase found in Klebsiella oxytoca
+124	2	gb	AY587982	+	309-1806	ARO:3000300	Multidrug efflux pump	lsaA	lsaA	"LsaA is an ABC efflux pump expressed in Enterococcus faecalis. It confers resistance to clindamycin, quinupristin-dalfopristin, and dalfopristin."
+125	2	gb	NC_002516.2	+	177306-178458	ARO:3003679	triclosan resistance	TriA	TriA	TriA is a membrane protein that is fused to TriB and both are required for the triclosan efflux pump function of TriABC-OpmH in P. aeruginosa.
+126	2	gb	FJ872411	+	43513-44203	ARO:3002924	Glycopeptide resistance	vanRE	vanRE	vanRE is a vanR variant found in the vanE gene cluster
+127	2	gb	AE014292	+	568280-570923	ARO:3003772	defensin resistance	Brucella	Brucella suis mprF	"MprF is a integral membrane protein that modifies the negatively-charged phosphatidylglycerol on the membrane surface. This confers resistance to cationic peptides that disrupt the cell membrane, including defensins."
+128	2	gb	KF478993	-	6002-6704	ARO:3002930	Glycopeptide resistance	vanRO	vanRO	vanRO is a vanR variant found in the vanO gene cluster
+129	2	gb	D37826	+	1070-2195	ARO:3002812	chloramphenicol resistance	pp-flo	pp-flo	pp-flo is a plasmid chloramphenicol exporter that is found in Photobacterium damselae subsp. piscicida
+130	2	gb	AY509111	+	0-1056	ARO:3002894	tetracycline resistance	otrC	otrC	otrC is a tetracycline resistance efflux pump found in Streptomyces rimosus
+131	2	gb	AY423074	+	0-858	ARO:3001792	Beta-lactamase	OXA-62	OXA-62	OXA-62 is a beta-lactamase found in Pandoraea pnomenusa
+132	2	gb	KC693025	+	0-1626	ARO:3003749	Multidrug efflux pump	salA	salA	salA is an ABC transporter gene isolated from the chromosome of Staphylococcus sciuri conferring resistance to lincosamides and streptogramins.
+133	2	gb	FJ666070	+	0-1194	ARO:3002506	Beta-lactamase	PDC-7	PDC-7	PDC-7 is a extended-spectrum beta-lactamase found in Pseudomonas aeruginosa.
+134	2	gb	M14039	+	0-486	ARO:3000272	Lincosamide resistance	linA	linA	"LinA and variants LnuC, LnuD are similar to aminoglycoside nucleotidylyl transferases (ANTs)"
+135	2	gb	HM990671	+	5192-6671	ARO:3003112	Multidrug efflux pump	lsaC	lsaC	"LsaC is an ABC efflux pump expressed in Streptococcus agalactiae. It confers resistance to lincomycin, clindamycin, dalfopristin, and tiamulin"
+136	2	gb	L06249	+	1527-2505	ARO:3003748	Macrolide resistance	oleC	oleC	oleC is an ABC transporter isolated from Streptomyces antibioticus and is involved in oleandomycin secretion.
+137	2	gb	EU086834	+	88-898	ARO:3001767	Beta-lactamase	OXA-137	OXA-137	OXA-137 is a beta-lactamase found in Brachyspira spp.
+138	2	gb	AY070258	+	0-861	ARO:3001093	AMR genes detected in K.pneumoniae	SHV-35	SHV-35	SHV-35 is a beta-lactamase found in Klebsiella pneumoniae.
+139	2	gb	HQ661363	+	71-932	ARO:3001181	Beta-lactamase	SHV-137	SHV-137	SHV-137 is a beta-lactamase.
+140	2	gb	HE614014	+	0-825	ARO:3001503	Beta-lactamase	OXA-258	OXA-258	OXA-258 is a beta-lactamase. From the Lahey list of OXA beta-lactamases.
+141	2	gb	AJ295341	+	0-1173	ARO:3002516	Beta-lactamase	OCH-3	OCH-3	OCH-3 beta-lactamase is an Ambler class C chromosomal-encoded beta-lactamases in Ochrobactrum anthropi
+142	2	gb	EU250284	+	3557-4658	ARO:3002974	Glycopeptide resistance	vanTrL	vanTrL	vanTrL is a vanT variant found in the vanL gene cluster. vanTrL codes for the racemase component of vanT
+143	2	gb	NC_007907	-	4201992-4202691	ARO:3003728	Glycopeptide resistance	VanRI	vanRI	VanRI is the regulatory transcriptional activator in the VanSR regulator within the VanI glycopeptide resistance gene cluster.
+144	2	gb	X05648	+	381-1305	ARO:3002658	Aminoglycoside resistance	APH(6)-Ib	APH(6)-Ib	APH(6)-Ib is a chromosomal-encoded aminoglycoside phosphotransferase in S. glaucescens
+145	2	gb	CP000768	+	1406494-1409617	ARO:3000784	Multidrug efflux pump	cmeB	cmeB	CmeB is the inner membrane transporter the CmeABC multidrug efflux complex.
+146	2	gb	AY261375	+	0-765	ARO:3003104	Beta-lactamase	cphA8	cphA8	cphA8 is an Ambler Class B MBL; subclass B2 originally isolated from Aeromonas sobria. This enzyme has specific activity against carbapenems and is active as a mono-zinc protein.
+147	2	gb	X80277	+	0-1149	ARO:3003553	Beta-lactamase	CepS	CepS beta-lactamase	CEP is a typical class C cephalosporinase found in Aeromonas sobria
+148	2	gb	X62867	+	360-1197	ARO:3001305	Lincosamide resistance	ErmU	ErmU	"ErmU is a methyltransferase found in the lincomycin producer Streptomyces lincolnensis. Like other Erm enzymes, it catalyzes the methylation of A2058 of the 23S ribosomal RNA. Specifically, this enzyme transfers only one methyl group. The gene is found in the lincomycin biosynthetic cluster and is responsible for self-resistance."
+149	2	gb	AY769933	+	0-966	ARO:3003005	Beta-lactamase	CfxA4	CfxA4	cfxA4 beta-lactamase is a class A beta-lactamase found in Bacteroides fragilis
+150	2	gb	AF173226	+	6913-8329	ARO:3003053	Multidrug efflux pump	smeC	smeC	smeC is an outer membrane multidrug efflux protein of the smeABC complex in Stenotrophomonas maltophilia
+151	2	gb	AB205197	+	3-876	ARO:3001924	Beta-lactamase	CTX-M-63	CTX-M-63	CTX-M-63 is a beta-lactamase found in Salmonella enterica
+152	2	gb	X98101	+	73-934	ARO:3001070	Beta-lactamase	SHV-11	SHV-11	"SHV-11 is a broad-spectrum beta-lactamase found in E. coli, Klebsiella pneumoniae, Proteus mirabilis, and Shigella dysenteriae."
+153	2	gb	AY171578	+	0-564	ARO:3000167	tetracycline resistance	tetC	tetC	Tet(C) is a tetracycline efflux pump found in many species of Gram-negative bacteria. It is typically found in plasmid DNA.
+154	2	gb	NC_010410	-	3676915-3677389	ARO:3002854	trimethoprim resistance	dfrA1	dfrA1	dfrA1 is an integron-encoded dihydrofolate reductase found in Escherichia coli
+155	2	gb	JX013655	+	0-861	ARO:3001185	Beta-lactamase	SHV-145	SHV-145	SHV-145 is a beta-lactamase.
+156	2	gb	DQ174308	+	4-865	ARO:3001123	AMR genes detected in K.pneumoniae	SHV-69	SHV-69	SHV-69 is a beta-lactamase found in Klebsiella pneumoniae.
+157	2	gb	AJ223970	+	796-2050	ARO:3000463	Macrolide resistance	gimA	gimA glycosyltransferase	"gimA gene codes for a glycosyltransferase found in Streptomyces ambofaciens, natural producer of macrolide spiramycin. Chalcomycin, methymycin, tylosin, pikromycin, rosaramicin, oleandomycin, josamycin, and carbomycin are preferred substrates of gimA glycosyltransferase, while erythromycin and spiramycin have notably low binding affinities. GimA may be able to inactivate spiramycin precursors."
+158	2	gb	U97042	+	0-1218	ARO:3003009	Multidrug efflux pump	ceoA	ceoA	ceoA is a periplasmic linker subunit of the CeoAB-OpcM efflux pump
+159	2	gb	NC_002516	-	779462-780101	ARO:3002679	chloramphenicol resistance	catB7	catB7	catB7 is a chromosome-encoded variant of the cat gene found in Pseudomonas aeruginosa
+160	2	gb	AJ250876	+	36-987	ARO:3000851	Beta-lactamase	THIN-B	THIN-B beta-lactamase	"THIN-B, isolated from Janthinobacterium lividum, hydrolyzes a broad spectrum of beta-lactams including penicillins, cephalosporins, and carbapenems."
+161	2	gb	D78168	+	536-1592	ARO:3000206	tetracycline resistance	emrK	emrK	"emrK is a membrane fusion protein that is a homolog of EmrA. Together with the inner membrane transporter EmrY and the outer membrane channel TolC, it mediates multidrug efflux."
+162	2	gb	JX486113	+	0-795	ARO:3002668	Aminoglycoside resistance	rmtG	rmtG	RmtG is a 16S rRNA methyltransferase found in Pseudomonas aeruginosa which methylates G1405 of the 16S rRNA. It confers high level resistance to many aminoglycosides.
+163	2	gb	AF208796	+	0-861	ARO:3001083	AMR genes detected in K.pneumoniae	SHV-25	SHV-25	SHV-25 is a broad-spectrum beta-lactamase found in Klebsiella pneumoniae.
+164	2	gb	DQ195536	+	0-1248	ARO:3000865	Macrolide resistance	oleD	oleD	"OleD is a glycotransferase found in Streptomyces antibioticus, a natural producer  of oleandomycin. OleD can glycosylate a wide range of macrolides. Unlike oleI, oleD is not found in the oleandomycin biosynthetic cluster."
+165	2	gb	EU250284	+	4730-5426	ARO:3002927	Glycopeptide resistance	vanRL	vanRL	vanRL is a vanR variant found in the vanL gene cluster
+166	2	gb	AM180355	+	600033-601953	ARO:3000186	tetracycline resistance	tetM	tetM	TetM is a ribosomal protection protein that confers tetracycline resistance. It is found on transposable DNA elements and its horizontal transfer between bacterial species has been documented.
+167	2	gb	AP009048	-	3980025-3981183	ARO:3000795	Multidrug efflux pump	mdtE	mdtE	MdtE is the membrane fusion protein of the MdtEF multidrug efflux complex. It shares 70% sequence similarity with AcrA.
+168	2	gb	NC_003888	+	3968821-3969814	ARO:3002914	Glycopeptide resistance	vanJ	vanJ	vanJ is a novel membrane protein that confers resistance to teicoplanin and its derivatives in Streptomyces coelicolor by recycling undecaprenol pyrophosphate during cell wall biosynthesis.
+169	2	gb	X51891	+	189-1335	ARO:3000326	Macrolide resistance	ErmE	ErmE	"ErmE is a methyltransferase found in the erythromycin producer Saccharopolyspora erythraea. Like other Erm enzymes, it catalyzes the methylation of A2058 of the 23S ribosomal RNA. The gene is found within the erythromycin biosynthetic cluster and is responsible for self-resistance."
+170	1	gb	U57969	+	294-1458	ARO:3000800	Multidrug efflux pump	mexC	mexC	MexC is the membrane fusion protein of the MexCD-OprJ multidrug efflux complex.
+171	1	gb	JX121123	+	0-861	ARO:3001195	Beta-lactamase	SHV-156	SHV-156	SHV-156 is a beta-lactamase.
+172	1	gb	AF079762.1	+	3624-6054	ARO:3001293	Macrolide resistance	desR	desR	B-Glycosidase involved in Streptomyces venezuelae self-resistance. This organism produces pikromycin/narbomycin/methymycin/neomethymycin which are inactivated by a glucosyltransferase inside the cell. DesR is a secreted enzyme that re-activates the antibiotic by removing the glucose once it is pumped out of the cell.
+173	1	gb	AB916359	+	793-1708	ARO:3002008	Beta-lactamase	CTX-M-151	CTX-M-151	CTX-M-151 is a beta-lactamase. From the Lahey list of CTX-M beta-lactamases.
+174	1	gb	JX259320	+	0-681	ARO:3002772	Fluoroquinolone resistance	QnrB59	QnrB59	QnrB59 is a plasmid-mediated quinolone resistance protein found in Citrobacter freundii
+175	1	gb	AY028464	+	442-1189	ARO:3000840	Beta-lactamase	JOHN-1	JOHN-1 beta-lactamase	JOHN-1 is an Ambler class B carbapenem-hydrolysing beta-lactamase from Flavobacterium johnsoniae.
+176	1	gb	AY036620	+	88-949	ARO:3001092	Beta-lactamase	SHV-34	SHV-34	SHV-34 is an extended-spectrum beta-lactamase found in E. coli.
+177	1	gb	AF321608	+	0-888	ARO:3003561	Beta-lactamase	Sed1	Sed1 beta-lactamase	class A beta-lactamase found in Citrobacter sedlakii
+178	1	gb	NG_035159	+	2373-3519	ARO:3002016	Beta-lactamase	CMY-5	CMY-5	CMY-5 is a beta-lactamase found in Klebsiella oxytoca
+179	1	gb	KF203098	+	0-822	ARO:3001512	Beta-lactamase	OXA-324	OXA-324	OXA-324 is a beta-lactamase. From the Lahey list of OXA beta-lactamases.
+180	1	gb	JF802084	+	2161-4264	ARO:3002975	Glycopeptide resistance	vanTN	vanTN	vanTN is a vanT variant found in the vanN gene cluster
+181	1	gb	NC_007907.1	-	4200836-4202015	ARO:3003726	Glycopeptide resistance	vanSI	vanSI	VanSI is a vanS variant found in the vanI gene cluster; it is a histidine kinase.
+182	1	gb	AY590467	+	0-729	ARO:3001110	Beta-lactamase	SHV-53	SHV-53	SHV-53 is a beta-lactamase that has been found in clinical isolates.
+183	1	gb	JX268631	+	0-861	ARO:3001091	AMR genes detected in K.pneumoniae	SHV-33	SHV-33	SHV-33 is an broad-spectrum beta-lactamase found in Klebsiella pneumoniae.
+184	1	gb	M58515	+	212-872	ARO:3002670	chloramphenicol resistance	cat	cat	"cat is used to describe many variants of the chloramphenicol acetyltransferase gene in a range of organisms including Acinetobacter calcoaceticus, Agrobacterium tumefaciens, Bacillus clausii, Bacillus subtilis, Campylobacter coli, Enterococcus faecalis, Enterococcus faecium, Lactococcus lactis, Listeria monocytogenes, Listonella anguillarum"
+185	1	gb	EF685372	+	0-1143	ARO:3002041	Beta-lactamase	CMY-30	CMY-30	CMY-30 is a beta-lactamase. From the Lahey list of CMY beta-lactamases.
+186	1	gb	JF273470	+	0-810	ARO:3001766	Beta-lactamase	OXA-192	OXA-192	OXA-192 is a beta-lactamase found in Brachyspira spp.
+187	1	gb	AE004091.2	+	4120468-4121107	ARO:3003710	Multidrug efflux pump	mexL	mexL	MexL is a specific repressor of mexJK transcription and autoregulates its own expression.
+188	1	gb	X59968	+	507-1686	ARO:3002690	Multidrug efflux pump	cml	Streptomyces lividans cml	cml is a plasmid or chromosome-encoded chloramphenicol exporter that is found in Escherichia coli and Streptomyces lividans
+189	1	gb	AB016934	+	7388-8381	ARO:3000449	fosfomycin resistance	FomB	FomB	"An enzyme which on its own cannot provide fosfomycin resistance, however in conjunction with FomA, it leads to the formation of fosfomycin with three phosphates total, which makes it inactive."
+190	1	gb	AY306130	+	0-789	ARO:3001796	Beta-lactamase	OXA-50	OXA-50	OXA-50 is a beta-lactamase found in Pseudomonas aeruginosa
+191	1	gb	AF064820	+	951-1776	ARO:3001417	Beta-lactamase	OXA-22	OXA-22	OXA-22 is a beta-lactamase found in Ralstonia pickettii
+192	1	gb	DQ336355	+	602-1367	ARO:3002640	Aminoglycoside resistance	APH(3'')-Ic	APH(3'')-Ic	APH(3'')-Ic is a chromosomal-encoded aminoglycoside phosphotransferase in M. fortuitum
+193	1	gb	DQ322460	+	15-876	ARO:3001139	AMR genes detected in K.pneumoniae	SHV-85	SHV-85	SHV-85 is a broad-spectrum beta-lactamase found in Klebsiella pneumoniae.
+194	1	gb	AJ000283	+	619-1849	ARO:3000343	tetracycline resistance	tap	tap	"Efflux pump proteins contained within Mycobacterial genomes which confer resistance to a number of different antibiotics including aminoglycosides, and tetracyclines."
+195	1	gb	AE017334	-	1495400-1496297	ARO:3003072	Macrolide resistance	Bacillus	Bacillus Cluster A intrinsic mph	"Bacillus Cluster A mph are chromosomally-encoded macrolide phosphotransferases that inactivate 14- and 15-membered macrolides such as erythromycin, clarithromycin, azithromycin."
+196	1	gb	NC002516	+	1221690-1222098	ARO:3000149	fosfomycin resistance	FosA	FosA	"An enzyme that confers resistance to fosfomycin in Serratia marcescens by breaking the epoxide ring of the molecule. It depends on the cofactors Manganese (II) and Potassium and uses Glutathione (GSH) as the nucleophilic molecule. In Pseudomonas aeruginosa, FosA catalyzes the conjugation of glutathione to carbon-1 of fosfomycin, rendering it ineffective as an antibacterial drug."
+197	1	gb	M11036	+	0-1377	ARO:3000179	tetracycline resistance	tetL	tetL	TetL is a tetracycline efflux protein found in many species of Gram-negative and Gram-positive bacteria.
+198	1	gb	EU250284	+	2574-3564	ARO:3002973	Glycopeptide resistance	vanTmL	vanTmL	vanTmL is a vanT variant found in the vanL gene cluster. vanTmL codes for the membrane-binding domain of vanTL
+199	1	gb	AF313472	+	15593-16397	ARO:3002639	Aminoglycoside resistance	APH(3'')-Ib	APH(3'')-Ib	"APH(3'')-Ib is an aminoglycoside phosphotransferase encoded by plasmids, transposons, integrative conjugative elements and chromosomes in Enterobacteriaceae and Pseudomonas spp."
+200	1	gb	NC_003112	-	1791966-1795170	ARO:3000811	Multidrug efflux pump	mtrD	mtrD	MtrD is the inner membrane multidrug transporter of the MtrCDE efflux complex.
+201	1	gb	U60294	+	0-765	ARO:3003099	Beta-lactamase	cphA2	cphA2	CphA2 is an Ambler Class B MBL; subclass B2 originally isolated from Aeromonas hydrophila. This enzyme has specific activity against carbapenems and is active as a mono-zinc protein
+202	1	gb	X53527	+	0-819	ARO:3002638	Aminoglycoside resistance	APH(3'')-Ia	APH(3'')-Ia	APH(3'')-Ia is a chromosomal-encoded aminoglycoside phosphotransferase in S. griseus
+203	1	gb	AF162694	+	5877-6963	ARO:3002933	Glycopeptide resistance	vanSC	vanSC	vanSC is a vanS variant found in the vanC gene cluster
+204	1	gb	EU155018	+	0-861	ARO:3001150	AMR genes detected in K.pneumoniae	SHV-101	SHV-101	SHV-101 is a beta-lactamase found in Klebsiella pneumoniae.
+205	1	gb	FR772051	+	8740-10315	ARO:3002833	Multidrug efflux pump	vgaE	vgaE	vgaE is an efflux protein expressed in staphylococci that confers resistance to streptogramin A antibiotics and related compounds. It is associated with transposon DNA.
+206	1	gb	KM233164	+	0-861	ARO:3003152	Beta-lactamase	SHV-185	SHV-185	From the Lahey list of beta-lactamases.
+207	1	gb	AJ295340	+	0-1173	ARO:3002515	Beta-lactamase	OCH-2	OCH-2	OCH-2 beta-lactamase is an Ambler class C chromosomal-encoded beta-lactamases in Ochrobactrum anthropi
+208	1	gb	JQ340365	+	0-1434	ARO:3003583	polymyxin resistance	PmrB	PmrB	Histidine protein kinase sensor Lipid A modification gene; part of a two-component system involved in polymyxin resistance that senses high extracellular Fe(2+)
+209	1	gb	EU408357.1	-	52-1180	ARO:3002489	Beta-lactamase	LRA-10	LRA-10	LRA-10 is a beta-lactamase isolated from soil samples in Alaska
+210	1	gb	EU408349	+	107-1025	ARO:3002487	Beta-lactamase	LRA-8	LRA-8	LRA-8 is a beta-lactamase isolated from soil samples in Alaska
+211	1	gb	EU408346	-	4825-5713	ARO:3002482	Beta-lactamase	LRA-1	LRA-1	LRA-1 is a beta-lactamase isolated from soil samples in Alaska
+212	1	gb	GU127598	+	0-876	ARO:3001952	Beta-lactamase	CTX-M-92	CTX-M-92	CTX-M-92 is a beta-lactamase found in Escherichia coli
+213	1	gb	EU408355	+	24321-25482	ARO:3002492	Beta-lactamase	LRA-18	LRA-18	LRA-18 is a beta-lactamase isolated from soil samples in Alaska
+214	1	gb	NC_007682	+	20649-22125	ARO:3003109	Multidrug efflux pump	msrE	msrE	MsrE is an ABC-efflux pump expressed to Klebsiella pneumoniae that confers resistance to erythromycin and streptogramin B antibiotics. It is associated with plasmid DNA.
+215	1	gb	CP000312	-	1756064-1757774	ARO:3003773	defensin resistance	Clostridium	Clostridium perfringens mprF	"MprF is a integral membrane protein that modifies the negatively-charged phosphatidylglycerol on the membrane surface. This confers resistance to cationic peptides that disrupt the cell membrane, including defensins."
+216	1	gb	X57102	+	147-912	ARO:3003103	Beta-lactamase	cphA7	cphA7	cphA7 is an Ambler Class B MBL; subclass B2 originally isolated from Aeromonas jandaei. This enzyme has specific activity against carbapenems and is active as a mono-zinc protein.
+217	1	gb	FJ349556	+	3883-4864	ARO:3002947	Glycopeptide resistance	vanHM	vanHM	vanHM is a vanH variant in the vanM gene cluster
+218	1	gb	L22689	+	261-1035	ARO:3000593	Lincosamide resistance	ErmQ	ErmQ	ErmQ confers MLSb phenotype.
+219	1	gb	AF055922	+	1787-2630	ARO:3001299	Macrolide resistance	tlrB	tlrB conferring tylosin resistance	"TlrB is a methyltransferase found in Streptomyces fradiae and confers resistance to mycinamicin, tylosin and lincosamides. Specifically, this enzyme adds a methyl group to guanosine 748 (E. coli numbering). TlrB is found in the tylosin biosynthetic cluster and is one mechanism by which S. fradiae protects itself from self-destruction when producing this macrolide."
+220	1	gb	DQ212986	+	7787-9926	ARO:3002972	Glycopeptide resistance	vanTG	vanTG	vanTG is a vanT variant found in the vanG gene cluster
+221	1	gb	X90856	+	387-1194	ARO:3002645	Aminoglycoside resistance	APH(3')-IIb	APH(3')-IIb	APH(3')-IIb is a chromosomal-encoded aminoglycoside phosphotransferase in P. aeruginosa
+222	1	gb	NZ_AGSO01000004	+	76451-77432	ARO:3003071	Macrolide resistance	mphE	mphE	mphE is a macrolide phosphotransferase that phosphorylates macrolides in GTP- dependent manner at 2'-OH hydroxyl of desosamine sugar of macrolides.
+223	1	gb	NC_010558	+	116479-117235	ARO:3000860	Aminoglycoside resistance	rmtB	rmtB	"RmtB is a 16S rRNA methyltransferase that targets mature or nearly mature 30S subunits. It transfers a methyl group from S-adenosyl-L-methionine to N7-G1405 of the 16S rRNA, an aminoglycoside binding site."
+224	1	gb	NC_002516	+	4705955-4706402	ARO:3000806	Multidrug efflux pump	mexG	mexG	MexG is a membrane protein required for MexGHI-OpmD efflux activity.
+225	1	gb	EU523697	+	686-1973	ARO:3000572	tetracycline resistance	tet42	tet42	"Tet42 is a tetracycline efflux pump found in both Gram-negative (Pseudomonas) and Gram-positive (Microbacterium, Bacillus, Staphylococcus, Paenibacillus) bacteria."
+226	1	gb	U94857	+	0-996	ARO:3002662	Aminoglycoside resistance	APH(9)-Ia	APH(9)-Ia	APH(9)-Ia is a chromosomal-encoded aminoglycoside phosphotransferase in L. pneumophila
+227	1	gb	AB211124	+	0-525	ARO:3002895	streptothricin resistance	sat-1	sat-1	sat-1 is a plasmid-mediated streptothricin acetyltransferase in Escherichia coli
+228	1	gb	NC_007682	+	9414-10236	ARO:3002879	Lincosamide resistance	linG	linG	linG is an integron-mediated nucleotidyltransferase found in Salmonella enterica
+229	1	gb	NC_005000	+	17463-18111	ARO:3002670	chloramphenicol resistance	cat	cat	"cat is used to describe many variants of the chloramphenicol acetyltransferase gene in a range of organisms including Acinetobacter calcoaceticus, Agrobacterium tumefaciens, Bacillus clausii, Bacillus subtilis, Campylobacter coli, Enterococcus faecalis, Enterococcus faecium, Lactococcus lactis, Listeria monocytogenes, Listonella anguillarum"
+230	1	gb	NC_002516	+	472023-473175	ARO:3000377	Multidrug efflux pump	mexA	mexA	MexA is the membrane fusion protein of the MexAB-OprM multidrug efflux complex.
+231	1	gb	NG_047417.1	+	0-995	ARO:3002644	Aminoglycoside resistance	APH(3')-IIa	APH(3')-IIa	APH(3')-IIa is a transposon-encoded aminoglycoside phosphotransferase in E. coli
+232	1	gb	AJ312056	+	385-1036	ARO:3002670	chloramphenicol resistance	cat	cat	"cat is used to describe many variants of the chloramphenicol acetyltransferase gene in a range of organisms including Acinetobacter calcoaceticus, Agrobacterium tumefaciens, Bacillus clausii, Bacillus subtilis, Campylobacter coli, Enterococcus faecalis, Enterococcus faecium, Lactococcus lactis, Listeria monocytogenes, Listonella anguillarum"
+233	1	gb	NC_002516.2	-	4119269-4120373	ARO:3003692	Multidrug efflux pump	mexJ	mexJ	mexJ is the membrane fusion protein of the MexJK multidrug efflux protein.
+234	1	gb	AB219524.1	+	4334-5810	ARO:3003700	Multidrug efflux pump	opmE	opmE	opmE is an outer membrane factor protein that is part of the multidrug efflux pump MexPQ-OpmE.
+235	1	gb	X15791	+	1375-2257	ARO:3003563	Beta-lactamase	NPS	NPS beta-lactamase	Class A beta lactamase found in Rhodopseudomonas capsulata
+236	1	gb	AJ574887.1	-	370-1696	ARO:3003835	Multidrug efflux pump	CdeA	CdeA	Clostridium difficile and Escherichia coli multidrug efflux transporter with antiporter function. Confers resistance to fluoroquinolones in E. coli and acriflavin in C.difficile.
+237	1	gb	AY227050	+	130-895	ARO:3003100	Beta-lactamase	cphA4	cphA4	CphA4 is an Ambler Class B MBL; subclass B2 originally isolated from Aeromonas allosaccharophila. This enzyme has specific activity against carbapenems and is active as a mono-zinc protein.
+238	1	gb	NC_002516.2	+	5606102-5606435	ARO:3000264	Multidrug efflux pump	emrE	emrE	EmrE is a small multidrug transporter that functions as a homodimer and that couples the efflux of small polyaromatic cations from the cell with the import of protons down an electrochemical gradient. EmrE is found in E. coli and P. aeruginosa.
+239	1	gb	AY769962	+	2434-5611	ARO:3000781	Multidrug efflux pump	adeJ	adeJ	AdeJ is a RND efflux protein that acts as the inner membrane transporter of the AdeIJK efflux complex. It has 57% identity with E. coli AcrB.
+240	1	gb	JQ711184	+	1026-2172	ARO:3002084	Beta-lactamase	CMY-71	CMY-71	CMY-71 is a beta-lactamase. From the Lahey list of CMY beta-lactamases.
+241	1	gb	AB028210	-	2710-3565	ARO:3002544	Aminoglycoside resistance	AAC(3)-Xa	AAC(3)-Xa	AAC(3)-Xa is a chromosomal-encoded aminoglycoside acetyltransferase in Streptomyces griseus
+242	1	gb	DQ195535	+	0-1275	ARO:3000866	Macrolide resistance	oleI	oleI	"OleI is a glycosyltransferase found in Streptomyces antibioticus, specifically the oleandomycin biosynthetic cluster. OleI glycosylates oleandomycin to confer self-resistance."
+243	1	gb	NG_049281	+	0-861	ARO:3002474	Beta-lactamase	LEN-26	LEN-26	LEN-26 is a beta-lactamase found in Escherichia coli and Klebsiella pneumoniae.
+244	1	gb	S82452	+	120-978	ARO:3001068	AMR genes detected in K.pneumoniae	SHV-9	SHV-9	SHV-9 is an extended-spectrum beta-lactamase found in Klebsiella pneumoniae.
+245	1	gb	KF421162	+	0-822	ARO:3001546	Beta-lactamase	OXA-359	OXA-359	OXA-359 is a beta-lactamase. From the Lahey list of OXA beta-lactamases.
+246	1	gb	KC999080	+	379-1192	ARO:3002359	AMR genes detected in K.pneumoniae	NDM-9	NDM-9	NDM-9 is a beta-lactamase found in Klebsiella pneumoniae.
+247	1	gb	X02393	+	96-960	ARO:3003061	viomycin resistance	viomycin	viomycin phosphotransferase	vph is a phosphotransferase that confers resistance to viomycin in Streptomyces vinaceus
+248	1	gb	DQ677333	+	0-780	ARO:3002621	Aminoglycoside resistance	aadA24	aadA24	aadA24 is an integron-encoded aminoglycoside nucleotidyltransferase gene in Salmonella spp.
+249	1	gb	Z48231	+	220-763	ARO:3002898	streptothricin resistance	sat-3	sat-3	sat-3 is a plasmid-mediated streptothricin acetyltransferase in Escherichia coli
+250	1	gb	NC_002516	+	4006509-4007148	ARO:3000819	Multidrug efflux pump	nalD	nalD	NalD is a repressor of MexAB-OprM. Mutations lead to multidrug resistance and MexAB-OprM overexpression.
+251	1	gb	AY660529.1	+	0-3902	ARO:3003676	Aminoglycoside resistance	AAC(6')-Ib'	AAC(6')-Ib'	"AAC(6')-Ib' is an aminoglycoside acetyltransferase encoded by plasmids, transposons, integrons in P. aeruginosa and P. fluorescens."
+252	1	gb	M19269	+	459-1419	ARO:3001304	Macrolide resistance	ErmS	ErmS	"ErmS is a methyltransferase found in the tylosin producer Streptomyces fradiae. Like other Erm enzymes, it catalyzes the methylation of A2058 of the 23S ribosomal RNA. Specifically, this enzyme transfers two methyl groups. The gene is found within the tylosin biosynthetic cluster and is responsible for self-resistance"
+253	1	gb	AJ631966	+	0-810	ARO:3001771	Beta-lactamase	OXA-57	OXA-57	OXA-57 is a beta-lactamase found in Burkholderia pseudomallei
+254	1	gb	AM176546	+	0-861	ARO:3001125	Beta-lactamase	SHV-71	SHV-71	SHV-71 is a broad-spectrum beta-lactamase found in Klebsiella pneumoniae and Shigella.
+255	1	gb	AM176549	+	30-891	ARO:3001128	AMR genes detected in K.pneumoniae	SHV-74	SHV-74	SHV-74 is a broad-spectrum beta-lactamase found in Klebsiella pneumoniae.
+256	1	gb	AF174129	+	6335-7211	ARO:3001872	Beta-lactamase	CTX-M-9	CTX-M-9	CTX-M-9 is a beta-lactamase found in the Enterobacteriaceae family
+257	1	gb	AJ416346	+	556-1432	ARO:3001883	Beta-lactamase	CTX-M-21	CTX-M-21	CTX-M-21 is a beta-lactamase found in the Enterobacteriaceae family
+258	1	gb	AM180066	+	788-1688	ARO:3000319	Macrolide resistance	mphC	mphC	The mphC gene was identified from Staphylococcus aureus.  This gene shows similarity to mphB gene from Escherchia coli.
+259	1	gb	S81599	+	281-1076	ARO:3002651	Aminoglycoside resistance	APH(3')-Vc	APH(3')-Vc	APH(3')-Vc is a chromosomal-encoded aminoglycoside phosphotransferase in M. chalcea
+260	1	gb	KF485393.2	+	6723-7632	ARO:3003894	Beta-lactamase	Rm3	Rm3 beta-lactamase	"Rm3 is a class B3 metallo-beta-lactamase isolated from a metagenomic soil sample in Yorkshire, United Kingdom, shown to confer resistance to clinically used penicillins, cephalosporins, and carbapenems."
+261	1	gb	GU186045	+	34-754	ARO:3002265	Beta-lactamase	IND-9	IND-9	IND-9 is a beta-lactamase found in Escherichia coli
+262	1	gb	AY587956	+	0-774	ARO:3001773	Beta-lactamase	OXA-61	OXA-61	OXA-61 is a beta-lactamase found in Campylobacter jejuni
+263	1	gb	NC_005076	+	4149-5628	ARO:3003111	Multidrug efflux pump	lsaB	lsaB	LsaB is an ABC efflux pump expressed in Staphylococcus sciuri. It confers resistance to clindamycin.
+264	1	gb	JX440351	+	1026-2172	ARO:3002096	Beta-lactamase	CMY-83	CMY-83	CMY-83 is a beta-lactamase. From the Lahey list of CMY beta-lactamases.
+265	1	gb	JX440355	+	751-1897	ARO:3001834	Beta-lactamase	ACT-12	ACT-12	ACT-12 is a beta-lactamase. From the Lahey list of ACT beta-lactamases.
+266	1	gb	GQ343019	+	132-1023	ARO:3002999	Beta-lactamase	CblA-1	CblA-1	CblA-1 beta-lactamase is a class A beta-lactamase found in Bacteroides uniformis that is species-specific.
+267	1	gb	AY227752	+	88-1234	ARO:3002168	Beta-lactamase	MIR-2	MIR-2	MIR-2 is a beta-lactamase. From the Lahey list of MIR beta-lactamases.
+268	1	gb	AB917040	+	736-1135	ARO:3003207	fosfomycin resistance	FosK	FosK	FosK is a fosfomycin thiol transferase isolated from Acinetobacter soli. It is integrin-mediated. It confers a high level of resistance to fosfomycin.
+269	1	gb	AY289608	+	1523-2078	ARO:3002588	Aminoglycoside resistance	AAC(6')-I30	AAC(6')-I30	AAC(6')-I30 is an integron-encoded aminoglycoside acetyltransferase in S. enterica
+270	1	gb	NC_011586	+	3278907-3280158	ARO:3000780	Multidrug efflux pump	adeI	adeI	AdeI is the membrane fusion protein of the AdeIJK multidrug efflux complex.
+271	1	gb	AJ605332	+	1303-1813	ARO:3003016	trimethoprim resistance	dfrA20	dfrA20	dfrA20 is a plasmid-encoded dihydrofolate reductase found in Pasteurella multocida
+272	1	gb	AB008454	+	153-1290	ARO:3002493	Beta-lactamase	SRT-1	SRT-1	"SRT-1, isolated from Serratia marcescens, confers resistance to cephalosporins but not carbapenems, penems and monobactams."
+273	1	gb	GQ149243	+	0-873	ARO:3001935	Beta-lactamase	CTX-M-74	CTX-M-74	CTX-M-74 is a beta-lactamase found in the Enterobacteriaceae family
+274	1	gb	KF478993	+	490-1543	ARO:3002948	Glycopeptide resistance	vanHO	vanHO	vanHO is a vanH variant in the vanO gene cluster
+275	1	gb	AL123456	+	1853605-1854388	ARO:3003060	thiostrepton resistance	tsnr	tsnr	tsnr is a 23S ribosomal RNA methyltransferase that methylates adenosine-1067 to confer resistance to thiostrepton
+276	1	gb	AY619003	+	703-1510	ARO:3001764	Beta-lactamase	OXA-63	OXA-63	OXA-63 is a beta-lactamase found in Brachyspira spp.
+277	1	gb	HM565917	+	0-1149	ARO:3002161	Beta-lactamase	FOX-8	FOX-8	FOX-8 is a beta-lactamase found in the Enterobacteriaceae family
+278	1	gb	DQ212986	+	5137-5983	ARO:3002965	Glycopeptide resistance	vanWG	vanWG	vanWG is a vanW variant found in the vanG gene cluster
+279	1	gb	Y10415	+	125-893	ARO:3003095	Beta-lactamase	imiS	imiS	imiS is an Ambler Class B MBL; subclass B2 originally isolated from Aeromonas veronii. This enzyme has specific activity against carbapenems.
+280	1	gb	AF458080	+	1504-2764	ARO:3002693	Multidrug efflux pump	cmlA1	cmlA1	cmlA1 is a plasmid or transposon-encoded chloramphenicol exporter that is found in Pseudomonas aeruginosa and Klebsiella pneumoniae
+281	1	gb	D89862	+	111-981	ARO:3001907	Beta-lactamase	CTX-M-45	CTX-M-45	CTX-M-45 is a beta-lactamase found in Escherichia coli
+282	1	gb	AB219524.1	+	22-1180	ARO:3003698	Multidrug efflux pump	mexP	mexP	MexP is the membrane fusion protein of the MexPQ-OpmE multidrug efflux complex
+283	1	gb	AB015853	+	145-1315	ARO:3003034	Multidrug efflux pump	mexX	mexX	MexX is the membrane fusion protein of the MexXY-OprM multidrug efflux complex.
+284	1	gb	AY082011	+	4936-5908	ARO:3002944	Glycopeptide resistance	vanHD	vanHD	vanHD is a vanH variant in the vanD gene cluster
+285	1	gb	AE004091.2	+	4903465-4904596	ARO:3003030	Multidrug efflux pump	mexV	mexV	MexV is the membrane fusion protein of the MexVW-OprM multidrug efflux complex.
+286	1	gb	AB015853	+	1330-4471	ARO:3003033	Multidrug efflux pump	mexY	mexY	MexY is the RND-type membrane protein of the efflux complex MexXY-OprM.
+287	1	gb	AB219523.1	+	21-1179	ARO:3003704	Multidrug efflux pump	mexM	mexM	mexM is the membrane fusion protein of the MexMN-OprM multidrug efflux complex.
+288	1	gb	KP109678	+	5817-6675	ARO:3003714	Beta-lactamase	PEDO-2	PEDO-2	PEDO-2 is a subclass B3 metallo-beta lactamase isolated from Pedobacter borealis exhibiting carbapenem resistance.
+289	1	gb	M58472	+	147-777	ARO:3002670	chloramphenicol resistance	cat	cat	"cat is used to describe many variants of the chloramphenicol acetyltransferase gene in a range of organisms including Acinetobacter calcoaceticus, Agrobacterium tumefaciens, Bacillus clausii, Bacillus subtilis, Campylobacter coli, Enterococcus faecalis, Enterococcus faecium, Lactococcus lactis, Listeria monocytogenes, Listonella anguillarum"
+290	1	gb	HE650138	+	2186-2918	ARO:3003205	Macrolide resistance	Erm(43)	Erm(43)	"Erm(43) is a macrolide, lincosamide, and streptogramin B resistance gene found in Staphylococcus lentus chromosome isolated from human, dog and chicken."
+291	1	gb	LN515534	+	0-873	ARO:3003155	Beta-lactamase	SHV-188	SHV-188	From the Lahey list of beta-lactamases.
+292	1	gb	EU188842	+	0-828	ARO:3001609	Beta-lactamase	OXA-114a	OXA-114a	OXA-114a is a beta-lactamase found in Achromobacter xylosoxidans.
+293	1	gb	KJ207204	+	579-1725	ARO:3002099	Beta-lactamase	CMY-86	CMY-86	CMY-86 is a beta-lactamase. From the Lahey list of CMY beta-lactamases.
+294	1	gb	HQ875573	+	0-741	ARO:3002229	Beta-lactamase	IMP-38	IMP-38	IMP-38 is a beta-lactamase. From the Lahey list of IMP beta-lactamases.
+295	1	gb	JX121121	+	0-858	ARO:3001193	Beta-lactamase	SHV-154	SHV-154	SHV-154 is a beta-lactamase.
+296	1	gb	EU136031	+	0-876	ARO:3001942	AMR genes detected in K.pneumoniae	CTX-M-81	CTX-M-81	CTX-M-81 is a beta-lactamase found in Klebsiella pneumoniae
+297	1	gb	KM087849	+	0-1140	ARO:3002150	Beta-lactamase	DHA-19	DHA-19	DHA-19 is a beta-lactamase. From the Lahey list of DHA beta-lactamases.
+298	1	gb	AJ223970	+	20-800	ARO:3001303	Macrolide resistance	ErmO	ErmO	"ErmO is a methyltransferase found in the spiramycin producer Streptomyces ambofaciens. Like other Erm enzymes, it catalyzes the methylation of A2058 of the 23S ribosomal RNA. Specifically, this enzyme transfers only one methyl group. The gene is responsible for self-resistance to spiramycin."
+299	1	gb	GQ288397	+	0-741	ARO:3000846	Beta-lactamase	SIM-1	SIM-1 beta-lactamase	SIM-1 is an integron-encoded Ambler class B beta-lactamase isolated from Acinetobacter baumannii
+300	1	gb	AF155139	+	4338-4959	ARO:3002963	Glycopeptide resistance	vanZF	vanZF	vanZF is a vanZ variant found in the vanF gene cluster
+301	1	gb	AY157676	+	0-876	ARO:3001888	AMR genes detected in K.pneumoniae	CTX-M-26	CTX-M-26	CTX-M-26 is a beta-lactamase found in Klebsiella pneumoniae
+302	1	gb	NC_007795	-	1360280-1361636	ARO:3000839	Multidrug efflux pump	arlS	arlS	"ArlS is a protein histidine kinase that phosphorylates ArlR, a promoter for norA expression."
+303	1	gb	AL009126	+	916777-919348	ARO:3003324	defensin resistance	Bacillus	Bacillus subtilis mprF	"MprF is a integral membrane protein that modifies the negatively-charged phosphatidylglycerol on the membrane surface. This confers resistance to cationic peptides that disrupt the cell membrane, including defensins. Additionally, large-scale mutations causing loss of function of the gene result in increased susceptibility to daptomycin."
+304	1	gb	KF460533	+	0-831	ARO:3001550	Beta-lactamase	OXA-363	OXA-363	OXA-363 is a beta-lactamase. From the Lahey list of OXA beta-lactamases.
+305	1	gb	D78168	+	1591-3130	ARO:3000254	Multidrug efflux pump	emrY	emrY	emrY is a multidrug transport that moves substrates across the inner membrane of the Gram-negative E. coli. It is a homolog of emrB.
+306	1	gb	AF162694	+	1410-2442	ARO:3000368	Glycopeptide resistance	vanC	vanC	"VanC is a D-Ala-D-Ala ligase homolog that synthesizes D-Ala-D-Ser, an alternative substrate for peptidoglycan synthesis that reduces vancomycin binding affinity. It is specific to Enterococcus gallinarum and E. casseliflavus, providing intrinsic resistance."
+307	1	gb	AY598759	+	0-876	ARO:3001873	Beta-lactamase	CTX-M-10	CTX-M-10	CTX-M-10 is a beta-lactamase found in Escherichia coli
+308	1	gb	EU886977	+	543-1110	ARO:3002575	Aminoglycoside resistance	AAC(6')-Iai	AAC(6')-Iai	AAC(6')-Iai is an aminoglycoside acetyltransferase encoded by plasmids and integrons in P. aeruginosa
+309	1	gb	AM051149	+	0-861	ARO:3002427	AMR genes detected in K.pneumoniae	OKP-A-10	OKP-A-10	OKP-A-10 is a beta-lactamase found in Klebsiella pneumoniae
+310	1	gb	L06160	+	983-1721	ARO:3002537	Aminoglycoside resistance	AAC(3)-IIIb	AAC(3)-IIIb	AAC(3)-IIIb is an aminoglycoside acetyltransferase in P. aeruginosa
+311	1	gb	NC_003112	-	1795181-1796420	ARO:3000810	Multidrug efflux pump	mtrC	mtrC	MtrC is the membrane fusion protein of the MtrCDE multidrug efflux complex.
+312	1	gb	NC_003197	-	397056-398262	ARO:3000789	Multidrug efflux pump	mdsA	mdsA	MdsA is the membrane fusion protein of the multidrug and metal efflux complex MdsABC.
+313	1	gb	AY055428	-	20268-21084	ARO:3000412	sulfonamide resistance	sul2	sul2	"Sul2 is a sulfonamide resistant dihydropteroate synthase of Gram-negative bacteria, usually found on small plasmids."
+314	1	gb	AB116646	+	429-903	ARO:3002563	Aminoglycoside resistance	AAC(6')-Isa	AAC(6')-Isa	AAC(6')-Isa is a plasmid-encoded aminoglycoside acetyltransferase in Streptomyces albulus
+315	1	gb	NC_002516	+	2808742-2809987	ARO:3000803	Multidrug efflux pump	mexE	mexE	MexE is the membrane fusion protein of the MexEF-OprN multidrug efflux complex.
