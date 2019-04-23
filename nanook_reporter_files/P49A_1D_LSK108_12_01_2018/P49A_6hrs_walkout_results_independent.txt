@@ -1,0 +1,24 @@
+ReadId	HostTopHit	HostLCAHit	CARDHit	CARDGroup	PercentID	Length	Distance
+9f0f9a0b-6fe1-4a75-938f-dfc23d4db4d2	Escherichia coli	Enterobacterales	ARO:3001397|OXA-2	OXA-2	80.46	307	169
+10d84984-ad13-43db-969e-3a8f5b8514c5	Klebsiella michiganensis	Klebsiella	ARO:3003844|mfd	mfd	78.12	393	144
+30f0dfaf-f209-45fc-bdf8-48f3daee6721	Enterobacter cloacae	Enterobacter cloacae	ARO:3003923|oqxB	group oqx-mex-amr-1	78.47	3014	5599
+efafc11b-d3b7-46d4-8dd2-8d9b99b788c7	Enterobacter cloacae	Enterobacter cloacae	ARO:3003841|kdpE	kdpE	81.51	146	1689
+43962585-c65f-4aea-8206-b51480c82537	Enterobacter cloacae	Enterobacter cloacae	ARO:3000825|robA	robA	81.34	895	1180
+9f9cc129-8097-4d1f-97c8-aa0ccbbe756c	Enterobacter cloacae	Enterobacter cloacae	ARO:3000825|robA	robA	90.61	884	3412
+92eaf722-df44-4365-a8db-07d259356b37	Klebsiella pneumoniae	Enterobacterales	ARO:3001397|OXA-2	OXA-2	88.02	334	771
+1e8a4a88-f0b8-423f-aba1-de54058ae3ca	Enterobacter cloacae	Enterobacter cloacae	ARO:3000216|acrB	group mex-acr-1	90.54	222	219
+1f44caa1-0583-439a-b131-d9702fd434cc	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001397|OXA-2	OXA-2	90.07	282	4220
+1f44caa1-0583-439a-b131-d9702fd434cc	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001397|OXA-2	OXA-2	86.15	296	5481
+5bb34b6f-e995-4d6d-8fa4-3e250a9cafa7	Klebsiella michiganensis	Klebsiella	ARO:3000518|CRP	CRP	77.63	657	965
+ba11cd47-e6ca-40d9-ba63-4ff556a8aa26	Enterobacter cloacae	Enterobacter cloacae	ARO:3000825|robA	robA	89.84	886	5769
+8e2be451-e215-42b9-8c61-688cd4e1bf9f	Klebsiella michiganensis	Klebsiella	ARO:3000024|patA	patA	80.45	711	119
+f83466ea-27f2-43f1-9720-eb8e4f9e7ee8	Enterobacter cloacae	Enterobacter cloacae	ARO:3000830|cpxA	cpxA	77.44	1401	1579
+251ae543-f190-4ce8-8b2c-2c679dd06acf	Enterobacter cloacae	Enterobacter cloacae	ARO:3000074|emrB	emrB	76.25	1562	263
+4f53fedf-196c-4662-8cb3-326760985a76	Pantoea sp.	Enterobacterales	ARO:3001397|OXA-2	OXA-2	88.76	169	762
+ef636997-37c4-4e78-807e-2239a8b2d83c	Enterobacter cloacae	Enterobacter cloacae	ARO:3000207|acrA	group acr-sme-1	78.83	1181	8753
+2800067b-11af-4835-9d8a-accb104478d7	Enterobacter cloacae	Enterobacter cloacae	ARO:3001839|ACT-18	group CMY-LAT-CFE-ACT-MIR-1	90.83	1178	2869
+f75b2cb7-dab3-4976-a535-30323fc6ddb5	Enterobacter cloacae	Enterobacter cloacae	ARO:3001839|ACT-18	group CMY-LAT-CFE-ACT-MIR-1	84.65	1166	13554
+f75b2cb7-dab3-4976-a535-30323fc6ddb5	Enterobacter cloacae	Enterobacter cloacae	ARO:3001835|ACT-13	group CMY-LAT-CFE-ACT-MIR-1	76.13	1169	13552
+8f706682-d0dc-4ecd-9c6a-5c83b424fbd2	Enterobacter cloacae	Enterobacter cloacae	ARO:3000074|emrB	emrB	81.17	239	1237
+29bba103-15dd-4448-872c-3a6d94259d81	Enterobacter cloacae	Enterobacter cloacae	ARO:3000518|CRP	CRP	76.47	663	1217
+f93c2543-62e6-4571-a016-6159520b5bbd	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3001397|OXA-2	OXA-2	81.7	235	230

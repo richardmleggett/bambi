@@ -1,0 +1,2 @@
+Rank,Count,ID,Name,Description
+1,1,gb|M95287.4|+|0-828|ARO:3001397|OXA-2,OXA-2,"OXA-2 is a beta-lactamase found in the Enterobacteriaceae family."

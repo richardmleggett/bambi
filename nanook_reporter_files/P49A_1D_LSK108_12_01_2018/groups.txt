@@ -1,0 +1,6 @@
+Group	Name
+G1	Aminocoumarin resistance
+G2	Aminoglycoside resistance
+G3	Fluoroquinolone resistance
+G4	Beta-lactamase
+G5	Multidrug efflux pump
