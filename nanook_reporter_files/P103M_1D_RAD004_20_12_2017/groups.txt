@@ -1,0 +1,10 @@
+Group	Name
+G1	Macrolide resistance
+G2	Beta-lactamase
+G3	Aminocoumarin resistance
+G4	Aminoglycoside resistance
+G5	Elfamycin resistance
+G6	Trimethoprim resistance
+G7	Multidrug efflux pump
+G8	Mupirocin resistance
+G9	Tetracycline resistance
