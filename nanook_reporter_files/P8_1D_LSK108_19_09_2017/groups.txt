@@ -1,0 +1,16 @@
+Group	Name
+G1	Streptothricin resistance
+G2	Trimethoprim resistance
+G3	Macrolide resistance
+G4	Chloramphenicol resistance
+G5	Amr genes detected in k.pneumoniae
+G6	Tetracycline resistance
+G7	Beta-lactamase
+G8	Elfamycin resistance
+G9	Bacitracin resistance
+G10	Fosfomycin resistance
+G11	Aminoglycoside resistance
+G12	Polymyxin resistance
+G13	Aminocoumarin resistance
+G14	Fluoroquinolone resistance
+G15	Multidrug efflux pump

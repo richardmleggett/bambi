@@ -1,23 +1,17 @@
 #!/usr/bin/perl -w
 
-# Program: gather_heatmap_data.pl
-# Purpose: Prepare data files needed to produce AMR heat maps of BAMBI data
-# Author:  Richard Leggett (richard.leggett@earlham.ac.uk)
-
 use warnings;
 use strict;
 use DateTime;
 use Getopt::Long;
 use File::Copy;
 
-# Uncomment the appropriate set of parameters below depending on the sample
-
 # Filenames - BAMBI_1D_19092017
-my $sample = "BAMBI_1D_19092017";
-my $prefix=$sample."_Template_pass_card_summary_";
-my $max_chunk = 202;
-my $exp_start_time = "2017-09-19 15:14:08"; # From fast5 file
-my $sample_dir="/Volumes/group-si/BAMBI_Pt6/".$sample;
+#my $sample = "BAMBI_1D_19092017";
+#my $prefix=$sample."_Template_pass_card_summary_";
+#my $max_chunk = 202;
+#my $exp_start_time = "2017-09-19 15:14:08"; # From fast5 file
+#my $sample_dir="/Volumes/group-si/BAMBI_Pt6/".$sample;
 
 # Filenames - 20180112_1634_BAMBI_P205G_1D_12012018
 #my $sample = "20180112_1634_BAMBI_P205G_1D_12012018";
@@ -41,11 +35,11 @@ my $sample_dir="/Volumes/group-si/BAMBI_Pt6/".$sample;
 #my $sample_dir="/Volumes/group-si/BAMBI_Pt7/".$sample;
 
 # Filenames - 20171220_1133_BAMBI_P103M_400ng_RAD4_20122017
-#my $sample = "20171220_1133_BAMBI_P103M_400ng_RAD4_20122017";
-#my $prefix=$sample."_Template_pass_card_summary_";
-#my $max_chunk = 330;
-#my $exp_start_time = "2017-12-20 11:33:19";  # From fast5 file
-#my $sample_dir="/Volumes/group-si/BAMBI_Pt7/".$sample;
+my $sample = "20171220_1133_BAMBI_P103M_400ng_RAD4_20122017";
+my $prefix=$sample."_Template_pass_card_summary_";
+my $max_chunk = 330;
+my $exp_start_time = "2017-12-20 11:33:19";  # From fast5 file
+my $sample_dir="/Volumes/group-si/BAMBI_Pt7/".$sample;
 
 # Filenames - 20180112_1459_BAMBI_P49A_1D_12012018
 #my $sample = "20180112_1459_BAMBI_P49A_1D_12012018";

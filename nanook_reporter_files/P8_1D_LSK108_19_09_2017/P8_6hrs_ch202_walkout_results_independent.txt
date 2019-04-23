@@ -1,0 +1,1427 @@
+ReadId	HostTopHit	HostLCAHit	CARDHit	CARDGroup	PercentID	Length	Distance
+b09ad949-5c67-46e4-be91-fea62d92c1e7	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003840|aminocoumarin	cysB	71.88	896	833
+0d9bd8ef-c62d-49e1-abe1-04b39911220b	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000792|mdtA	mdtA	74.91	283	166
+802edf94-5759-4d6c-bf65-2f5f033b62f6	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000826|sdiA	sdiA	73.5	200	872
+75396966-d5da-44e1-8d6a-c756c54fc151	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	70.98	2319	3210
+6e214734-f0e0-443a-89c1-f286b7141839	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	71.97	289	885
+5fa1fd92-2bae-4a18-81d8-ae227e4c3567	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003578|PmrF	PmrF	73.94	495	2398
+f608d940-f1d5-410b-a9a0-18eddf7a313a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003844|mfd	mfd	74.02	585	914
+64e21bbe-e255-45c2-88f6-49b7956b218c	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003359|Streptomyces	Streptomyces	70.11	1047	64
+b7aaaf76-583d-4205-a442-2451cf282f3a	Proteus mirabilis	Proteus mirabilis	ARO:3000784|cmeB	cmeB	72.17	115	1501
+b137b059-93cb-496f-919d-056c1fc64ac1	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000074|emrB	emrB	74.5	1549	524
+1d3f9e98-7b81-4472-a5f8-bd2ed6a4da73	Klebsiella pneumoniae	Klebsiella	ARO:3000207|acrA	group acr-sme-1	72.99	1218	567
+1d3f9e98-7b81-4472-a5f8-bd2ed6a4da73	Klebsiella pneumoniae	Klebsiella	ARO:3000216|acrB	group mex-acr-1	76.63	552	1670
+059f5c56-7022-4b21-a56c-f10d4f98f277	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000378|mexB	group mex-sme-1	72.6	416	4794
+059f5c56-7022-4b21-a56c-f10d4f98f277	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003056|smeE	group mex-sme-1	70.81	161	5423
+059f5c56-7022-4b21-a56c-f10d4f98f277	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	71.17	111	6595
+059f5c56-7022-4b21-a56c-f10d4f98f277	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000207|acrA	group acr-sme-1	71.86	199	3548
+fb243e57-1130-4877-a0f2-ba617cf3437d	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003830|aminocoumarin	alaS	76.09	230	2069
+91c109a9-4197-4db2-b4de-1899ed8405b1	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003923|oqxB	group oqx-mex-amr-1	83.18	3229	8679
+91c109a9-4197-4db2-b4de-1899ed8405b1	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003922|oqxA	group oqx-mex-1	84.34	1220	7486
+d6da776a-a0ca-4554-b806-c1c5c1aa38c5	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000535|macB	macB	75.21	121	838
+24bf29a4-3a66-4914-ab87-e7d06502a339	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001330|mdtD	mdtD	73.98	1049	1646
+8b8a7a2f-002e-47fe-a1a3-612b423291bc	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003578|PmrF	PmrF	71.06	729	674
+564fc854-24b2-42cf-8571-e0ac909000ac	Proteus mirabilis	Proteus mirabilis	ARO:3003840|aminocoumarin	cysB	73.17	205	3789
+978cc6dd-08f2-475d-8513-0f27afd7787e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000826|sdiA	sdiA	78.33	120	5754
+db820b6f-820d-4a65-907b-6e63a0069a8d	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003843|leuO	leuO	76.13	222	1015
+6ebfd7f5-04c3-4cc2-8f97-d9d878fdbf3b	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000237|tolC	tolC	75.0	184	760
+0c8bc9e0-9c3a-489b-9271-3d5fb5ce8201	Klebsiella pneumoniae	Enterobacterales	ARO:3002474|LEN-26	group SHV-LEN-OKP-1	70.66	167	1356
+0c8bc9e0-9c3a-489b-9271-3d5fb5ce8201	Klebsiella pneumoniae	Enterobacterales	ARO:3002474|LEN-26	group SHV-LEN-OKP-1	72.0	150	1857
+0c8bc9e0-9c3a-489b-9271-3d5fb5ce8201	Klebsiella pneumoniae	Enterobacterales	ARO:3002431|OKP-A-14	group SHV-LEN-OKP-1	73.79	103	1607
+2673c9a8-85f0-4c74-a9fa-493c8945d76c	Proteus mirabilis	Proteus mirabilis	ARO:3003578|PmrF	PmrF	75.33	150	1217
+3dbb4270-a451-4088-8514-3113ad8b11fd	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002831|vgaC	vgaC	87.07	232	5695
+8d721f58-9a9c-4233-9aa2-fae442b314b8	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	74.08	953	8720
+8d721f58-9a9c-4233-9aa2-fae442b314b8	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003578|PmrF	PmrF	71.22	834	6946
+19f3ca41-259c-4e71-9deb-2465edc9a6e6	Klebsiella pneumoniae	Klebsiella	ARO:3000518|CRP	CRP	78.84	567	62
+8c2155d6-b962-47d0-ae03-40d8dfb85675	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000794|mdtC	group mdt-mex-sme-1	70.25	753	1728
+8c2155d6-b962-47d0-ae03-40d8dfb85675	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000793|mdtB	group mdt-mds-acr-mtr-1	70.32	219	2248
+f93abd23-2d87-4e9a-83e9-ef62c969d984	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003844|mfd	mfd	70.21	292	1719
+7a28d31e-6059-4fd6-b0f4-91eb4f493d4b	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003359|Streptomyces	Streptomyces	70.37	243	273
+06a72113-e866-4517-8657-2bc37d185a6f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003048|rosA	rosA	71.88	128	4149
+e920c39e-4eb4-4789-b704-673812738135	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003844|mfd	mfd	72.49	3046	2658
+2af27420-21d9-402a-bfa2-c4d67d8bad15	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000796|mdtF	group mdt-mex-sme-1	75.76	165	627
+57de43d3-4cee-4463-84cc-e2343600d61e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003548|mdtN	group ceo-mdt-1	75.42	118	3846
+4d972761-5a86-4608-8cc8-9932c945714f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003578|PmrF	PmrF	70.78	681	2062
+5064d928-8764-4b06-9d37-d395ea2718c4	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000796|mdtF	group mdt-mex-sme-1	75.37	203	3998
+9e5de3e0-4d98-480a-a3ff-f45b0e294bd0	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003830|aminocoumarin	alaS	75.26	2082	605
+94437993-8f0d-4176-ad20-423da944056f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000309|emrD	emrD	73.54	1198	3709
+bb727ba7-9e69-4066-a61b-38c506242c18	Klebsiella pneumoniae	Klebsiella	ARO:3000518|CRP	CRP	78.01	432	241
+bb727ba7-9e69-4066-a61b-38c506242c18	Klebsiella pneumoniae	Klebsiella	ARO:3000518|CRP	CRP	77.37	243	418
+771fd543-8092-411b-ae85-067f90804a72	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001214|mdtM	group mdt-mdf-1	73.55	155	6224
+e491ce14-95f8-40a3-979f-cfbe9fc3bd2c	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003154|SHV-187	group SHV-LEN-OKP-1	85.02	881	7018
+e0c4a7bd-ebcb-45a2-bef1-d9c1b21a0807	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002986|bacA	bacA	71.02	835	1633
+cc00309e-b7cc-44e3-9ecd-153de2d63093	Klebsiella pneumoniae	Klebsiella	ARO:3000378|mexB	group mex-sme-1	72.7	315	5830
+9055d2a7-d08c-4f03-abca-6a933deb67d3	Klebsiella pneumoniae	Klebsiella	ARO:3000379|oprM	group opr-sme-2	70.83	168	318
+99a5321c-7441-4999-addb-97c7ef656847	Klebsiella pneumoniae	Klebsiella	ARO:3003056|smeE	group mex-sme-1	73.28	131	1425
+99a5321c-7441-4999-addb-97c7ef656847	Klebsiella pneumoniae	Klebsiella	ARO:3003056|smeE	group mex-sme-1	72.31	130	2261
+9b9162e2-097a-42b4-9eb5-d24ab62aca19	Escherichia coli	Escherichia coli	ARO:3002831|vgaC	vgaC	85.34	232	988
+05c94b06-0664-4eee-8570-e0bd6b7fa7f0	Proteus mirabilis	Proteus mirabilis	ARO:3001216|mdtH	mdtH	71.43	147	3364
+92993eb6-bdcf-4e69-a698-3158ad019530	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003048|rosA	rosA	71.6	331	2430
+20a5ff40-da3b-4d80-a932-210325426049	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000793|mdtB	group mdt-mds-acr-mtr-1	72.46	512	7249
+ea828b01-5736-4bd9-b047-ef49d4a66c1f	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3002831|vgaC	vgaC	86.53	245	285
+b0c111c3-eb40-440c-a34d-50f7fc1418d6	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000832|evgA	evgA	70.71	239	3783
+a5d8756b-5960-4648-a383-bc3bff59fb7c	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001328|mdfA	group mdt-mdf-1	73.5	717	592
+bddf80c6-59b6-452b-884d-97e90d6c0d42	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000676|H-NS	H-NS	73.19	414	6542
+ae09dd8e-f8cf-4388-b169-acf7b6eeeacf	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000502|acrF	group ceo-ade-acr-1	72.47	1631	5897
+4b76be2a-5061-44e3-a74c-9a3ed625231b	Klebsiella pneumoniae	Enterobacterales	ARO:3001181|SHV-137	group SHV-LEN-OKP-1	83.95	617	1980
+31d78317-5daf-4ee0-88b9-3a7c6e4c5219	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001216|mdtH	mdtH	74.71	522	1055
+a4d9e191-0bb6-4d4e-9537-bb2de59452a5	Escherichia coli	Enterobacteriaceae	ARO:3003923|oqxB	group oqx-mex-amr-1	82.64	363	137
+a4d9e191-0bb6-4d4e-9537-bb2de59452a5	Escherichia coli	Enterobacteriaceae	ARO:3003923|oqxB	group oqx-mex-amr-1	76.56	128	363
+c707c8bc-12a3-40e1-88c4-bf1d88e499ab	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001216|mdtH	mdtH	70.85	1204	1060
+55bd8838-bfba-4a07-96de-0afd77c06df3	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001330|mdtD	mdtD	72.97	825	693
+55bd8838-bfba-4a07-96de-0afd77c06df3	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000794|mdtC	group mdt-mex-sme-1	71.96	617	925
+1dcfed48-c22d-4889-aef1-48f12b9d3662	Klebsiella pneumoniae	Klebsiella	ARO:3002985|arnA	arnA	71.6	331	148
+bfb651cf-af03-42b4-ba25-b3b411452d4d	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003576|PmrC	PmrC	70.99	617	1016
+bfb651cf-af03-42b4-ba25-b3b411452d4d	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003576|PmrC	PmrC	70.63	126	1496
+64ae2de0-295b-4f73-9243-626a78b08d95	Advenella kashmirensis	Enterobacteriaceae	ARO:3003923|oqxB	group oqx-mex-amr-1	78.54	219	51
+8e27e855-45b0-4ee3-80af-9a057e875a30	Klebsiella pneumoniae	Klebsiella	ARO:3000024|patA	patA	73.57	1419	3662
+60c6d342-bfac-45fd-9b12-fb52ca92274e	Klebsiella pneumoniae	Klebsiella	ARO:3000237|tolC	tolC	73.4	624	492
+ef9078d6-de7f-44a8-b76b-3c3f63987f33	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003923|oqxB	group oqx-mex-amr-1	85.54	726	3373
+64d4cf8e-0b79-4dd5-8e9f-626322ceb46b	Proteus mirabilis	Proteus mirabilis	ARO:3003359|Streptomyces	Streptomyces	70.4	125	1365
+36a38cb9-d191-4dd3-a091-4154495d7a12	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001329|mdtG	mdtG	73.0	200	6557
+1a5007e0-be01-437e-a1a9-8fba853e09bf	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000074|emrB	emrB	71.67	233	4685
+e4274fd5-7b82-4b49-8803-432a1109055e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003923|oqxB	group oqx-mex-amr-1	88.68	1864	1008
+39e27a46-b6bb-450d-b789-d30f901b1476	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003359|Streptomyces	Streptomyces	70.53	414	226
+a03a8ac3-84c9-4797-b325-3b6cbf0d6c60	Klebsiella pneumoniae	Klebsiella	ARO:3000804|mexF	group mex-Tri-1	72.28	202	3722
+c8480359-16e4-4119-a645-bd359ea0f404	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000502|acrF	group ceo-ade-acr-1	72.31	715	217
+deefa3bf-74ae-40ab-9f63-d257e4954b09	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000676|H-NS	H-NS	80.1	412	7142
+3bfd0512-e39e-4319-92ab-90cc14671192	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000216|acrB	group mex-acr-1	71.31	251	270
+f7e9be83-9fc9-49a3-9f33-36081d617e05	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000832|evgA	evgA	70.7	157	1026
+4ca75916-3a26-4e36-917c-862c898f0548	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001328|mdfA	group mdt-mdf-1	77.48	111	446
+1399e99f-724a-4be2-94c0-2db2a1303d69	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	74.53	161	935
+0b48fca7-37ff-4e21-b7ed-7c7909bb7ecc	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000502|acrF	group ceo-ade-acr-1	74.02	381	197
+b5ab794e-a202-4dcb-b6ee-abc4ea718ff0	Klebsiella pneumoniae	Klebsiella	ARO:3000518|CRP	CRP	84.78	138	780
+e6753af7-cb23-4598-9912-0b4d7e3b4441	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003576|PmrC	PmrC	72.73	110	7127
+ff8aae00-1314-4ec5-b5d0-9d0480a699e1	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001330|mdtD	mdtD	71.83	252	735
+f71b22e1-2438-4291-99ae-a91cf4fb1236	Klebsiella pneumoniae	Klebsiella	ARO:3000828|baeR	group bae-sme-1	78.38	185	1710
+2e1f6f45-cda2-4505-afc8-c980a31099d4	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000378|mexB	group mex-sme-1	72.11	441	1903
+2e1f6f45-cda2-4505-afc8-c980a31099d4	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003010|ceoB	group ceo-ade-acr-1	70.87	127	2256
+ab8219cd-1502-4b7c-a15d-5fcaced3b50a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003578|PmrF	PmrF	76.9	407	5724
+d1079f12-f18d-4a87-b0d0-aed5362f4fa7	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003056|smeE	group mex-sme-1	73.72	449	3849
+d1079f12-f18d-4a87-b0d0-aed5362f4fa7	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000378|mexB	group mex-sme-1	70.44	433	5454
+d1079f12-f18d-4a87-b0d0-aed5362f4fa7	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002983|amrB	group oqx-mex-amr-1	70.55	163	3545
+d1079f12-f18d-4a87-b0d0-aed5362f4fa7	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003055|smeD	group acr-sme-1	70.27	148	4542
+d1079f12-f18d-4a87-b0d0-aed5362f4fa7	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000800|mexC	group mex-amr-1	73.53	102	4275
+c2670bb2-e9db-416b-8c16-4f0153c57718	Klebsiella pneumoniae	Klebsiella	ARO:3000794|mdtC	group mdt-mex-sme-1	73.75	1783	327
+c2670bb2-e9db-416b-8c16-4f0153c57718	Klebsiella pneumoniae	Klebsiella	ARO:3000793|mdtB	group mdt-mds-acr-mtr-1	75.68	329	1730
+99c2100b-681a-4e1b-b4d7-34850937ea1e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003841|kdpE	kdpE	71.68	678	9811
+82433c3b-dc0d-48a2-8ff7-269bc73b3ae6	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000830|cpxA	cpxA	73.8	1370	2287
+82433c3b-dc0d-48a2-8ff7-269bc73b3ae6	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000831|cpxR	cpxR	77.51	698	3623
+3236bbd2-8583-40d3-a034-e4ad1b4ff7b7	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000826|sdiA	sdiA	79.75	158	4029
+4938f362-eee5-43c2-887a-5da8acb09bc7	Klebsiella pneumoniae	Klebsiella	ARO:3000024|patA	patA	83.15	184	788
+76af8c12-175e-42cd-98ce-b9560f6ff6eb	Proteus mirabilis	Proteus mirabilis	ARO:3002985|arnA	arnA	71.94	449	485
+291250ff-f781-4fc5-9393-6fbf4248f720	Escherichia coli	Enterobacteriaceae	ARO:3003922|oqxA	group oqx-mex-1	86.17	282	199
+291250ff-f781-4fc5-9393-6fbf4248f720	Escherichia coli	Enterobacteriaceae	ARO:3003923|oqxB	group oqx-mex-amr-1	87.29	181	298
+9eeabd98-9050-436f-b757-7ff5445b4c2f	Proteus mirabilis	Proteus mirabilis	ARO:3002670|cat	group cat-1	89.12	239	514
+fabbb72e-615b-487a-83b4-786a6e57bb84	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003923|oqxB	group oqx-mex-amr-1	86.84	2493	677
+5708db1c-d312-4c9e-b710-b83e16df0824	Klebsiella pneumoniae	Enterobacterales	ARO:3001191|SHV-152	group SHV-LEN-OKP-1	83.18	737	2652
+4fc726af-635e-45b9-9464-639db28c2251	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002986|bacA	bacA	74.02	816	3084
+2554b7f8-30a5-428f-a78c-3bdea5c5e51d	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001328|mdfA	group mdt-mdf-1	71.58	774	1333
+06a44d06-9a6e-4d99-bec5-014ea00c4e1a	Escherichia coli	Enterobacteriaceae	ARO:3002831|vgaC	vgaC	85.71	245	842
+61731bb8-1d8a-422d-99bf-4b25787901b4	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000074|emrB	emrB	72.32	1467	6436
+61731bb8-1d8a-422d-99bf-4b25787901b4	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000516|emrR	emrR	70.51	512	5056
+e2881823-d5e9-4b17-8c6d-137221e8c05e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	73.35	499	5094
+e2881823-d5e9-4b17-8c6d-137221e8c05e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	70.88	498	4157
+6b1a4278-acf2-4593-bdbe-ca83cf7fb34b	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000309|emrD	emrD	74.14	1168	6275
+40eebf68-88f6-4ce0-af65-e6c24dcb8a12	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003576|PmrC	PmrC	71.47	992	428
+e586fb4b-72b5-4252-9d5c-d125b46a9827	Klebsiella pneumoniae	Klebsiella	ARO:3000518|CRP	CRP	74.72	265	555
+4755cbbd-77d6-4ddc-8fd4-f4caabe37228	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003844|mfd	mfd	71.71	251	151
+36efa0b2-29f5-49b9-81d5-bd63e854d92b	Shigella flexneri	Shigella flexneri	ARO:3002601|aadA	group aad-1	86.25	807	3322
+36efa0b2-29f5-49b9-81d5-bd63e854d92b	Shigella flexneri	Shigella flexneri	ARO:3002854|dfrA1	group dfr-3	89.63	482	2172
+36efa0b2-29f5-49b9-81d5-bd63e854d92b	Shigella flexneri	Shigella flexneri	ARO:3002895|sat-1	sat-1	87.11	551	2733
+4264d813-152b-4089-9ec2-f4cc282c008c	Klebsiella pneumoniae	Klebsiella	ARO:3003359|Streptomyces	Streptomyces	70.47	596	432
+c7ed7c9c-61a5-4e8b-9ba4-38fca614409f	Klebsiella pneumoniae	Klebsiella	ARO:3003359|Streptomyces	Streptomyces	74.85	171	791
+128b62c0-ff19-44b4-b3ca-364cc60730b0	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	72.1	2599	2471
+b01a6bee-063e-4a54-b45b-c1acf7ee567a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000378|mexB	group mex-sme-1	70.09	224	2021
+b01a6bee-063e-4a54-b45b-c1acf7ee567a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000377|mexA	group acr-mex-1	71.53	144	1723
+4e94a1c8-bf94-4219-bd10-952f5f7f8339	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003841|kdpE	kdpE	70.25	642	4721
+411f7fcd-c655-4a8e-8dc0-e9c01dcb893e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000237|tolC	tolC	71.01	1359	2633
+0488f2db-4348-47b2-9768-6b701b967e83	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	74.61	445	498
+a8370665-46bc-4171-9984-a9c22719b8ff	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	70.98	193	1574
+d4ec32f3-6075-4b18-a1a2-404e171feb55	Klebsiella pneumoniae	Klebsiella	ARO:3000378|mexB	group mex-sme-1	70.07	441	6898
+5698312d-9dd6-497b-8bb2-aa2abecd964c	Klebsiella pneumoniae	Klebsiella	ARO:3000207|acrA	group acr-sme-1	73.06	1236	1171
+ef4f4521-6050-4423-a43a-8a1448644f54	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000074|emrB	emrB	76.19	1571	506
+ef4f4521-6050-4423-a43a-8a1448644f54	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000027|emrA	group emr-5	78.37	282	1969
+a2e3bd00-c07f-4000-832e-81255b6d8b83	Klebsiella pneumoniae	Klebsiella	ARO:3003841|kdpE	kdpE	74.86	354	309
+7eeb5f53-902d-4ef0-92b4-731d70815ef4	Klebsiella pneumoniae	Klebsiella	ARO:3000831|cpxR	cpxR	77.4	699	141
+7eeb5f53-902d-4ef0-92b4-731d70815ef4	Klebsiella pneumoniae	Klebsiella	ARO:3000830|cpxA	cpxA	79.56	137	820
+47975621-6a1a-4d97-87c6-34ff0a4441f7	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003359|Streptomyces	Streptomyces	70.22	403	2543
+573ca14e-1648-4f4f-a947-0123a9f0c353	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000796|mdtF	group mdt-mex-sme-1	74.77	107	1787
+adcfefbc-5351-46df-a254-d758638d3631	Klebsiella pneumoniae	Klebsiella	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	74.8	123	1894
+7f278736-5322-4b78-824d-9c90c8c9358a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003048|rosA	rosA	70.59	306	577
+721a34f4-0e08-4072-8836-d508be8f728c	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000207|acrA	group acr-sme-1	72.68	183	212
+1fb012ce-1115-468d-a400-b19f198d3bc2	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000378|mexB	group mex-sme-1	74.62	331	425
+d56a92a0-e642-4df6-8ac0-0991f00d431a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002986|bacA	bacA	72.22	108	415
+8fa05c8e-7b7b-47e8-8c94-e04760daffcc	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003209|FosA5	group Fos-3	84.04	401	1056
+943f85e1-4913-4a44-805c-12d57afd60e4	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	70.99	1010	1978
+4f693e14-6e4a-4934-b264-bf537cd9c059	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000794|mdtC	group mdt-mex-sme-1	73.72	1537	3250
+4f693e14-6e4a-4934-b264-bf537cd9c059	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001330|mdtD	mdtD	73.51	1378	1915
+4f693e14-6e4a-4934-b264-bf537cd9c059	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000829|baeS	baeS	70.23	608	3407
+4f693e14-6e4a-4934-b264-bf537cd9c059	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000828|baeR	group bae-sme-1	72.56	328	4429
+8311c707-4d80-42a2-962b-c1ecf6200c94	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000309|emrD	emrD	70.01	1067	1088
+a0c868d2-a5df-450c-8de1-fd2c4e91b3f4	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000828|baeR	group bae-sme-1	70.73	697	776
+733d13c0-b930-4f71-9dc2-596213e80604	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000074|emrB	emrB	74.47	1222	1486
+e7b50ba1-ac76-4941-ab58-d95dea520f3d	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	74.07	2113	5001
+b12280fd-2c1c-4b37-bd3a-16fdafb0f11c	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001327|mdtK	mdtK	71.16	898	1227
+978d00a7-e56f-4734-85c7-8f6468eb31fc	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001068|SHV-9	group SHV-LEN-OKP-1	84.33	319	3704
+cdd328ed-f265-437a-8853-7b4b7f54e98c	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000216|acrB	group mex-acr-1	78.3	106	254
+c8776835-a1fa-4fa4-a014-a81b21d79423	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000074|emrB	emrB	73.59	1242	892
+a0312d87-a26b-498c-9a26-a3a6654f74a3	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000378|mexB	group mex-sme-1	73.13	428	2845
+98a08030-ab46-4cf4-a31a-66a0fb3d6b3d	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000309|emrD	emrD	74.93	335	230
+98a08030-ab46-4cf4-a31a-66a0fb3d6b3d	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000309|emrD	emrD	78.7	169	613
+18603120-3d63-434f-8d35-f181ea00b514	Klebsiella pneumoniae	Klebsiella	ARO:3002983|amrB	group oqx-mex-amr-1	74.65	142	335
+7449f085-b91a-4bfd-9600-ddf69e79887e	Klebsiella pneumoniae	Klebsiella	ARO:3000207|acrA	group acr-sme-1	71.73	1245	146
+7449f085-b91a-4bfd-9600-ddf69e79887e	Klebsiella pneumoniae	Klebsiella	ARO:3000216|acrB	group mex-acr-1	85.37	123	1356
+715e37e2-83d3-4f25-9dff-57bb8d18b75a	Klebsiella pneumoniae	Klebsiella	ARO:3003052|smeB	group mdt-mex-sme-1	77.08	144	320
+122a71ad-84ec-4448-859a-b4c935992b5f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001329|mdtG	mdtG	70.07	1186	1159
+13d4b757-65cb-4509-8fa1-6756b24d55bb	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	72.41	319	1617
+13d4b757-65cb-4509-8fa1-6756b24d55bb	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003578|PmrF	PmrF	73.33	135	1975
+3d51f3fb-33f9-45d2-8b12-800862082ce2	Klebsiella pneumoniae	Klebsiella	ARO:3000828|baeR	group bae-sme-1	74.17	724	3044
+3d51f3fb-33f9-45d2-8b12-800862082ce2	Klebsiella pneumoniae	Klebsiella	ARO:3001330|mdtD	mdtD	77.08	336	5271
+3d51f3fb-33f9-45d2-8b12-800862082ce2	Klebsiella pneumoniae	Klebsiella	ARO:3000829|baeS	baeS	70.61	279	4938
+5fb5c63a-46b5-46f8-b3d0-82291651799e	Klebsiella pneumoniae	Klebsiella	ARO:3000216|acrB	group mex-acr-1	76.44	938	2104
+5fb5c63a-46b5-46f8-b3d0-82291651799e	Klebsiella pneumoniae	Klebsiella	ARO:3000207|acrA	group acr-sme-1	71.46	1244	942
+4e3b98b3-5b0a-46b9-b5e1-be8571957916	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003830|aminocoumarin	alaS	78.33	526	1278
+64b62947-1bbd-4237-a675-d7b0a0170b31	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003359|Streptomyces	Streptomyces	77.51	169	414
+028894c4-866b-4b6c-86e8-efd55047aad4	Proteus mirabilis	Proteus mirabilis	ARO:3003844|mfd	mfd	75.0	184	249
+94107794-e610-483e-a9b0-262b3a3b5ce1	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003923|oqxB	group oqx-mex-amr-1	83.43	2571	253
+11fe1704-d265-497c-b7d1-82b3177655b0	Shigella flexneri	Shigella flexneri	ARO:3002601|aadA	group aad-1	92.4	803	1531
+11fe1704-d265-497c-b7d1-82b3177655b0	Shigella flexneri	Shigella flexneri	ARO:3002895|sat-1	sat-1	93.93	527	2366
+11fe1704-d265-497c-b7d1-82b3177655b0	Shigella flexneri	Shigella flexneri	ARO:3002854|dfrA1	group dfr-3	91.25	480	2976
+dccc7a79-da6a-400e-b102-7cc590bfe0ee	Klebsiella pneumoniae	Klebsiella	ARO:3002983|amrB	group oqx-mex-amr-1	76.6	141	335
+dccc7a79-da6a-400e-b102-7cc590bfe0ee	Klebsiella pneumoniae	Klebsiella	ARO:3003923|oqxB	group oqx-mex-amr-1	71.43	112	365
+59948647-d899-463a-be21-5e9553806efe	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003066|smeR	group bae-sme-1	73.15	108	3594
+0ac6e3a7-1c57-4024-a25b-f3ae500f2640	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003049|rosB	rosB	71.23	219	575
+4b82c7c1-276e-4c46-9f7c-dd97423c2d34	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000207|acrA	group acr-sme-1	73.85	218	894
+a0521bdf-fbf7-4ad0-818b-f00db32176db	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003578|PmrF	PmrF	70.09	953	3127
+a0521bdf-fbf7-4ad0-818b-f00db32176db	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	73.03	508	5012
+bed9481d-1ae6-46f6-a974-8f2c1f782a9b	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002986|bacA	bacA	74.16	356	202
+6509ee65-1007-4488-8c46-59f937d7c1bb	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001330|mdtD	mdtD	74.2	1027	517
+6509ee65-1007-4488-8c46-59f937d7c1bb	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000794|mdtC	group mdt-mex-sme-1	78.32	489	1031
+4c91f2ca-f48b-4d3d-a5e2-14d7b427d426	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003840|aminocoumarin	cysB	74.25	299	3134
+11dd0010-f065-4ef1-b1ee-b4a87a1e0234	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003923|oqxB	group oqx-mex-amr-1	87.22	3256	648
+11dd0010-f065-4ef1-b1ee-b4a87a1e0234	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003922|oqxA	group oqx-mex-1	87.64	639	3462
+fd60b0fb-da23-4f60-8842-1913efe6ece6	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000823|ramA	group mar-ram-1	72.68	355	7635
+f420290b-60c0-44ba-b403-570d157ad714	Klebsiella pneumoniae	Klebsiella	ARO:3000024|patA	patA	82.44	450	216
+d8f2c94f-76d2-4007-bc7c-f789b3d80de4	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001214|mdtM	group mdt-mdf-1	76.06	188	451
+8eda44d2-eb8f-4ca5-92fa-199d2b2bb191	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003830|aminocoumarin	alaS	81.89	243	529
+c418092f-f317-4930-b1eb-9333a3b50f8d	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003923|oqxB	group oqx-mex-amr-1	84.94	737	245
+ec8ac5b7-8b1f-41c2-b768-5a36ee6178e6	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000024|patA	patA	74.25	532	204
+e590b7d3-e60c-45e4-b2b6-8c05077b70fb	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000027|emrA	group emr-5	72.89	1077	337
+e590b7d3-e60c-45e4-b2b6-8c05077b70fb	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000074|emrB	emrB	77.83	230	1377
+60db3742-da72-45ea-9033-783f8d9d02e9	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000263|marA	group mar-ram-1	73.57	314	4316
+140eec99-a2a6-40e8-8662-a69051a9c50d	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001328|mdfA	group mdt-mdf-1	73.58	636	262
+f71e8e9e-884f-4e2e-8d55-3943934c21be	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003830|aminocoumarin	alaS	74.05	447	2754
+274ec408-75a9-4217-b1cb-31a2abe38749	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000024|patA	patA	71.4	514	2441
+6d280832-e7d4-436a-833a-6e2a7ccd1221	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000074|emrB	emrB	71.4	577	1810
+6d280832-e7d4-436a-833a-6e2a7ccd1221	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000027|emrA	group emr-5	70.26	427	1285
+6d280832-e7d4-436a-833a-6e2a7ccd1221	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000027|emrA	group emr-5	70.0	200	1458
+8509d609-1321-4f76-9d0b-17c24e6ff26a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003841|kdpE	kdpE	73.02	367	1463
+aa60d629-e9ea-4e51-93e5-f05b81e1c15e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002828|srmB	group srm-tlr-car-ole-1	72.31	130	2685
+9ea2e289-3e34-4201-bc39-4a975927a47e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000518|CRP	CRP	74.35	651	931
+a477943c-ae6d-4d2b-b753-eb4f0d39ba7a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000378|mexB	group mex-sme-1	75.16	153	3406
+a477943c-ae6d-4d2b-b753-eb4f0d39ba7a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000378|mexB	group mex-sme-1	70.97	155	3098
+a477943c-ae6d-4d2b-b753-eb4f0d39ba7a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003056|smeE	group mex-sme-1	70.68	440	1887
+a477943c-ae6d-4d2b-b753-eb4f0d39ba7a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003056|smeE	group mex-sme-1	71.19	118	2468
+a477943c-ae6d-4d2b-b753-eb4f0d39ba7a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003056|smeE	group mex-sme-1	71.13	142	3164
+a477943c-ae6d-4d2b-b753-eb4f0d39ba7a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	71.71	152	3414
+07a50cfe-ae5c-4575-9a6a-ac73ae53cdb5	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000263|marA	group mar-ram-1	71.76	170	2441
+8982c232-50b6-4d87-ab2d-8a2a53382e67	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000378|mexB	group mex-sme-1	72.54	386	2281
+8982c232-50b6-4d87-ab2d-8a2a53382e67	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	70.73	123	1845
+506b2909-dc48-40b8-942e-d2cf90e5a9ed	Klebsiella pneumoniae	Klebsiella	ARO:3000830|cpxA	cpxA	78.7	277	147
+506b2909-dc48-40b8-942e-d2cf90e5a9ed	Klebsiella pneumoniae	Klebsiella	ARO:3000831|cpxR	cpxR	81.2	133	287
+2590c440-2830-4195-8892-01b4db7b0350	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000825|robA	robA	71.06	235	2591
+777163b1-bba0-4d96-af68-052d04a14349	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000502|acrF	group ceo-ade-acr-1	72.57	113	7522
+777163b1-bba0-4d96-af68-052d04a14349	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000796|mdtF	group mdt-mex-sme-1	72.1	233	5901
+777163b1-bba0-4d96-af68-052d04a14349	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	71.97	132	7359
+1d33811f-abb0-4246-b90e-8b085fc11948	Klebsiella pneumoniae	Klebsiella	ARO:3000793|mdtB	group mdt-mds-acr-mtr-1	72.82	758	197
+b19b6086-e391-4657-8ef0-9fd7dbee3f09	Klebsiella pneumoniae	Klebsiella	ARO:3000024|patA	patA	75.42	948	5091
+e7f989e9-1ce9-4eb7-a67e-746165f025a0	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001327|mdtK	mdtK	70.42	1447	771
+70249fee-7fda-405f-a88a-492e9daa3825	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3002831|vgaC	vgaC	80.87	230	942
+29579141-1d1a-458b-bdf5-6364400cf0a0	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001214|mdtM	group mdt-mdf-1	72.2	518	668
+489e7544-20ce-46b6-8756-1b227682963e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001214|mdtM	group mdt-mdf-1	70.85	199	2162
+cd299a03-538e-4d57-bc02-9fd8f69954e8	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003840|aminocoumarin	cysB	71.82	997	3686
+6fabe10b-f881-45c5-ab5a-bae9c46e9ca9	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003844|mfd	mfd	73.56	711	6275
+6fabe10b-f881-45c5-ab5a-bae9c46e9ca9	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003844|mfd	mfd	74.26	101	6072
+4718b8c1-62b2-4869-8ce7-dd21a3b6380f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000074|emrB	emrB	73.87	1569	899
+4718b8c1-62b2-4869-8ce7-dd21a3b6380f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000027|emrA	group emr-5	70.49	759	2410
+4e9cc2b1-3f71-4ec9-9457-2042fc6a3851	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003010|ceoB	group ceo-ade-acr-1	71.43	140	2011
+08c357d4-1ffe-4ddb-a13b-36da4eecdff8	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000074|emrB	emrB	74.92	1312	987
+68975243-59bc-488a-a866-399a10e3c8b3	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001327|mdtK	mdtK	70.56	659	52
+f685b0b5-9282-4aae-9850-4bbfd1eed323	Klebsiella pneumoniae	Klebsiella	ARO:3000024|patA	patA	78.65	178	2341
+f42eb7d5-e24c-4464-9a64-61cfe2ad9436	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000826|sdiA	sdiA	79.05	148	536
+1a50b849-6e8b-4b65-9a65-d496f1a99084	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000830|cpxA	cpxA	75.67	1266	215
+b718a79a-43a1-4543-939d-4354d39b8ad6	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000792|mdtA	mdtA	71.46	1023	7387
+b718a79a-43a1-4543-939d-4354d39b8ad6	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000793|mdtB	group mdt-mds-acr-mtr-1	73.13	588	8448
+013e6ede-1741-429e-a11f-a0d337aa373c	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003056|smeE	group mex-sme-1	72.27	476	3018
+013e6ede-1741-429e-a11f-a0d337aa373c	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002983|amrB	group oqx-mex-amr-1	73.87	111	2154
+94fd30e9-1c96-4a44-aeef-88815ec6fc8b	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001215|mdtL	group mdt-bcr-1	76.36	110	3454
+c2fe0d05-d1cc-4cc8-934d-96a6d94a6ef5	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000237|tolC	tolC	71.92	260	990
+cd9754cf-a17e-4046-94c7-9c7e5c5e1ba4	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000828|baeR	group bae-sme-1	75.52	531	68
+7c2bf6af-b378-4ca0-8cdc-74fc9acf705d	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000207|acrA	group acr-sme-1	70.62	354	121
+5a4c5f29-3a1e-45b3-8c33-68638b8f2fbe	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003840|aminocoumarin	cysB	72.24	562	2562
+58e8f118-0279-4884-b815-4b1dad5cdabd	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003922|oqxA	group oqx-mex-1	83.54	972	1793
+c849a22a-c112-4281-bc97-4dcdd9da4ace	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001214|mdtM	group mdt-mdf-1	71.54	130	5260
+4f326abf-3f9a-42c8-b795-fcaa4275f29f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000826|sdiA	sdiA	75.0	208	393
+289843da-cd62-419f-a851-01181361b3ea	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002986|bacA	bacA	73.37	845	7929
+803acbc6-b004-42cb-8810-ff01ecfb6608	Proteus mirabilis	Proteus mirabilis	ARO:3002670|cat	group cat-1	84.75	446	10753
+75f19990-1db9-48b5-88f2-07f73317e27f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000825|robA	robA	74.49	345	96
+95c4a648-0bd1-432d-a2de-63e8db9dbb21	Klebsiella pneumoniae	Klebsiella	ARO:3000237|tolC	tolC	76.92	169	393
+34c1a5e3-d496-46a6-b793-5320bf0201c9	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000216|acrB	group mex-acr-1	75.44	3200	1569
+34c1a5e3-d496-46a6-b793-5320bf0201c9	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000207|acrA	group acr-sme-1	72.1	810	4639
+ee79f39b-aeff-4691-a667-cee2e4218f15	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003209|FosA5	group Fos-3	78.85	227	3356
+82947249-da5d-46de-a5b3-fe8bdd7ae068	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003052|smeB	group mdt-mex-sme-1	75.25	101	664
+0a56964a-3f37-4ee3-b855-f7e7d426a3d1	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000830|cpxA	cpxA	74.25	1406	3333
+0a56964a-3f37-4ee3-b855-f7e7d426a3d1	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000831|cpxR	cpxR	74.65	718	4682
+4c34efc0-9b24-42f8-b983-502723ccbc2f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001328|mdfA	group mdt-mdf-1	72.0	1100	1960
+71411afd-bb98-47af-8836-a507a62b8414	Klebsiella pneumoniae	Klebsiella	ARO:3003056|smeE	group mex-sme-1	75.47	322	296
+09328504-afb1-484f-8ab8-a9392c425ff4	Klebsiella pneumoniae	Klebsiella	ARO:3000024|patA	patA	75.08	991	219
+6e148699-f9b6-4da6-8b42-3d7ab335d365	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002827|tlrC	group srm-tlr-car-ole-1	71.03	107	358
+7ae51fb0-8476-4f73-9648-4d5199e8f3f6	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003922|oqxA	group oqx-mex-1	87.29	236	1932
+deb6ae0c-247e-48a4-ac54-61d9ffaa32d7	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3002831|vgaC	vgaC	87.92	240	1399
+d7de9a05-577d-4498-9de0-feffb30f16c1	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000792|mdtA	mdtA	70.67	225	1645
+cd91c222-ecd9-4189-b9df-371e473cf546	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002986|bacA	bacA	71.09	595	1482
+a2d21a23-2e49-46e9-823f-dd12c21ed3a3	Klebsiella pneumoniae	Klebsiella	ARO:3000796|mdtF	group mdt-mex-sme-1	74.71	174	176
+a2d21a23-2e49-46e9-823f-dd12c21ed3a3	Klebsiella pneumoniae	Klebsiella	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	71.43	231	135
+be0c4d3f-8254-41e7-8fba-d6651a858de8	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000237|tolC	tolC	71.8	1163	949
+14b95e08-b2f9-4a9e-addf-dca38e9aa2f7	Klebsiella pneumoniae	Klebsiella	ARO:3000024|patA	patA	71.68	459	472
+3b481053-0f02-49d7-a291-5eeabca455bd	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	72.39	728	59
+eadee5ba-7bd3-4314-a6f3-474a8a6ea7ba	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003066|smeR	group bae-sme-1	72.46	138	3936
+5710b64d-0152-4577-bd2b-eec3cb19ec35	Klebsiella pneumoniae	Klebsiella	ARO:3001327|mdtK	mdtK	75.2	246	231
+1139dd78-f510-48d0-a3ee-5dd936402f67	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000024|patA	patA	73.15	689	2765
+345e45d5-cedc-403d-a6a5-406210849fcf	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003359|Streptomyces	Streptomyces	73.61	144	154
+bf2c7cc4-f1ba-4c71-98ba-dee8c236b339	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000502|acrF	group ceo-ade-acr-1	71.61	317	87
+1a6c3b47-970d-4340-b86b-1cdd166b2c2f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003844|mfd	mfd	71.85	238	1166
+20e327b9-7b0e-4748-b2db-143d9878202d	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003066|smeR	group bae-sme-1	75.47	106	1135
+697528e6-f0b4-4250-87c4-549183af5ff6	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000830|cpxA	cpxA	73.17	451	768
+bc52996e-2b26-4877-bdf0-42d7dcb3a0fe	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000792|mdtA	mdtA	73.68	494	77
+8d34974b-1812-4479-8010-a730cf56ee52	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000825|robA	robA	70.29	828	1632
+4fa91722-79e4-479b-8870-8695b2519190	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003830|aminocoumarin	alaS	72.85	2158	68
+e91fbdf6-de5f-495c-af30-16b3108c6d1c	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003840|aminocoumarin	cysB	72.5	600	2130
+6df55ff0-5349-4263-b49e-65b2f9d19a08	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003830|aminocoumarin	alaS	73.16	339	3300
+416fdf9a-524c-4c18-b0cd-1d6726577c2e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003922|oqxA	group oqx-mex-1	86.97	1205	1849
+416fdf9a-524c-4c18-b0cd-1d6726577c2e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003923|oqxB	group oqx-mex-amr-1	87.2	375	3031
+7d2feaf6-92fc-4391-9f53-45c51e54ddb4	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000793|mdtB	group mdt-mds-acr-mtr-1	72.42	2948	2938
+7d2feaf6-92fc-4391-9f53-45c51e54ddb4	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000792|mdtA	mdtA	71.08	1027	2929
+1ed37c39-49c9-4aa6-87f3-18c1b8f33b93	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000516|emrR	emrR	75.24	315	117
+e6791c31-de07-4825-bccc-263727567ab4	Klebsiella pneumoniae	Klebsiella	ARO:3000207|acrA	group acr-sme-1	73.01	1019	297
+e6791c31-de07-4825-bccc-263727567ab4	Klebsiella pneumoniae	Klebsiella	ARO:3000216|acrB	group mex-acr-1	78.12	128	1139
+667f8edc-40f2-4f60-b43c-c0d6887a853e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003359|Streptomyces	Streptomyces	71.63	215	3720
+76914227-95c7-40ea-ab4b-f85a5369cb27	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003578|PmrF	PmrF	71.3	547	195
+30a17c45-3589-4892-a21e-72656458044f	Escherichia fergusonii	Enterobacteriaceae	ARO:3002831|vgaC	vgaC	87.07	232	1633
+d8998423-93e6-4447-aac7-0bbf16c047a8	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000794|mdtC	group mdt-mex-sme-1	75.61	537	371
+d8998423-93e6-4447-aac7-0bbf16c047a8	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001330|mdtD	mdtD	78.57	280	584
+c8d73c20-c99d-4f15-8c60-d58a75e7b1fc	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003052|smeB	group mdt-mex-sme-1	72.37	152	4982
+db83ce4e-0c3d-406c-9ce3-dd82cb7e71ef	Proteus mirabilis	Proteus mirabilis	ARO:3003049|rosB	rosB	73.79	103	4125
+30ff0598-e921-40fd-b5b5-570978bcdc7b	Proteus mirabilis	Proteus mirabilis	ARO:3003844|mfd	mfd	70.87	103	2584
+ae9eec6d-b8b7-488e-9c73-9a6792094653	Klebsiella pneumoniae	Enterobacterales	ARO:3001191|SHV-152	group SHV-LEN-OKP-1	83.92	877	7539
+52945c70-668e-4ec1-ba9d-ba25bad99701	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	71.83	2982	155
+762c42b6-102d-48a2-8046-55ae99e8adf9	Klebsiella pneumoniae	Klebsiella	ARO:3000831|cpxR	cpxR	74.82	711	511
+762c42b6-102d-48a2-8046-55ae99e8adf9	Klebsiella pneumoniae	Klebsiella	ARO:3000830|cpxA	cpxA	79.03	329	1208
+3b4ff943-db0c-4ed0-9f82-9f0b7e0b8b98	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001215|mdtL	group mdt-bcr-1	73.68	190	2038
+14b355e0-6b26-4b6c-a90d-a1377d4de537	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000074|emrB	emrB	77.87	1062	1095
+14b355e0-6b26-4b6c-a90d-a1377d4de537	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000027|emrA	group emr-5	70.18	912	1230
+6e1f8b14-ad14-439a-97c7-a20be52e42da	Klebsiella pneumoniae	Klebsiella	ARO:3003052|smeB	group mdt-mex-sme-1	74.46	466	2215
+6e1f8b14-ad14-439a-97c7-a20be52e42da	Klebsiella pneumoniae	Klebsiella	ARO:3002983|amrB	group oqx-mex-amr-1	72.0	100	3089
+26f62185-131f-4784-8f0e-4e0fbd57d5bb	Escherichia coli	Enterobacteriaceae	ARO:3002831|vgaC	vgaC	88.28	239	764
+2ef1633d-f513-4cd3-b8c0-e9b3ef7367a7	Klebsiella pneumoniae	Klebsiella	ARO:3003922|oqxA	group oqx-mex-1	88.95	579	679
+f8046ab6-e1c3-454c-983d-16ef58e7e22c	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000793|mdtB	group mdt-mds-acr-mtr-1	72.26	501	1989
+98e4da7c-5558-4187-9c06-41cfbb5db7d4	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000207|acrA	group acr-sme-1	71.0	369	5054
+98e4da7c-5558-4187-9c06-41cfbb5db7d4	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000796|mdtF	group mdt-mex-sme-1	70.12	425	3170
+3a7351f9-8af1-4e82-8b60-a0729eca637b	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000499|acrE	group acr-mex-1	72.28	101	1036
+bb73bdc3-ea38-46fb-bec8-8f57f8365541	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000074|emrB	emrB	75.02	1137	929
+e8b2ecc8-1b4a-4189-be5d-f6d189ecca52	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003844|mfd	mfd	70.1	291	220
+2e79fb23-9be9-4cfa-9efc-aa1fab57f370	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000804|mexF	group mex-Tri-1	73.39	109	4536
+5e9896c2-ab7f-4e74-b964-91dfe28dab19	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000024|patA	patA	75.26	485	4420
+258579c6-90d2-4ace-a62e-643ffea8ef30	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3002831|vgaC	vgaC	86.24	109	912
+48cf292a-0a03-4f07-835c-c25eb403ef41	Klebsiella pneumoniae	Klebsiella	ARO:3000830|cpxA	cpxA	74.94	782	2072
+48cf292a-0a03-4f07-835c-c25eb403ef41	Klebsiella pneumoniae	Klebsiella	ARO:3000831|cpxR	cpxR	74.44	712	1375
+1cc0b8b5-8ae7-4e3d-b0f6-8b19ff1bb268	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000216|acrB	group mex-acr-1	71.6	3222	1031
+1cc0b8b5-8ae7-4e3d-b0f6-8b19ff1bb268	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000207|acrA	group acr-sme-1	73.58	371	4317
+34276f14-1364-43e5-8713-e0fc8dec53b4	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000378|mexB	group mex-sme-1	71.75	400	967
+43691b21-e36d-44ad-b6da-7f1ef6eb241a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000216|acrB	group mex-acr-1	74.34	339	476
+43691b21-e36d-44ad-b6da-7f1ef6eb241a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000207|acrA	group acr-sme-1	71.05	342	350
+6d09b60e-bbaa-4f23-ac42-33c9f7933afe	Klebsiella pneumoniae	Klebsiella	ARO:3000263|marA	group mar-ram-1	73.06	386	2535
+f573fde2-7be7-4031-946f-366f5bae0b6c	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001215|mdtL	group mdt-bcr-1	73.81	210	3027
+a060fdd5-82cb-4c9d-bf63-407c55ccfc35	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003830|aminocoumarin	alaS	77.33	225	780
+eab45b42-c8f9-41f1-b31a-392ba3a53528	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000074|emrB	emrB	77.57	263	557
+eab45b42-c8f9-41f1-b31a-392ba3a53528	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000027|emrA	group emr-5	71.29	411	407
+4ca686b0-7954-44d2-9bff-b810c912b6ed	Klebsiella pneumoniae	Klebsiella	ARO:3000518|CRP	CRP	81.1	254	261
+c0446e91-b127-4b89-b87e-5df59973b44d	Klebsiella pneumoniae	Klebsiella	ARO:3000378|mexB	group mex-sme-1	72.46	167	1965
+d5781d51-31d4-4fe6-9b74-0909fa3e8146	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000676|H-NS	H-NS	78.59	425	2061
+97c922e6-bc00-4efe-b53d-302012eddb26	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000024|patA	patA	73.46	1409	2491
+369b01da-e3fa-4495-a96a-4ed6fb686fd3	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003830|aminocoumarin	alaS	70.35	226	436
+c0321b31-9476-436a-9ab0-17c6e04b017a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000074|emrB	emrB	76.28	1092	1669
+68aee99e-e2ca-43ae-98e4-afae4c8b5964	Klebsiella pneumoniae	Klebsiella	ARO:3003923|oqxB	group oqx-mex-amr-1	84.76	2297	2261
+68aee99e-e2ca-43ae-98e4-afae4c8b5964	Klebsiella pneumoniae	Klebsiella	ARO:3003922|oqxA	group oqx-mex-1	88.11	1219	2219
+300cfb10-d3c4-457d-9e2a-b5a624413b05	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000516|emrR	emrR	75.48	518	1812
+337320da-414d-4518-a9e9-6883407b3ca8	Klebsiella pneumoniae	Klebsiella	ARO:3000024|patA	patA	73.12	1395	1413
+ff98ca94-1756-4f35-b63f-a9929b0e93b1	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003576|PmrC	PmrC	73.12	186	312
+adee774a-9717-4b43-a930-b41acfedcd26	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000074|emrB	emrB	75.98	712	101
+32467ded-8429-42d3-88ed-554b4733dd26	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003841|kdpE	kdpE	71.01	676	1427
+431f555e-a000-4023-abab-00dc3343f95e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001216|mdtH	mdtH	73.05	308	110
+a86b8da1-d0f8-45fa-986a-66d5eb277360	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003843|leuO	leuO	70.33	846	2746
+599e29cb-56c9-408f-8a52-c8de236fac42	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	73.87	222	2057
+9fcdf3cd-403c-459b-bdf9-6364e841d7af	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000207|acrA	group acr-sme-1	74.76	313	193
+57e1cb29-cb01-4bf9-8d7b-0885a24de6e0	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000216|acrB	group mex-acr-1	70.99	486	50
+1aa129e7-b4df-4944-a98d-05ad789e0a14	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000216|acrB	group mex-acr-1	78.35	2716	553
+59e194bc-ad14-4552-b46e-f6d9f6b2e386	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001329|mdtG	mdtG	71.53	274	2522
+4a51d792-037c-436f-ae8a-25dd9e394ace	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003359|Streptomyces	Streptomyces	72.73	154	4664
+3d730200-1f1d-46d1-948b-6f87be231531	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001215|mdtL	group mdt-bcr-1	77.91	163	3522
+25b1506a-5679-4455-b466-1536474dd334	Klebsiella pneumoniae	Klebsiella	ARO:3001330|mdtD	mdtD	75.0	424	251
+6385c5de-7ef9-4908-8945-15d866968232	Klebsiella pneumoniae	Klebsiella	ARO:3000828|baeR	group bae-sme-1	73.69	726	963
+6385c5de-7ef9-4908-8945-15d866968232	Klebsiella pneumoniae	Klebsiella	ARO:3000829|baeS	baeS	70.86	1009	729
+d1725fae-8040-4d47-9b09-9e389438ac49	Klebsiella pneumoniae	Klebsiella	ARO:3000823|ramA	group mar-ram-1	73.93	326	277
+94af0e0d-b29b-475c-bfa8-4731adce210c	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000024|patA	patA	76.86	242	3057
+410b95c8-008f-493b-aa78-cd123b2a1afe	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	75.78	223	217
+fdcc9f79-687d-4d39-a678-6dd256e50f03	Klebsiella pneumoniae	Klebsiella	ARO:3003056|smeE	group mex-sme-1	75.85	468	3629
+fdcc9f79-687d-4d39-a678-6dd256e50f03	Klebsiella pneumoniae	Klebsiella	ARO:3003056|smeE	group mex-sme-1	70.0	130	4190
+fdcc9f79-687d-4d39-a678-6dd256e50f03	Klebsiella pneumoniae	Klebsiella	ARO:3000796|mdtF	group mdt-mex-sme-1	71.92	203	2312
+373f1e5e-4ac7-4eae-a671-45d5dee994a2	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000831|cpxR	cpxR	70.46	650	510
+373f1e5e-4ac7-4eae-a671-45d5dee994a2	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000830|cpxA	cpxA	73.18	343	807
+cc54ea52-f2cb-416c-a3cb-039c9f4f3b2c	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003548|mdtN	group ceo-mdt-1	70.18	171	1143
+dd1fabfe-982c-4b8b-a381-f1653b9bbc6b	Klebsiella pneumoniae	Klebsiella	ARO:3000794|mdtC	group mdt-mex-sme-1	71.31	2987	1279
+cb335c36-5859-4df3-9b86-c31a5e65f54e	Klebsiella pneumoniae	Klebsiella	ARO:3000309|emrD	emrD	81.75	137	328
+b41ac9f0-c56f-4e60-aed3-2c5a6c4eb5b6	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000024|patA	patA	73.24	284	222
+31f75bed-aec8-4ca1-9903-bdb1ef85e6dc	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000237|tolC	tolC	75.62	566	3508
+db1e6148-0f11-4d95-9f3a-a6dad95ecf50	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000216|acrB	group mex-acr-1	72.5	1418	6394
+db1e6148-0f11-4d95-9f3a-a6dad95ecf50	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000207|acrA	group acr-sme-1	74.92	977	5199
+6cacd863-4409-4245-98ef-c57150e77aec	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000830|cpxA	cpxA	74.58	716	431
+6cacd863-4409-4245-98ef-c57150e77aec	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000831|cpxR	cpxR	75.0	452	719
+63db234a-de0e-4bac-94bb-229e12b875ae	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000676|H-NS	H-NS	75.9	361	5847
+bd102361-6156-42ac-a750-353389c29ef5	Escherichia coli	Escherichia coli	ARO:3002831|vgaC	vgaC	83.9	236	2129
+0274146f-d932-4ab9-8056-fd88a879dc56	Proteus mirabilis	Proteus mirabilis	ARO:3000177|tetJ	group tet-3	89.11	1230	3462
+03ddc3e4-cd53-4c4a-a456-25037549bac9	Klebsiella pneumoniae	Klebsiella	ARO:3000379|oprM	group opr-sme-2	70.73	123	1702
+edbba1d3-cce0-4cf9-8481-52b5f98aebf3	Klebsiella pneumoniae	Klebsiella	ARO:3000830|cpxA	cpxA	72.22	871	3625
+0213c7e0-4fc4-4c35-9f29-b1bc5d57bf76	Proteus mirabilis	Proteus mirabilis	ARO:3000177|tetJ	group tet-3	90.5	895	5791
+0e58708e-36be-4a0e-a6c6-c1b7420640cb	Escherichia coli	Escherichia coli	ARO:3002831|vgaC	vgaC	82.82	227	3180
+4da3fcf3-71f5-4289-9292-f90e69c93bbd	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003577|PmrE	PmrE	70.25	669	457
+4da3fcf3-71f5-4289-9292-f90e69c93bbd	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003577|PmrE	PmrE	70.25	400	664
+a117ea59-722b-4ead-af54-db5372f446f7	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001329|mdtG	mdtG	70.99	131	1145
+f9b149dd-49cf-433d-b8a0-f60414e2e49e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003578|PmrF	PmrF	74.91	287	161
+0e0e4b1d-c2fa-4a59-8714-d608c7ca3777	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000074|emrB	emrB	76.58	269	124
+cf267f85-de39-402b-8c30-045114db9837	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000793|mdtB	group mdt-mds-acr-mtr-1	75.82	335	5589
+a755b39d-c96a-43c3-b4d2-f100afa19a6b	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002986|bacA	bacA	73.32	386	12542
+49464b88-8217-489e-9664-452daeb54725	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000502|acrF	group ceo-ade-acr-1	73.97	388	115
+7639420c-666d-469e-bc87-0ecf6c77720f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000237|tolC	tolC	71.92	666	1529
+af6c002b-b375-43c5-b1cd-fddf4795b642	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001329|mdtG	mdtG	70.35	489	6966
+bd41976c-97b4-4488-b3b1-dff0a4a8b5cf	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001216|mdtH	mdtH	70.91	526	783
+d3e58f03-ef82-437d-84ea-d9ec9be82baa	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003922|oqxA	group oqx-mex-1	84.68	568	2412
+dad065fe-b46c-4341-be23-966d10ef064e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	70.27	1359	1210
+dad065fe-b46c-4341-be23-966d10ef064e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	71.43	175	2658
+dad065fe-b46c-4341-be23-966d10ef064e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	71.52	330	2872
+dad065fe-b46c-4341-be23-966d10ef064e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003578|PmrF	PmrF	71.79	280	3241
+2ecd147d-e3e2-49af-8e08-1c74ea752712	Escherichia coli	Escherichia coli	ARO:3002831|vgaC	vgaC	84.48	232	1235
+e823e767-77e2-4b7d-856b-2c479d0966d3	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001329|mdtG	mdtG	70.58	996	214
+a05a6d66-f793-4edd-ac71-c6d70e56c08b	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003049|rosB	rosB	71.34	164	1923
+ad4c856d-451f-4bd5-b3a2-fa8a9ea7234a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	70.75	147	1930
+d08f65e4-6c0b-4df7-896b-baf043865727	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000237|tolC	tolC	73.3	884	1034
+9c18b7ed-5029-4246-8a72-9fc974dc90cd	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003359|Streptomyces	Streptomyces	71.76	216	5498
+9c18b7ed-5029-4246-8a72-9fc974dc90cd	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003359|Streptomyces	Streptomyces	73.98	123	4847
+fa4b00ce-77db-4b6c-a130-2f92633541f9	Klebsiella pneumoniae	Klebsiella	ARO:3000793|mdtB	group mdt-mds-acr-mtr-1	72.14	3191	2673
+fa4b00ce-77db-4b6c-a130-2f92633541f9	Klebsiella pneumoniae	Klebsiella	ARO:3000793|mdtB	group mdt-mds-acr-mtr-1	73.08	104	6032
+fa4b00ce-77db-4b6c-a130-2f92633541f9	Klebsiella pneumoniae	Klebsiella	ARO:3000794|mdtC	group mdt-mex-sme-1	73.33	1942	5717
+bf6fd243-9260-4d51-b243-d1597cc13c1c	Klebsiella pneumoniae	Klebsiella	ARO:3000216|acrB	group mex-acr-1	77.18	2165	3188
+bf6fd243-9260-4d51-b243-d1597cc13c1c	Klebsiella pneumoniae	Klebsiella	ARO:3000207|acrA	group acr-sme-1	72.73	1232	2193
+5d13500f-f0ab-43a6-9065-4fa61fb876f0	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002986|bacA	bacA	74.18	612	90
+48ca436f-1f38-4f0c-a116-b647ae2957ce	Klebsiella pneumoniae	Klebsiella	ARO:3000793|mdtB	group mdt-mds-acr-mtr-1	72.93	2475	1019
+48ca436f-1f38-4f0c-a116-b647ae2957ce	Klebsiella pneumoniae	Klebsiella	ARO:3000794|mdtC	group mdt-mex-sme-1	77.5	1040	2401
+eebbf28f-05f7-4fbc-9bac-8234e645cd6d	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	70.75	147	1310
+609f0f5a-083e-4acf-af8d-750d4543d33a	Klebsiella pneumoniae	Klebsiella	ARO:3000829|baeS	baeS	70.82	353	56
+2ea97739-454c-4571-9fb1-1833cb857717	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003844|mfd	mfd	72.14	1224	2291
+22c09858-0ba8-4503-b74c-d506d9e992d9	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000309|emrD	emrD	72.89	1173	1389
+796f3ce6-15ad-4b5c-8360-f89b061b3b1c	Klebsiella pneumoniae	Klebsiella	ARO:3003056|smeE	group mex-sme-1	70.42	311	1413
+796f3ce6-15ad-4b5c-8360-f89b061b3b1c	Klebsiella pneumoniae	Klebsiella	ARO:3003055|smeD	group acr-sme-1	70.7	157	1207
+796f3ce6-15ad-4b5c-8360-f89b061b3b1c	Klebsiella pneumoniae	Klebsiella	ARO:3003051|smeA	smeA	71.83	142	893
+6f7c1abd-ec2c-4977-bc91-778e41f12e8a	Klebsiella pneumoniae	Klebsiella	ARO:3002870|tet34	tet34	72.14	140	109
+29e075b9-f5fe-4486-9042-ada770ce0852	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	77.84	176	569
+3613e014-abe3-47e1-8a66-0d8213dddb6c	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000825|robA	robA	79.07	172	584
+e2c81506-0437-40c7-8b68-8e4d29b10063	Proteus mirabilis	Proteus mirabilis	ARO:3000676|H-NS	H-NS	70.43	399	3203
+d704e9f8-a931-4932-9499-fce73b2e6d72	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000518|CRP	CRP	78.19	642	1960
+d13cff52-6056-4786-91f9-b5163a4e68bc	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003830|aminocoumarin	alaS	72.07	555	59
+f32b48bd-cddb-40e3-99b1-c80d1f5bcdd5	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000823|ramA	group mar-ram-1	71.07	356	699
+424502d9-2a7a-4ffb-881a-28ae0063d2ad	Klebsiella pneumoniae	Klebsiella	ARO:3000518|CRP	CRP	77.82	550	302
+b1b4465a-ee00-4dfe-bd99-39a50fcd2c35	Klebsiella pneumoniae	Klebsiella	ARO:3003056|smeE	group mex-sme-1	75.65	464	3016
+b1b4465a-ee00-4dfe-bd99-39a50fcd2c35	Klebsiella pneumoniae	Klebsiella	ARO:3003056|smeE	group mex-sme-1	70.05	217	3559
+b1b4465a-ee00-4dfe-bd99-39a50fcd2c35	Klebsiella pneumoniae	Klebsiella	ARO:3000378|mexB	group mex-sme-1	70.98	641	2990
+b1b4465a-ee00-4dfe-bd99-39a50fcd2c35	Klebsiella pneumoniae	Klebsiella	ARO:3000216|acrB	group mex-acr-1	73.83	107	4333
+b1b4465a-ee00-4dfe-bd99-39a50fcd2c35	Klebsiella pneumoniae	Klebsiella	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	70.59	221	3699
+b1b4465a-ee00-4dfe-bd99-39a50fcd2c35	Klebsiella pneumoniae	Klebsiella	ARO:3002983|amrB	group oqx-mex-amr-1	72.91	251	4224
+b1b4465a-ee00-4dfe-bd99-39a50fcd2c35	Klebsiella pneumoniae	Klebsiella	ARO:3000808|mexI	group mdt-mex-sme-1	70.64	109	3959
+b1b4465a-ee00-4dfe-bd99-39a50fcd2c35	Klebsiella pneumoniae	Klebsiella	ARO:3000499|acrE	group acr-mex-1	72.19	151	4719
+b1b4465a-ee00-4dfe-bd99-39a50fcd2c35	Klebsiella pneumoniae	Klebsiella	ARO:3003055|smeD	group acr-sme-1	71.21	132	4955
+5b2628e1-0e64-4a09-89c6-1a91cba066a1	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003830|aminocoumarin	alaS	73.66	2703	4327
+fa9eacc2-df00-4921-843c-62c2b6fe245d	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003576|PmrC	PmrC	72.84	843	539
+8559b42e-d592-46f4-ae95-e37f0328685a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001330|mdtD	mdtD	72.93	133	579
+44e5de33-fc29-41c8-b02e-1db03cf77626	Klebsiella pneumoniae	Klebsiella	ARO:3000792|mdtA	mdtA	71.72	778	3317
+44e5de33-fc29-41c8-b02e-1db03cf77626	Klebsiella pneumoniae	Klebsiella	ARO:3000794|mdtC	group mdt-mex-sme-1	72.33	159	3351
+e885887b-8c4a-40c0-a24d-ee69b90b34c0	Klebsiella pneumoniae	Klebsiella	ARO:3003056|smeE	group mex-sme-1	76.85	203	450
+58a8ec9f-272b-4051-bee2-297bacb49985	Klebsiella pneumoniae	Klebsiella	ARO:3002983|amrB	group oqx-mex-amr-1	78.72	141	787
+a25aed4d-e302-42a8-8591-a4de266cdc50	Klebsiella pneumoniae	Klebsiella	ARO:3002985|arnA	arnA	73.05	371	288
+a25aed4d-e302-42a8-8591-a4de266cdc50	Klebsiella pneumoniae	Klebsiella	ARO:3003578|PmrF	PmrF	76.67	180	407
+a62625d2-cc98-49fc-90c7-00f0ec5e9656	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003578|PmrF	PmrF	71.31	948	4828
+a62625d2-cc98-49fc-90c7-00f0ec5e9656	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	71.19	545	5792
+2b649994-b86c-4dc9-84b6-8096ac9248eb	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000830|cpxA	cpxA	72.2	241	859
+a7f6c87c-59a7-4af3-8f45-5f2f0f494e10	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000676|H-NS	H-NS	75.0	312	181
+9bf41674-83a4-409b-a5be-472b5c2ef163	Klebsiella pneumoniae	Enterobacterales	ARO:3003152|SHV-185	group SHV-LEN-OKP-1	86.28	532	798
+9bf41674-83a4-409b-a5be-472b5c2ef163	Klebsiella pneumoniae	Enterobacterales	ARO:3002446|OKP-B-13	group SHV-LEN-OKP-1	78.13	535	797
+ea528b32-93e8-4a6c-82df-fcfbdd7f6140	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000676|H-NS	H-NS	76.24	404	3132
+38c0b27f-b377-4419-af56-883e4505a19f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000207|acrA	group acr-sme-1	70.97	279	612
+38c0b27f-b377-4419-af56-883e4505a19f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000502|acrF	group ceo-ade-acr-1	76.92	117	748
+09d31519-5a5b-446d-b5b3-cfd810ae5024	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000535|macB	macB	71.12	232	3545
+09d31519-5a5b-446d-b5b3-cfd810ae5024	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000535|macB	macB	71.02	176	2482
+8e939d00-2db8-45f7-b747-53a5f8b95826	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003843|leuO	leuO	70.52	770	721
+f9a577c7-f2c1-4171-982d-2ae68e9c0245	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000024|patA	patA	72.73	1423	2031
+5a811245-f0ce-4260-abac-a5380c70cbf8	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003583|PmrB	PmrB	76.92	104	2648
+8412fa6e-fa75-422e-8861-206df840d1e4	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000216|acrB	group mex-acr-1	73.8	3183	1194
+8412fa6e-fa75-422e-8861-206df840d1e4	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000207|acrA	group acr-sme-1	73.07	1229	3039
+db145b6c-51bc-4701-8f89-defb8c008ee4	Klebsiella pneumoniae	Klebsiella	ARO:3003923|oqxB	group oqx-mex-amr-1	89.52	3235	4172
+db145b6c-51bc-4701-8f89-defb8c008ee4	Klebsiella pneumoniae	Klebsiella	ARO:3003922|oqxA	group oqx-mex-1	87.22	1197	3947
+479322d6-66c1-4d56-a7ed-0c500b67fa19	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003843|leuO	leuO	74.33	300	935
+4b8cc3ab-656f-4027-ac04-e01ddf92c0f3	Escherichia coli	Enterobacteriaceae	ARO:3002831|vgaC	vgaC	89.22	232	862
+68663c7c-15b0-4095-b66c-637d36fe53fc	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003578|PmrF	PmrF	70.12	733	4543
+68663c7c-15b0-4095-b66c-637d36fe53fc	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	71.98	389	5319
+b269c227-f133-4ad1-9d9f-6eb56e3ebe9a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003578|PmrF	PmrF	75.49	608	2996
+9b348910-8cf8-4ca6-9d63-2bd5e2817768	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000825|robA	robA	70.83	809	1771
+23433c3a-72ce-495e-8ae4-7f9e217d4483	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000793|mdtB	group mdt-mds-acr-mtr-1	73.44	2312	1927
+23433c3a-72ce-495e-8ae4-7f9e217d4483	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000793|mdtB	group mdt-mds-acr-mtr-1	79.57	230	2509
+23433c3a-72ce-495e-8ae4-7f9e217d4483	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000792|mdtA	mdtA	71.73	980	2802
+97c564b4-27c7-4259-a9e2-9722a2f1fb74	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003583|PmrB	PmrB	71.79	195	684
+d06dbb0b-5c17-4705-be07-2a53dc48c91d	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000216|acrB	group mex-acr-1	77.12	153	1057
+3d21dbda-8d23-418c-9dfd-09fa0e029f4d	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001330|mdtD	mdtD	72.75	932	1025
+3d21dbda-8d23-418c-9dfd-09fa0e029f4d	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000829|baeS	baeS	71.61	236	970
+055f7d46-b8fd-47a1-aeae-132e5844bfb1	Klebsiella pneumoniae	Klebsiella	ARO:3000830|cpxA	cpxA	76.28	1366	1382
+055f7d46-b8fd-47a1-aeae-132e5844bfb1	Klebsiella pneumoniae	Klebsiella	ARO:3000831|cpxR	cpxR	73.11	729	1409
+e9f80c07-cdbc-4a3f-bb65-46e0761dde0a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000024|patA	patA	73.14	1422	4078
+1b2fa88d-707f-4d93-bfbd-3daf16ec1da9	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000074|emrB	emrB	78.43	496	115
+f31e1082-6544-4b2a-8194-17ce0f4285f5	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001214|mdtM	group mdt-mdf-1	71.18	451	641
+92e8e375-dca1-438b-8fd7-3ea92237fce4	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003841|kdpE	kdpE	71.56	334	2174
+54864c6f-8c12-440a-90b8-f6fbd647953b	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000676|H-NS	H-NS	74.42	215	982
+c96c2a28-9d08-4572-80fc-da193ac5a80e	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003923|oqxB	group oqx-mex-amr-1	88.56	2901	70
+f193025f-c963-4455-b045-3003ed4d2987	Klebsiella pneumoniae	Klebsiella	ARO:3000793|mdtB	group mdt-mds-acr-mtr-1	73.33	555	69
+541841e2-7581-4010-9163-50367fea8cb8	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000263|marA	group mar-ram-1	73.67	376	3350
+bc6ddd6b-21ef-4d76-b4fa-90b7f8eabd1f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001216|mdtH	mdtH	73.67	395	90
+31d5d1c3-1b30-4660-bd73-2a6fb1c0bb3c	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002522|novA	novA	71.29	101	1158
+227eef99-a4d2-4586-8168-b4d4d4d2f5e1	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003830|aminocoumarin	alaS	71.17	2050	858
+b06f91d4-7cf3-4c60-abf9-40b5c398160a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000263|marA	group mar-ram-1	78.44	218	3476
+c5287852-a71d-42a6-bd71-14b97b8e8042	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000518|CRP	CRP	76.51	613	2589
+601dfbcd-2d7c-490d-a465-d1b4a34fd067	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000263|marA	group mar-ram-1	75.86	377	1924
+aeddf06c-3de6-4db3-aff2-e58d95a84c46	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003576|PmrC	PmrC	73.99	173	3586
+6424f66c-d88a-45f7-b3cf-f8df19b17857	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001214|mdtM	group mdt-mdf-1	70.0	170	191
+998e5793-2d05-45bc-8c3d-c248e213f3b6	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001328|mdfA	group mdt-mdf-1	71.86	263	150
+c1c48d1d-814c-4a01-8369-6c726c2dc764	Klebsiella pneumoniae	Klebsiella	ARO:3002985|arnA	arnA	73.19	235	170
+54074f0a-86cc-4bcb-9cfa-b96bf0448ea6	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000263|marA	group mar-ram-1	75.89	141	4288
+422e9c24-6a12-4de8-9ca9-28563b34e0d4	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	72.42	3180	9287
+47235f96-5f2f-4599-bb4f-5557eaed055d	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001327|mdtK	mdtK	76.51	166	2786
+ec1ce7cc-5675-40ee-8b3f-374a9b661394	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3002831|vgaC	vgaC	79.78	178	203
+fc94817b-b24e-4f91-bb92-25959ad5a6e4	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003841|kdpE	kdpE	79.01	162	268
+06698bf2-4fc7-475b-b61e-12d0004c7328	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003844|mfd	mfd	74.19	682	61
+959a0d1d-fa81-42e1-b671-c9a66bb63097	Klebsiella pneumoniae	Klebsiella	ARO:3003033|mexY	group oqx-mex-amr-1	72.73	154	1896
+a10adb96-8a82-4d91-b7e1-57f9c927ee28	Klebsiella pneumoniae	Klebsiella	ARO:3000024|patA	patA	75.14	1428	1853
+b519efda-0873-4fc1-91a9-8ad9bbe68f57	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003209|FosA5	group Fos-3	86.56	424	595
+b7d7e80d-4702-4f4c-9a12-87eec255a1bb	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001327|mdtK	mdtK	71.85	547	1191
+4b2d6fdc-e3de-408c-93b7-2cd035839ed0	Klebsiella pneumoniae	Klebsiella	ARO:3000216|acrB	group mex-acr-1	76.34	410	86
+8ff0d6a6-4b06-4fc4-90da-e0054308b5b4	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000309|emrD	emrD	72.63	1173	1953
+a7628f42-82aa-4fb1-8c95-244605c55955	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003844|mfd	mfd	71.08	1141	1315
+6ad5fac3-c1fb-4477-8d4f-a9d19af612ec	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000263|marA	group mar-ram-1	72.44	156	1107
+4f7be6f0-0e50-42a7-804e-0ceb9aeb96f4	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000216|acrB	group mex-acr-1	73.57	3163	1073
+4f7be6f0-0e50-42a7-804e-0ceb9aeb96f4	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000207|acrA	group acr-sme-1	71.27	623	3141
+b894f16d-0280-4cee-b159-49868094b139	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000309|emrD	emrD	72.01	1061	1402
+b9764810-5ed1-4fb8-9d27-e1772407a7aa	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000676|H-NS	H-NS	77.07	410	4153
+f082bddb-c18d-4a61-805c-7a11fcddc67d	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002983|amrB	group oqx-mex-amr-1	77.36	159	5872
+f082bddb-c18d-4a61-805c-7a11fcddc67d	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000377|mexA	group acr-mex-1	72.73	198	5499
+f082bddb-c18d-4a61-805c-7a11fcddc67d	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000377|mexA	group acr-mex-1	72.55	102	4952
+f082bddb-c18d-4a61-805c-7a11fcddc67d	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003052|smeB	group mdt-mex-sme-1	73.18	179	6906
+f082bddb-c18d-4a61-805c-7a11fcddc67d	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002893|tcr3	group rif-tcr-1	71.67	120	4425
+49b9c6f0-70ca-461b-8a22-ef77e89e27b1	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003830|aminocoumarin	alaS	70.55	1056	1036
+49b9c6f0-70ca-461b-8a22-ef77e89e27b1	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003830|aminocoumarin	alaS	75.16	153	1353
+710df509-705f-4af6-a947-0336873017cf	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000237|tolC	tolC	70.83	384	1077
+ca566715-e763-4e21-8aa9-796d6b3336f0	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003923|oqxB	group oqx-mex-amr-1	82.37	3256	1011
+ca566715-e763-4e21-8aa9-796d6b3336f0	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003922|oqxA	group oqx-mex-1	81.67	491	4136
+9ee8e7da-5011-425c-9406-4b4b5eb345b9	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000825|robA	robA	71.24	765	2345
+d0e004c0-2df6-457b-9296-440b1da8bcf3	Klebsiella pneumoniae	Klebsiella	ARO:3000378|mexB	group mex-sme-1	72.39	163	454
+577cd5e8-c7bf-4390-8dbf-4c526709e0b5	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001330|mdtD	mdtD	71.0	100	7735
+374c3ee5-3c3f-4d48-9ea7-af011f5b63f6	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003052|smeB	group mdt-mex-sme-1	72.48	109	3697
+374c3ee5-3c3f-4d48-9ea7-af011f5b63f6	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000378|mexB	group mex-sme-1	74.04	104	4351
+1e9220d3-2842-47f2-8cfe-aa659e91047c	Klebsiella pneumoniae	Klebsiella	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	72.0	225	2480
+1e9220d3-2842-47f2-8cfe-aa659e91047c	Klebsiella pneumoniae	Klebsiella	ARO:3003056|smeE	group mex-sme-1	71.43	168	2250
+24bddd26-490f-4f85-8e0f-e8cf0e0abf67	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001215|mdtL	group mdt-bcr-1	71.13	194	472
+8de20377-b5bc-4ef4-9739-c13398c711ff	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000518|CRP	CRP	77.81	649	4313
+f707618a-9c0c-45ce-aab0-88eff7b9281c	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000826|sdiA	sdiA	80.65	155	1463
+222572fb-63d8-4b95-9b82-dcb0d34eb7c2	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000499|acrE	group acr-mex-1	75.0	228	5012
+5c6d45d2-4024-46ef-b013-9fb6ad8808ad	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001329|mdtG	mdtG	70.18	1187	1786
+c676a49e-1e0a-4e23-ae80-57a4fe6a83b9	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003830|aminocoumarin	alaS	71.84	902	6630
+401e1eb0-7cf5-4077-915d-e1be15525183	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001215|mdtL	group mdt-bcr-1	75.96	208	1937
+75b84635-4f91-4566-962f-931dcfa7dec7	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002986|bacA	bacA	70.65	821	3381
+46598887-d2c8-46f0-89c7-5d87532b2071	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000216|acrB	group mex-acr-1	71.71	1025	2591
+46598887-d2c8-46f0-89c7-5d87532b2071	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000207|acrA	group acr-sme-1	70.15	1206	1365
+1ca32c0a-fcab-4d2f-8330-aa9e6a1894b8	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001329|mdtG	mdtG	72.33	159	3422
+f8456b52-980d-48ac-bc09-b18e04a88a76	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003209|FosA5	group Fos-3	85.0	400	3567
+185577b4-5519-4674-a2db-5fcb3835bbb1	Klebsiella pneumoniae	Enterobacterales	ARO:3001096|SHV-38	group SHV-LEN-OKP-1	86.98	384	337
+66a71bf4-9fc7-4671-92be-10081e0c2ec7	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000378|mexB	group mex-sme-1	73.83	107	277
+b9691ffe-4474-4f7e-831f-c67e8c6f0522	Klebsiella pneumoniae	Klebsiella	ARO:3000808|mexI	group mdt-mex-sme-1	73.02	126	400
+b9691ffe-4474-4f7e-831f-c67e8c6f0522	Klebsiella pneumoniae	Klebsiella	ARO:3003699|mexQ	group mex-acr-1	70.59	153	373
+b240c0dd-1d33-4ba1-ac97-7e5887043296	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003830|aminocoumarin	alaS	74.58	413	3603
+dd2651ac-fbfc-4f4e-9ac3-d72673ea1deb	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003830|aminocoumarin	alaS	71.61	2529	691
+00ae67b5-64a3-4309-bd47-2725d96f4c70	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001328|mdfA	group mdt-mdf-1	70.32	502	119
+8c2c9f23-add5-46d5-9937-6099bb4c28bc	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003843|leuO	leuO	70.24	914	735
+75f952c9-eb47-40ee-8ce4-1c4cb3354efb	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003577|PmrE	PmrE	71.15	260	449
+9b72349d-aad9-475a-9cdd-14a4f5dca3a3	Proteus mirabilis	Proteus mirabilis	ARO:3001329|mdtG	mdtG	71.13	142	1618
+7543f722-adc6-4bef-a6bf-eb33211893d5	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000378|mexB	group mex-sme-1	75.23	109	118
+39cf2aad-d28a-4d03-8245-1d45182a59c7	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000832|evgA	evgA	71.12	232	1056
+85dcdd7e-ded3-43d5-9520-ffeb65d9219d	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003699|mexQ	group mex-acr-1	70.8	113	2220
+3813cd40-da0f-40b8-9dca-b8907f512079	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000502|acrF	group ceo-ade-acr-1	73.96	169	7414
+3813cd40-da0f-40b8-9dca-b8907f512079	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000216|acrB	group mex-acr-1	70.27	481	5513
+3813cd40-da0f-40b8-9dca-b8907f512079	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000216|acrB	group mex-acr-1	71.02	314	7303
+10f76821-996e-47bd-ad4b-1f81c6d76005	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003830|aminocoumarin	alaS	71.47	2415	251
+38012f4f-23fd-44fb-a2f0-f8ec92e129ab	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003844|mfd	mfd	72.26	2743	8021
+831b89f0-544f-44cc-918d-4bd9a0f71542	Klebsiella pneumoniae	Klebsiella	ARO:3000794|mdtC	group mdt-mex-sme-1	71.98	2063	6554
+831b89f0-544f-44cc-918d-4bd9a0f71542	Klebsiella pneumoniae	Klebsiella	ARO:3001330|mdtD	mdtD	73.03	1383	5200
+831b89f0-544f-44cc-918d-4bd9a0f71542	Klebsiella pneumoniae	Klebsiella	ARO:3000828|baeR	group bae-sme-1	74.38	722	4917
+6e94c3d1-de7a-4925-a463-175e83682e85	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000216|acrB	group mex-acr-1	78.64	618	1025
+6e94c3d1-de7a-4925-a463-175e83682e85	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000207|acrA	group acr-sme-1	72.21	842	645
+7ee077d5-7ae6-4ce1-a287-44747d8307aa	Klebsiella pneumoniae	Klebsiella	ARO:3003056|smeE	group mex-sme-1	72.63	391	3293
+7ee077d5-7ae6-4ce1-a287-44747d8307aa	Klebsiella pneumoniae	Klebsiella	ARO:3003052|smeB	group mdt-mex-sme-1	72.93	229	3302
+7ee077d5-7ae6-4ce1-a287-44747d8307aa	Klebsiella pneumoniae	Klebsiella	ARO:3002983|amrB	group oqx-mex-amr-1	70.45	132	4584
+e3d1dc8f-c8be-44e0-9ddc-ff3956219f9c	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000518|CRP	CRP	73.03	634	3277
+ca12d3b9-e945-473e-9d18-9461e47dd930	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003578|PmrF	PmrF	75.84	178	612
+4f80135a-a0c2-4b3b-839a-ccf70b36c88f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003209|FosA5	group Fos-3	77.37	433	1676
+0f270fe2-f81f-4822-bccf-9564766f4fc8	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001214|mdtM	group mdt-mdf-1	70.87	460	146
+6b4ff9b8-49c3-462a-a869-5f67f50282f8	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003844|mfd	mfd	75.13	197	6277
+74317747-bca6-4093-97c6-8ef95718aa92	Klebsiella pneumoniae	Klebsiella	ARO:3003056|smeE	group mex-sme-1	74.54	487	1155
+9c491477-c5f1-4718-8c1d-73136670c1e7	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003359|Streptomyces	Streptomyces	72.82	206	1659
+aebc938e-7e86-403d-9519-1ed441b94c06	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003576|PmrC	PmrC	71.43	420	928
+b0f190e9-069d-47df-98be-04c012ff384f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000516|emrR	emrR	76.32	114	456
+36c03b42-fd2c-4d77-8abd-6e2b31176398	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000794|mdtC	group mdt-mex-sme-1	70.13	904	652
+36c03b42-fd2c-4d77-8abd-6e2b31176398	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001330|mdtD	mdtD	72.51	513	955
+c6c31299-7149-4c57-99e8-1ade328109f6	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000830|cpxA	cpxA	75.34	1403	427
+2bd3a979-eecb-493e-a460-c3b2cfcce096	Proteus mirabilis	Proteus mirabilis	ARO:3002870|tet34	tet34	70.8	113	186
+20c4d65b-1d21-429e-a652-74e2a54d9c03	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000535|macB	macB	73.13	134	1135
+d8334b3d-b927-4559-bde4-46ededdfac36	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003576|PmrC	PmrC	83.65	104	1139
+5164b840-36fb-4f97-a7b8-53d8e8201a87	Escherichia coli	Enterobacteriaceae	ARO:3002831|vgaC	vgaC	74.68	233	698
+1f3a391b-851b-424b-a1aa-c74272b8c608	Klebsiella pneumoniae	Klebsiella	ARO:3003052|smeB	group mdt-mex-sme-1	70.39	233	416
+f0e031c4-8c03-4e2b-8450-c378adafbd3d	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001215|mdtL	group mdt-bcr-1	73.08	234	2383
+abe38086-a946-4d53-9f99-d10c45823df3	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003548|mdtN	group ceo-mdt-1	72.12	104	2883
+c4d9d17a-af8b-49eb-813f-32f6c8ab614c	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	70.34	408	102
+730c231c-cee8-474d-857a-f09d4d085038	Klebsiella pneumoniae	Klebsiella	ARO:3003922|oqxA	group oqx-mex-1	84.62	663	1205
+839f148c-bcbf-4ee9-b0e1-0632d866613d	Proteus mirabilis	Proteus mirabilis	ARO:3003830|aminocoumarin	alaS	72.73	121	2213
+8ab3e965-2b7e-495d-b6c5-4ffdaeb1edd8	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003840|aminocoumarin	cysB	71.48	554	139
+4294f5ef-27d8-4421-9b2d-89aeb03a8606	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000024|patA	patA	81.46	151	6570
+936730d0-438a-4a85-9274-75d172ef4c56	Proteus mirabilis	Proteus mirabilis	ARO:3002670|cat	group cat-1	87.08	650	6615
+d1a03b1e-69b0-4633-9168-8c11dbd21948	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003922|oqxA	group oqx-mex-1	81.4	387	5566
+52993189-e9bc-4ed8-b933-59720ad330ed	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	70.38	1067	3387
+52993189-e9bc-4ed8-b933-59720ad330ed	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	70.96	513	4857
+52993189-e9bc-4ed8-b933-59720ad330ed	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003578|PmrF	PmrF	73.15	447	5415
+746e7f7e-3f9c-4d97-a41e-3192204a4941	Proteus mirabilis	Proteus mirabilis	ARO:3003841|kdpE	kdpE	71.63	141	1076
+fbbf8648-7db3-4875-9c11-ed55065e4a68	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000825|robA	robA	72.71	817	3302
+7d8c17c4-6882-4954-abc4-5c04eefc2457	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003844|mfd	mfd	72.7	3542	2302
+ddfdde0f-b3e8-4f4c-b956-fd7f43c5f922	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000828|baeR	group bae-sme-1	70.14	442	328
+5b8572ff-333e-4775-a2f7-21ceab4033f5	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000237|tolC	tolC	73.63	455	2100
+731b6634-55ed-4c44-b411-05a1b68c783b	Klebsiella pneumoniae	Klebsiella	ARO:3003577|PmrE	PmrE	70.67	1190	2310
+35aa2ad7-1906-4aec-ab3c-7e09bf2d00ee	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000207|acrA	group acr-sme-1	76.5	417	350
+35aa2ad7-1906-4aec-ab3c-7e09bf2d00ee	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000207|acrA	group acr-sme-1	71.15	260	500
+73d08826-3218-42c9-8f59-7c99f8bc518b	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003056|smeE	group mex-sme-1	72.0	200	1751
+73d08826-3218-42c9-8f59-7c99f8bc518b	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	71.5	214	1739
+73d08826-3218-42c9-8f59-7c99f8bc518b	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000207|acrA	group acr-sme-1	70.53	207	2953
+decad0d5-7d38-455c-9269-69cd1724d521	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000826|sdiA	sdiA	74.33	187	2926
+fa32c26b-315c-48c1-a21d-738cfff58b0d	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003830|aminocoumarin	alaS	72.45	2715	2270
+c1aaa9d8-1acb-4bc4-a4d3-77a401ca098a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003578|PmrF	PmrF	71.2	816	1886
+20a7ea01-94de-4074-9d51-db7e46a4ce28	Klebsiella pneumoniae	Enterobacterales	ARO:3001193|SHV-154	group SHV-LEN-OKP-1	85.45	880	673
+616aec9d-d96e-49e5-a9d2-7075acb2700b	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001216|mdtH	mdtH	70.02	537	351
+d6cde9b7-d64d-4d80-b953-da96d77d70c5	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000793|mdtB	group mdt-mds-acr-mtr-1	78.86	492	6187
+d6cde9b7-d64d-4d80-b953-da96d77d70c5	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000792|mdtA	mdtA	70.81	990	5154
+7c488b30-1517-4249-a694-cae441ffca74	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000826|sdiA	sdiA	73.04	204	5535
+f69dcb66-22d1-41e3-9978-46575d1573a1	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000830|cpxA	cpxA	75.92	1379	5536
+f69dcb66-22d1-41e3-9978-46575d1573a1	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000831|cpxR	cpxR	76.63	706	4838
+081e3990-cb41-44d0-989d-dcff2f2f4cd9	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003359|Streptomyces	Streptomyces	72.25	346	1076
+bbd01b36-4cbb-4cb6-ae8b-13515c28a92c	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000535|macB	macB	70.15	134	1286
+b8e974e3-4128-4778-a1c2-934309f008f8	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001215|mdtL	group mdt-bcr-1	76.24	101	1937
+e57294e5-ca7f-47e5-803d-6185bc564d16	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000074|emrB	emrB	78.31	498	200
+5d485143-8112-4c1d-8b7f-9c8ece5b7691	Proteus mirabilis	Proteus mirabilis	ARO:3000216|acrB	group mex-acr-1	72.97	111	1584
+8e94e0bb-b48c-4a25-b52e-c01837a233f4	Klebsiella pneumoniae	Klebsiella	ARO:3000024|patA	patA	76.07	1408	1966
+c9f18edc-57e0-46a3-b8f5-29c49614e200	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000378|mexB	group mex-sme-1	70.65	385	217
+d1c4ae35-84da-4b86-97c4-e60f28a55903	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003209|FosA5	group Fos-3	73.07	401	3557
+58c91a81-4651-473d-8bed-e08debaca369	Klebsiella pneumoniae	Klebsiella	ARO:3000378|mexB	group mex-sme-1	73.78	431	51
+c4b20dd5-a718-4074-976b-874a457c4c21	Klebsiella pneumoniae	Klebsiella	ARO:3000825|robA	robA	74.64	343	157
+7e4dd80e-4f2e-4c11-b5a3-c3c976b7bf2c	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000309|emrD	emrD	70.9	1189	5205
+698812ab-e5d0-43be-a427-a53640352bc2	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003830|aminocoumarin	alaS	74.27	824	87
+cb52655d-1a93-4570-ada9-f1c84a81b719	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003209|FosA5	group Fos-3	84.47	438	2322
+657f4aa4-2d00-4da7-ac31-da3dc8519444	Proteus mirabilis	Proteus mirabilis	ARO:3003843|leuO	leuO	71.43	231	74
+56ad5c5c-aad2-49a0-9f36-11b08a871778	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003056|smeE	group mex-sme-1	76.25	240	307
+56ad5c5c-aad2-49a0-9f36-11b08a871778	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	72.87	258	290
+d38e6f7f-641b-4e5d-8750-8ddfd1d82a07	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000309|emrD	emrD	73.36	214	8400
+bd10eba2-f31e-43e6-a6e2-b86e0d0cf0c4	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000830|cpxA	cpxA	76.9	1368	2190
+bd10eba2-f31e-43e6-a6e2-b86e0d0cf0c4	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000831|cpxR	cpxR	76.48	710	1879
+6f9299fb-5465-4d96-844d-745adc933e6e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000792|mdtA	mdtA	70.16	915	445
+4b9c4f71-3c88-441b-8f7e-df5f7fdd7946	Proteus mirabilis	Proteus mirabilis	ARO:3001216|mdtH	mdtH	72.27	238	4018
+4b9c4f71-3c88-441b-8f7e-df5f7fdd7946	Proteus mirabilis	Proteus mirabilis	ARO:3001216|mdtH	mdtH	72.29	166	3453
+098ed32f-8b43-4b5b-8dde-73abe9e5e9f1	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	71.29	519	751
+098ed32f-8b43-4b5b-8dde-73abe9e5e9f1	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	73.31	311	1024
+bf34b2b3-efca-455c-8c39-165c930b8e6a	Klebsiella pneumoniae	Klebsiella	ARO:3003922|oqxA	group oqx-mex-1	87.39	1221	523
+bf34b2b3-efca-455c-8c39-165c930b8e6a	Klebsiella pneumoniae	Klebsiella	ARO:3003923|oqxB	group oqx-mex-amr-1	89.15	258	1729
+f9bf70b9-6f21-444d-bfe3-4cf6a7e3060b	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000074|emrB	emrB	76.75	1583	1641
+f9bf70b9-6f21-444d-bfe3-4cf6a7e3060b	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000027|emrA	group emr-5	73.22	997	3290
+d9c4e647-38fe-45e9-837a-edb12938b4a4	Klebsiella pneumoniae	Klebsiella	ARO:3000831|cpxR	cpxR	76.0	525	2152
+1ff18b8f-3d22-4666-8e88-dd55b53e4d68	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003840|aminocoumarin	cysB	72.15	1009	948
+6970fca5-e05d-4400-95c3-bc2bfd73b817	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000207|acrA	group acr-sme-1	70.12	405	635
+b674d17c-6d8c-488e-a642-a50692512105	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001328|mdfA	group mdt-mdf-1	72.96	159	5514
+8c4e98bc-9088-43fb-b896-5d2ccecfa16a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003359|Streptomyces	Streptomyces	72.57	113	3968
+1afa7c9b-1071-4867-964e-785bdfb616a7	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003056|smeE	group mex-sme-1	75.0	100	650
+1afa7c9b-1071-4867-964e-785bdfb616a7	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000801|mexD	group mex-sme-1	72.0	100	520
+ad2a721a-43a6-40e7-a646-5402c6ce9b35	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001215|mdtL	group mdt-bcr-1	76.8	194	1316
+a05233b7-df27-41c3-b1f9-5f2598d9c26d	Klebsiella pneumoniae	Enterobacterales	ARO:3001137|SHV-83	group SHV-LEN-OKP-1	81.03	875	744
+ab12799c-a61e-46ba-9047-b0ad5e709718	Escherichia coli	Escherichia coli	ARO:3002831|vgaC	vgaC	80.33	239	800
+3e4e7c71-cb75-4c16-9bc6-5c25bad37d93	Klebsiella pneumoniae	Klebsiella	ARO:3003056|smeE	group mex-sme-1	74.65	426	2902
+3e4e7c71-cb75-4c16-9bc6-5c25bad37d93	Klebsiella pneumoniae	Klebsiella	ARO:3003052|smeB	group mdt-mex-sme-1	72.07	222	2267
+3e4e7c71-cb75-4c16-9bc6-5c25bad37d93	Klebsiella pneumoniae	Klebsiella	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	71.81	227	2262
+6f63c035-b433-4c90-95f6-025bbfdab1ea	Escherichia coli	Enterobacteriaceae	ARO:3002831|vgaC	vgaC	91.14	237	1117
+dc87d4ac-51bc-4ac6-9166-c80375c86edd	Klebsiella pneumoniae	Klebsiella	ARO:3000793|mdtB	group mdt-mds-acr-mtr-1	70.79	2290	1156
+dc87d4ac-51bc-4ac6-9166-c80375c86edd	Klebsiella pneumoniae	Klebsiella	ARO:3000794|mdtC	group mdt-mex-sme-1	72.33	1113	2202
+63e64c37-ce35-49b3-95b1-0f6049d702fd	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000309|emrD	emrD	73.03	634	2314
+f1dcae2f-ffc0-44d2-ae14-5b2152614675	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	73.31	341	1075
+a2619249-693e-4c58-8a07-095575624577	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000216|acrB	group mex-acr-1	76.92	1932	901
+39d08461-3182-4d7a-a9c2-04995eef2c08	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000676|H-NS	H-NS	75.78	384	2536
+0272afc5-e974-4c2c-af3c-cff5b69919e2	Shigella flexneri	Shigella flexneri	ARO:3002601|aadA	group aad-1	89.26	810	6352
+0272afc5-e974-4c2c-af3c-cff5b69919e2	Shigella flexneri	Shigella flexneri	ARO:3002854|dfrA1	group dfr-3	94.14	478	5200
+0272afc5-e974-4c2c-af3c-cff5b69919e2	Shigella flexneri	Shigella flexneri	ARO:3002895|sat-1	sat-1	86.58	544	5771
+7d60424d-18b2-4b24-8f64-f4a33e7fa326	Proteus mirabilis	Proteus mirabilis	ARO:3000502|acrF	group ceo-ade-acr-1	70.9	512	3632
+7d60424d-18b2-4b24-8f64-f4a33e7fa326	Proteus mirabilis	Proteus mirabilis	ARO:3000502|acrF	group ceo-ade-acr-1	74.29	105	2715
+7d60424d-18b2-4b24-8f64-f4a33e7fa326	Proteus mirabilis	Proteus mirabilis	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	71.57	197	2229
+a8dcb43e-d7f3-4b81-8f38-391ad0e8a4a3	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000794|mdtC	group mdt-mex-sme-1	72.84	1193	139
+1ad1d855-8fb2-40ae-b938-e0073e4a025a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000502|acrF	group ceo-ade-acr-1	74.26	202	706
+1ad1d855-8fb2-40ae-b938-e0073e4a025a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002983|amrB	group oqx-mex-amr-1	70.95	210	465
+f6fb53f9-3bfd-4d0c-8c7a-cc03edb36d94	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000502|acrF	group ceo-ade-acr-1	70.02	1124	296
+c787e241-1fb7-4e8b-b024-15feb2f40387	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003048|rosA	rosA	70.97	155	1889
+37f489f3-f26e-4c50-b6f9-de839c4b4f0f	Klebsiella pneumoniae	Klebsiella	ARO:3000518|CRP	CRP	78.32	369	733
+be2ee144-e9ac-4f2f-830c-ce8b2a645ecb	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000263|marA	group mar-ram-1	76.95	321	3482
+f0749457-571c-4ab4-afe8-00ab5f695e66	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003830|aminocoumarin	alaS	73.7	2715	601
+1f23fc1f-fe96-403e-914f-c1afba1f778e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001327|mdtK	mdtK	70.57	853	5946
+d700e2f5-7453-4655-826f-802b9ecce2e0	Klebsiella pneumoniae	Klebsiella	ARO:3003922|oqxA	group oqx-mex-1	84.0	100	1234
+bdd77065-ea31-4645-87b2-1ca1905a74df	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000378|mexB	group mex-sme-1	74.07	135	915
+bdd77065-ea31-4645-87b2-1ca1905a74df	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	72.17	115	832
+bdd77065-ea31-4645-87b2-1ca1905a74df	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003056|smeE	group mex-sme-1	70.18	114	655
+ee725c8e-7986-4c88-8cd8-6a7d493d2fc8	Klebsiella pneumoniae	Klebsiella	ARO:3003359|Streptomyces	Streptomyces	71.35	356	8600
+85f7edfd-25d9-423e-ae59-b1d3f56bc263	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3002831|vgaC	vgaC	91.6	238	600
+7ebfee54-9044-434d-8429-2c0c841612d4	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000237|tolC	tolC	70.0	1370	1241
+f8d9bb9d-342c-474d-8be4-475cf72e3142	Klebsiella pneumoniae	Enterobacterales	ARO:3003155|SHV-188	group SHV-LEN-OKP-1	84.44	360	1455
+e464b6ab-1683-43ed-9a50-d6a5ded1e86d	Klebsiella pneumoniae	Klebsiella	ARO:3000794|mdtC	group mdt-mex-sme-1	70.19	3170	1729
+e464b6ab-1683-43ed-9a50-d6a5ded1e86d	Klebsiella pneumoniae	Klebsiella	ARO:3001330|mdtD	mdtD	74.11	587	4770
+e464b6ab-1683-43ed-9a50-d6a5ded1e86d	Klebsiella pneumoniae	Klebsiella	ARO:3003705|mexN	group oqx-mex-amr-1	71.43	308	3652
+e464b6ab-1683-43ed-9a50-d6a5ded1e86d	Klebsiella pneumoniae	Klebsiella	ARO:3003705|mexN	group oqx-mex-amr-1	71.43	154	5165
+c9fa53cc-2e4d-4d55-998d-d3012bdcca2e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001215|mdtL	group mdt-bcr-1	71.9	153	1501
+e84850ec-f575-459d-bfed-a48b04d2191a	Proteus mirabilis	Proteus mirabilis	ARO:3000518|CRP	CRP	71.06	653	1463
+be929281-3ee0-4beb-80ce-8b34da29dd8e	Klebsiella pneumoniae	Enterobacterales	ARO:3001191|SHV-152	group SHV-LEN-OKP-1	85.16	411	1099
+d8ca8be7-cc04-492c-912e-d52d9d4ad6c4	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003844|mfd	mfd	72.55	1993	130
+dc5a1d81-bea5-4e32-89f4-261cf5ed4ea1	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	71.32	530	5025
+7c54985b-dc9d-4d38-89f5-697402deeb0e	Klebsiella pneumoniae	Klebsiella	ARO:3000793|mdtB	group mdt-mds-acr-mtr-1	73.92	3190	1448
+7c54985b-dc9d-4d38-89f5-697402deeb0e	Klebsiella pneumoniae	Klebsiella	ARO:3000794|mdtC	group mdt-mex-sme-1	75.52	1491	3140
+de05c669-0902-4dd5-9d23-b3db0b5789e9	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	70.14	278	1753
+448caac0-cfcd-461d-a081-9cd5e07b86eb	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001328|mdfA	group mdt-mdf-1	70.83	1210	6652
+2e08d8c7-ceb3-48f5-8616-94f21d6cb4d7	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000378|mexB	group mex-sme-1	71.18	288	6349
+2e08d8c7-ceb3-48f5-8616-94f21d6cb4d7	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000796|mdtF	group mdt-mex-sme-1	70.33	273	4745
+92f8b299-e199-4016-b47c-720aac550103	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003209|FosA5	group Fos-3	79.76	252	407
+f8007d63-3158-42ef-b608-5c7f8fa3ae0b	Proteus mirabilis	Proteus mirabilis	ARO:3002985|arnA	arnA	70.16	620	1222
+e743a080-ca52-4b23-8708-d10d594453c3	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000831|cpxR	cpxR	70.08	712	2053
+b8f56824-d6c0-4f3b-a1f6-00335dac5e50	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003844|mfd	mfd	72.65	874	1313
+1dd40c95-1886-4a70-9157-18b284d0f7f4	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000535|macB	macB	70.31	192	1992
+570d3ead-14a0-4a40-9f2e-f8a751f07a74	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002986|bacA	bacA	72.42	834	3506
+5c498494-f0ed-455a-a302-f20471b5a670	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003036|oleB	group srm-tlr-car-ole-1	72.97	111	1343
+ffddcbaf-07e0-4bd8-87dc-f0735c7088e0	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002986|bacA	bacA	74.72	265	1512
+4a3c4a84-a1bf-42da-b366-9fbedf920f90	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000499|acrE	group acr-mex-1	73.72	137	1499
+6bcc0b9e-8f4e-4085-9f91-542c2018ee30	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003922|oqxA	group oqx-mex-1	85.8	1197	2847
+5be1d1da-b4bc-4482-97bc-15695bb48284	Klebsiella pneumoniae	Klebsiella	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	72.77	224	665
+9de9080e-fde3-4978-a430-b216ffb33e44	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001328|mdfA	group mdt-mdf-1	72.09	1100	2480
+c14e1306-1869-4d05-8a26-bec3a65b31b6	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000074|emrB	emrB	73.5	649	1418
+20034209-49a0-4c16-91bb-3c537f7d180b	Klebsiella pneumoniae	Klebsiella	ARO:3003923|oqxB	group oqx-mex-amr-1	80.59	2731	2050
+20034209-49a0-4c16-91bb-3c537f7d180b	Klebsiella pneumoniae	Klebsiella	ARO:3003922|oqxA	group oqx-mex-1	82.0	1228	2552
+fc873b9d-ebe2-4839-88bf-26c01f5bb927	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	71.77	1541	1027
+db271f06-e250-4e53-991a-7da4664b0bb1	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003922|oqxA	group oqx-mex-1	81.61	571	723
+db271f06-e250-4e53-991a-7da4664b0bb1	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003923|oqxB	group oqx-mex-amr-1	75.07	718	636
+9a3e0461-f257-4535-8e61-3677fb94de27	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003844|mfd	mfd	72.69	2724	4744
+ac1227a2-c90e-45bc-8137-869269bc13de	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000027|emrA	group emr-5	72.68	366	298
+ac1227a2-c90e-45bc-8137-869269bc13de	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000516|emrR	emrR	73.53	102	546
+cb7018fe-08b1-4167-810f-23f69e793ef7	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003843|leuO	leuO	76.55	226	274
+f369fd5f-c0bd-412a-b8bc-dc08223c6227	Klebsiella pneumoniae	Klebsiella	ARO:3000793|mdtB	group mdt-mds-acr-mtr-1	70.8	3212	2533
+f369fd5f-c0bd-412a-b8bc-dc08223c6227	Klebsiella pneumoniae	Klebsiella	ARO:3000793|mdtB	group mdt-mds-acr-mtr-1	71.65	127	4480
+f369fd5f-c0bd-412a-b8bc-dc08223c6227	Klebsiella pneumoniae	Klebsiella	ARO:3000794|mdtC	group mdt-mex-sme-1	70.31	2647	3407
+f369fd5f-c0bd-412a-b8bc-dc08223c6227	Klebsiella pneumoniae	Klebsiella	ARO:3000792|mdtA	mdtA	73.28	232	5688
+613712fe-44d8-4dd6-935d-26b741a6194f	Escherichia coli	Enterobacteriaceae	ARO:3002831|vgaC	vgaC	88.41	233	1326
+ba95ff65-581b-4356-a448-a63a04c954bd	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003057|smeF	group opr-sme-2	72.6	146	4724
+4a90c986-faab-4ab0-943c-8c1339339460	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003830|aminocoumarin	alaS	75.85	207	541
+61d79de0-aee8-49a1-a5c0-58825c568c1a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000309|emrD	emrD	71.48	1227	1779
+f4a007b4-8e36-4a48-a154-8bdeea83f10b	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003209|FosA5	group Fos-3	84.65	417	1059
+e76d2969-0db8-4425-bf19-fbcc8b89de7d	Klebsiella pneumoniae	Klebsiella	ARO:3000216|acrB	group mex-acr-1	75.33	920	227
+e76d2969-0db8-4425-bf19-fbcc8b89de7d	Klebsiella pneumoniae	Klebsiella	ARO:3000207|acrA	group acr-sme-1	70.9	189	913
+96211a6e-ff8f-4ad8-80d8-e67077ce1025	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003840|aminocoumarin	cysB	74.16	267	65
+c8474402-fa66-4695-b7a2-a54749b9b107	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001216|mdtH	mdtH	70.29	1131	4390
+b35ada8c-efbd-487c-9b38-f9eec7f9f737	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000024|patA	patA	78.26	138	3348
+fc16c1c1-2b32-4d06-801f-1737e08feca8	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000024|patA	patA	77.94	204	651
+fc16c1c1-2b32-4d06-801f-1737e08feca8	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000024|patA	patA	73.13	294	499
+ee8e1557-80ce-412b-991c-e8c9f53f522b	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000825|robA	robA	71.5	793	843
+fe6cd458-6351-4f6f-b3d7-2fe80958e737	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003922|oqxA	group oqx-mex-1	72.03	958	435
+c99a307c-3e1c-41ca-942b-357616b2e582	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000792|mdtA	mdtA	71.7	993	2219
+c99a307c-3e1c-41ca-942b-357616b2e582	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000793|mdtB	group mdt-mds-acr-mtr-1	76.05	334	3257
+0e84db18-a5e8-4c03-b84d-0189db822386	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000216|acrB	group mex-acr-1	76.49	251	95
+293baf8d-74c3-4e53-adbd-cc3c9b0e909a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003577|PmrE	PmrE	70.99	393	612
+168fb474-a2eb-454a-9815-2d18aedfc68b	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003923|oqxB	group oqx-mex-amr-1	78.15	3222	4501
+168fb474-a2eb-454a-9815-2d18aedfc68b	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003922|oqxA	group oqx-mex-1	79.03	391	7561
+464a8db2-72c1-4e79-afc7-eb0763e4a52c	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000823|ramA	group mar-ram-1	79.66	118	245
+6ea378d2-a87f-4e11-9853-855a00b2f9a8	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000216|acrB	group mex-acr-1	78.0	1927	745
+6ea378d2-a87f-4e11-9853-855a00b2f9a8	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000207|acrA	group acr-sme-1	70.57	751	1923
+5e50bebb-32fc-4b95-b94e-48927931da1c	Klebsiella pneumoniae	Klebsiella	ARO:3002985|arnA	arnA	70.0	340	129
+aed4b057-9bd7-486d-b2f5-d5c824f6c34a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000074|emrB	emrB	75.69	864	97
+9f29206c-7ce4-4ed5-a515-4797d0010fb9	Proteus mirabilis	Proteus mirabilis	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	71.18	288	3165
+e87b2fac-63d4-4d12-aa8c-a8af8185db13	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000676|H-NS	H-NS	77.4	146	612
+376c8f8e-b911-4e16-81bf-e6b48667d9e9	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000378|mexB	group mex-sme-1	70.86	278	189
+afa8e905-06ed-4579-bcc1-890823feea4a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000518|CRP	CRP	80.45	133	3671
+f643dd08-db2c-4856-a3e5-2af13e661750	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000516|emrR	emrR	78.44	524	1299
+f643dd08-db2c-4856-a3e5-2af13e661750	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000027|emrA	group emr-5	74.35	269	1954
+cdafb999-6cc3-4cfb-99a1-d3abe170ec10	Klebsiella pneumoniae	Klebsiella	ARO:3003056|smeE	group mex-sme-1	75.87	489	1012
+cdafb999-6cc3-4cfb-99a1-d3abe170ec10	Klebsiella pneumoniae	Klebsiella	ARO:3000216|acrB	group mex-acr-1	71.05	525	1000
+cdafb999-6cc3-4cfb-99a1-d3abe170ec10	Klebsiella pneumoniae	Klebsiella	ARO:3002983|amrB	group oqx-mex-amr-1	72.28	202	2095
+4305a8e7-e1c2-4408-92bf-f794f1abf573	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000216|acrB	group mex-acr-1	77.55	490	109
+08442df0-75a2-4b8f-9a26-0b02b21848bc	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003576|PmrC	PmrC	70.84	967	4508
+4bc1bef7-34a6-4930-932c-527fef0d6892	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000676|H-NS	H-NS	76.12	423	7538
+ff86dd1f-34c7-46a0-98b6-56a77dcbaf7c	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000793|mdtB	group mdt-mds-acr-mtr-1	73.39	620	1985
+ff86dd1f-34c7-46a0-98b6-56a77dcbaf7c	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000792|mdtA	mdtA	71.57	503	1076
+f9ac5462-dace-45de-9291-b60fa29a98cb	Klebsiella pneumoniae	Klebsiella	ARO:3000793|mdtB	group mdt-mds-acr-mtr-1	71.38	1195	639
+f9ac5462-dace-45de-9291-b60fa29a98cb	Klebsiella pneumoniae	Klebsiella	ARO:3000794|mdtC	group mdt-mex-sme-1	71.23	664	1171
+b6935bc9-6bdb-45e0-a248-de5399718175	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003576|PmrC	PmrC	81.03	116	405
+f7b157ee-02fa-4885-a56d-908c00ea689f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000832|evgA	evgA	70.3	202	133
+7c48d24c-3b64-411c-9da6-bf133d61e735	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000676|H-NS	H-NS	71.74	407	1774
+3e415653-15e5-4d4c-86c6-c23ddadd3983	Salmonella sp.	Gammaproteobacteria	ARO:3002895|sat-1	sat-1	77.57	544	420
+3e415653-15e5-4d4c-86c6-c23ddadd3983	Salmonella sp.	Gammaproteobacteria	ARO:3002601|aadA	group aad-1	78.57	392	744
+aa1ba64c-2de9-4f98-9da6-386b906f7769	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000794|mdtC	group mdt-mex-sme-1	72.65	1561	568
+aa1ba64c-2de9-4f98-9da6-386b906f7769	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001330|mdtD	mdtD	76.31	591	1557
+ea16dcc5-0a3c-4fbf-a26b-65000580f23a	Escherichia coli	Enterobacteriaceae	ARO:3003923|oqxB	group oqx-mex-amr-1	80.15	1239	181
+ccbea7dd-a6a8-4d88-8f0f-106e5635da20	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000793|mdtB	group mdt-mds-acr-mtr-1	71.46	445	1056
+96182c62-f5e5-4e97-a3c5-568eceb081a8	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000826|sdiA	sdiA	78.28	221	422
+f29e7c44-06b0-4643-a5e7-5dcaa6f0af02	Klebsiella pneumoniae	Klebsiella	ARO:3002983|amrB	group oqx-mex-amr-1	73.97	146	2111
+019b5f93-d812-4527-8eaa-a62d6c95ce8f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000502|acrF	group ceo-ade-acr-1	70.63	664	3080
+66f26a61-ac4e-478d-b760-74c474530865	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000518|CRP	CRP	78.03	651	2099
+3fd0662f-4816-4d36-a9f6-3a4386959ba1	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001329|mdtG	mdtG	71.25	1200	5337
+e395dd17-0054-4a5a-b2dd-b8b57697db94	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000535|macB	macB	71.43	175	1843
+3e826403-59ef-421f-bec7-7fb44122efc4	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003056|smeE	group mex-sme-1	72.15	413	3961
+3e826403-59ef-421f-bec7-7fb44122efc4	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003056|smeE	group mex-sme-1	71.74	138	3141
+3e826403-59ef-421f-bec7-7fb44122efc4	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003052|smeB	group mdt-mex-sme-1	70.25	474	3925
+a034ddc2-79f4-4942-91e4-63ebf1191fdf	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000216|acrB	group mex-acr-1	78.7	2826	2165
+a034ddc2-79f4-4942-91e4-63ebf1191fdf	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000207|acrA	group acr-sme-1	72.34	1233	2778
+45bebb2b-c786-4da0-b37d-7cac4227726a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000676|H-NS	H-NS	73.64	239	1952
+1b9c1258-b7c1-40f9-976f-2d996c00b548	Proteus mirabilis	Proteus mirabilis	ARO:3002985|arnA	arnA	70.69	795	4266
+fb0bba18-25c0-4858-a4ea-97e10a26c57e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000823|ramA	group mar-ram-1	73.82	359	4724
+12c52921-a9a1-4c6e-b7cc-366c76d744e7	Proteus mirabilis	Proteus mirabilis	ARO:3003049|rosB	rosB	77.23	101	989
+d62654cb-dafe-43bf-b5e8-492e81535b27	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000263|marA	group mar-ram-1	72.89	380	1695
+2e35e82e-a3d9-4cf5-8bee-82373f17ee0a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003209|FosA5	group Fos-3	79.38	422	1478
+285c2810-e476-422e-ac1b-af6bbdd2e4f9	Klebsiella pneumoniae	Klebsiella	ARO:3000794|mdtC	group mdt-mex-sme-1	74.32	148	2189
+285c2810-e476-422e-ac1b-af6bbdd2e4f9	Klebsiella pneumoniae	Klebsiella	ARO:3000793|mdtB	group mdt-mds-acr-mtr-1	71.02	728	1990
+1b0a55f2-107a-4679-8dcc-e1d6cf758b2e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000502|acrF	group ceo-ade-acr-1	73.53	102	409
+86c22558-fd34-400c-9bb8-1231750a9377	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000794|mdtC	group mdt-mex-sme-1	73.23	904	4352
+86c22558-fd34-400c-9bb8-1231750a9377	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001330|mdtD	mdtD	70.56	1216	3113
+86c22558-fd34-400c-9bb8-1231750a9377	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000828|baeR	group bae-sme-1	70.95	692	3819
+86c22558-fd34-400c-9bb8-1231750a9377	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000829|baeS	baeS	74.32	148	2789
+ae9ec758-80ad-4825-bb04-2ecfa7756867	Klebsiella pneumoniae	Klebsiella	ARO:3003033|mexY	group oqx-mex-amr-1	70.11	184	2788
+ae9ec758-80ad-4825-bb04-2ecfa7756867	Klebsiella pneumoniae	Klebsiella	ARO:3000804|mexF	group mex-Tri-1	71.05	190	2638
+a60d5503-fe73-426d-92e9-368775f0ddf9	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000024|patA	patA	70.9	677	465
+bb0f9196-1837-4de1-ba97-c87c1cf9a302	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003830|aminocoumarin	alaS	78.87	814	1302
+f00bb75f-a8f8-427f-9f64-d55f23e53a9e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000794|mdtC	group mdt-mex-sme-1	71.06	1344	3668
+f00bb75f-a8f8-427f-9f64-d55f23e53a9e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000828|baeR	group bae-sme-1	72.1	699	4226
+3636165a-18fc-459a-bab5-44491f1de3df	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003840|aminocoumarin	cysB	71.73	994	490
+5b93fadc-6962-47fc-9c87-2d2d8e100a72	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000516|emrR	emrR	72.13	348	2050
+df898b3f-2b9f-4f3c-a5fa-9f0db0e87952	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	70.56	737	1553
+df898b3f-2b9f-4f3c-a5fa-9f0db0e87952	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	70.67	208	2048
+50b0fb96-f2f3-476f-b2f8-d361dbdb55a9	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000826|sdiA	sdiA	73.21	209	2832
+c6c91a73-365d-4e57-9822-c34a69794e5c	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003209|FosA5	group Fos-3	91.9	395	4336
+24e83392-0351-4b93-974d-3e4b479aa90f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000676|H-NS	H-NS	82.33	215	566
+28329d1f-39b8-4222-b803-75fb1fcec0cb	Pasteurella multocida	Taxon ID 0	ARO:3002621|aadA24	group aad-1	85.54	505	53
+c012966f-ba87-4ad1-ba12-ed0314af2591	Klebsiella pneumoniae	Klebsiella	ARO:3003056|smeE	group mex-sme-1	71.34	164	882
+f79f6555-95ff-4503-a9f8-d2b0204bfb8a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003209|FosA5	group Fos-3	79.7	133	405
+114d22a3-fbe9-4a85-b586-ac2808402908	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000832|evgA	evgA	71.43	252	2047
+f128d16c-df6d-4924-af58-f684cb3d039e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000676|H-NS	H-NS	75.66	415	3382
+f8e487e4-1e4d-4688-abde-c70a997098a0	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000024|patA	patA	72.61	1391	4621
+cd89914e-39ba-4f1e-b12b-642dde3d7f85	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000794|mdtC	group mdt-mex-sme-1	70.38	1911	187
+cd89914e-39ba-4f1e-b12b-642dde3d7f85	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001330|mdtD	mdtD	76.82	151	1870
+5ad6a3bc-bcbf-4d85-846d-d08a61c43ce1	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000074|emrB	emrB	75.17	592	2069
+0753ff3c-9e8a-4da3-bc79-76914a14704f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002986|bacA	bacA	73.39	838	3754
+4bc02069-820c-4c6d-9c49-1f64d290144f	Proteus mirabilis	Proteus mirabilis	ARO:3000216|acrB	group mex-acr-1	71.57	313	179
+86d28b5d-56a8-4120-9c4c-e7e456f5b54c	Klebsiella pneumoniae	Klebsiella	ARO:3000793|mdtB	group mdt-mds-acr-mtr-1	73.08	182	402
+75b7dde2-92c2-4de8-a760-0017b3306b3a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003576|PmrC	PmrC	73.66	205	712
+37add161-7332-4e0a-b48b-af57c1528eae	Klebsiella pneumoniae	Klebsiella	ARO:3000828|baeR	group bae-sme-1	71.0	300	925
+4db006be-d9b6-4d79-8694-a25b1eb42423	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000309|emrD	emrD	70.95	716	174
+68041b3c-61c9-40a4-81c1-7051dcc8c362	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003209|FosA5	group Fos-3	77.54	423	2724
+5ab02506-75b0-4336-8720-1dc1063dfc39	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003843|leuO	leuO	71.18	465	1307
+bd9a0ff4-f879-4eeb-978c-275e9e5d35af	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003578|PmrF	PmrF	70.71	840	229
+654bd28e-4946-454e-a47a-442586057105	Proteus mirabilis	Proteus mirabilis	ARO:3000237|tolC	tolC	70.0	130	7700
+8ee94a30-2bbb-4179-a1d2-526b580b2862	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002986|bacA	bacA	74.7	842	3006
+1b970076-3733-4b6f-98f3-3b6b1277bc58	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003844|mfd	mfd	75.35	1059	3002
+65a11fd3-9cd0-49a7-9310-48bf17114fcb	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000804|mexF	group mex-Tri-1	71.43	133	8381
+385fca1f-0a62-4b60-bdde-8631b5473c0e	Klebsiella pneumoniae	Klebsiella	ARO:3000828|baeR	group bae-sme-1	76.88	705	765
+385fca1f-0a62-4b60-bdde-8631b5473c0e	Klebsiella pneumoniae	Klebsiella	ARO:3000829|baeS	baeS	76.92	169	1464
+084b787e-9f76-4ac9-b664-89076aa07676	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002986|bacA	bacA	74.56	511	165
+c3d99521-b95b-463d-b88c-5b50cc2216f5	Klebsiella pneumoniae	Klebsiella	ARO:3001330|mdtD	mdtD	71.01	307	155
+7c108c35-3bd6-437f-ae21-4d06cf2c3087	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000309|emrD	emrD	73.15	648	3461
+3b61a3a0-aebd-428a-b597-570d15763e55	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003066|smeR	group bae-sme-1	74.78	115	978
+3b61a3a0-aebd-428a-b597-570d15763e55	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000829|baeS	baeS	70.78	154	1319
+0742f826-556d-4177-8327-c3be18d9a7bd	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001216|mdtH	mdtH	70.06	775	800
+ef24885e-3c4e-43c5-ae38-db3817ffa528	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3002831|vgaC	vgaC	91.45	234	314
+39405bbf-311b-40d9-8184-c3542dfcd6ab	Klebsiella pneumoniae	Klebsiella	ARO:3000024|patA	patA	75.88	962	1376
+60dae7fb-8f72-4f64-af7d-e24dd7e2d7cc	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000518|CRP	CRP	79.45	652	3660
+bacd4d9b-81ae-49af-8d62-59e28fac20c3	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003548|mdtN	group ceo-mdt-1	73.08	104	2187
+a5466727-fb8f-4037-8025-f5b41511a2bd	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000830|cpxA	cpxA	72.37	1390	1844
+a5466727-fb8f-4037-8025-f5b41511a2bd	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000831|cpxR	cpxR	75.13	394	3204
+42fa8f15-7650-481d-b8f7-3448d3e1b02a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000027|emrA	group emr-5	79.21	202	274
+42fa8f15-7650-481d-b8f7-3448d3e1b02a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000074|emrB	emrB	76.0	175	308
+e0cd0ad3-2754-4e23-8f10-623f5dacf70e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000074|emrB	emrB	75.41	1590	4252
+e0cd0ad3-2754-4e23-8f10-623f5dacf70e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000027|emrA	group emr-5	70.81	620	5915
+94d751ee-7541-47ab-b107-5a5ce6974882	Proteus mirabilis	Proteus mirabilis	ARO:3002829|vgaA	group vga-2	73.21	112	3190
+a7d361b4-af1d-4e3a-8125-5d5a17b16a36	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000309|emrD	emrD	76.47	272	361
+3075edc2-a32c-4589-84a1-1a097a516b8e	Klebsiella pneumoniae	Klebsiella	ARO:3000024|patA	patA	75.64	628	820
+c0c43a7a-ca5e-4821-9436-76fba213fe25	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003056|smeE	group mex-sme-1	74.47	376	4617
+c0c43a7a-ca5e-4821-9436-76fba213fe25	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000378|mexB	group mex-sme-1	71.57	510	2935
+78bb2cb5-91c1-46af-8edf-8a3dfecfe0cf	Klebsiella pneumoniae	Enterobacterales	ARO:3001128|SHV-74	group SHV-LEN-OKP-1	84.81	757	2124
+b073a3ee-8de6-4e37-8089-e9ec8328d542	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3000518|CRP	CRP	72.25	227	83
+4930b61d-868e-45ed-9fa2-bc948072030b	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000216|acrB	group mex-acr-1	76.39	1618	4205
+4930b61d-868e-45ed-9fa2-bc948072030b	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000207|acrA	group acr-sme-1	73.71	1225	3005
+4c45825a-499c-4901-aade-5972a00761af	Klebsiella pneumoniae	Klebsiella	ARO:3000207|acrA	group acr-sme-1	73.68	418	537
+759ba517-cb0b-4d25-a938-c44be3df0067	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000676|H-NS	H-NS	71.43	399	1767
+aaecf687-1cf0-494f-b15f-747a33782d67	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3002831|vgaC	vgaC	88.16	245	1735
+49814b81-2ed4-49ad-a621-b692ece72c43	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000828|baeR	group bae-sme-1	71.98	678	2640
+450970ec-a840-4cdb-bfdb-4ec945269652	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003922|oqxA	group oqx-mex-1	72.12	104	1471
+48e15219-cc6c-44d4-b464-e3f0caefea66	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003923|oqxB	group oqx-mex-amr-1	80.45	2164	101
+e7610d2e-0e08-4f3b-acac-b588ad67b167	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003923|oqxB	group oqx-mex-amr-1	83.67	1041	557
+e7610d2e-0e08-4f3b-acac-b588ad67b167	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003922|oqxA	group oqx-mex-1	81.17	563	1035
+5b64cdfe-a5ce-43e2-9d26-e039a7e0ce59	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003830|aminocoumarin	alaS	75.54	368	219
+c234db95-1661-4ed7-b7a5-5fc20eed6d4f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000830|cpxA	cpxA	71.85	1389	4050
+c234db95-1661-4ed7-b7a5-5fc20eed6d4f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000831|cpxR	cpxR	78.52	717	5251
+7fdbed50-dbb2-4594-b9a0-535f500a9cd2	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000024|patA	patA	76.83	794	2703
+daf9bf9f-4e17-4b1a-bdd2-adc1326a7df0	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000535|macB	macB	73.88	134	2977
+e44ac170-6230-44a9-bb6a-8e26aa15ec2d	Escherichia coli	Enterobacteriaceae	ARO:3002831|vgaC	vgaC	89.29	224	1512
+74cf7c41-f97b-4390-98f4-af250139b1d7	Escherichia coli	Enterobacteriaceae	ARO:3002831|vgaC	vgaC	85.96	235	1059
+363a4091-5f73-404a-9b48-df96a8346438	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000074|emrB	emrB	74.52	785	1437
+75326679-c7c6-41a7-9cc5-880434f2f57d	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003830|aminocoumarin	alaS	73.58	2721	4345
+e4d43c28-ef90-461e-975d-1f2b1173f35f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003923|oqxB	group oqx-mex-amr-1	70.99	131	4795
+4181ee03-3184-445c-92ba-d4d32994e116	Escherichia fergusonii	Gammaproteobacteria	ARO:3002831|vgaC	vgaC	89.61	231	8768
+7b034eae-d1a2-401d-bb98-c796357e4283	Klebsiella pneumoniae	Klebsiella	ARO:3003841|kdpE	kdpE	77.46	142	647
+51ad0fbb-5a18-4e3d-966c-d7a8f484956c	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	74.16	178	832
+51ad0fbb-5a18-4e3d-966c-d7a8f484956c	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	70.97	155	557
+55400bbb-18bd-49e8-a693-cba2d5e4b6da	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000074|emrB	emrB	76.32	114	2643
+9477f374-ba75-4c16-9666-a012d3287263	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003052|smeB	group mdt-mex-sme-1	75.45	110	539
+f6ecc73a-74d8-46c2-befc-793c923da76e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003923|oqxB	group oqx-mex-amr-1	87.67	576	1357
+597b62e2-fa43-4020-9e6b-eaba3238256b	Proteus mirabilis	Proteus mirabilis	ARO:3002985|arnA	arnA	73.17	164	1471
+ae01039c-a5ce-4e6d-affa-d8dace2f3ef2	Klebsiella pneumoniae	Klebsiella	ARO:3000207|acrA	group acr-sme-1	84.1	195	173
+50863b2b-a6a9-4dc6-9f16-5906fa731262	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002986|bacA	bacA	74.56	562	1268
+56047354-7ce7-420d-8a8d-e657f5692f38	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000676|H-NS	H-NS	73.88	402	6757
+64476fa2-8100-4e37-812b-b0e3f80f244e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000216|acrB	group mex-acr-1	73.43	493	1805
+5fc5afcc-30fd-4f30-a8ee-2a06ddd0575d	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002986|bacA	bacA	71.39	825	984
+7d26d219-f860-4835-bf5e-ac58f9486c25	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000516|emrR	emrR	75.56	360	4772
+cef73bf4-8763-4246-96e2-1ef564c0b63b	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000823|ramA	group mar-ram-1	71.19	354	1203
+a1c7aff3-0bf8-4ccf-a98b-2ec81b23f728	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000502|acrF	group ceo-ade-acr-1	70.4	250	247
+a1c7aff3-0bf8-4ccf-a98b-2ec81b23f728	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000499|acrE	group acr-mex-1	70.76	171	328
+e9f77d15-9646-4a49-954c-6dd477c091c6	Klebsiella pneumoniae	Klebsiella	ARO:3000828|baeR	group bae-sme-1	77.03	679	5710
+4afb2689-dfe4-4d52-b897-068d961bd28a	Shigella dysenteriae	Shigella	ARO:3002854|dfrA1	group dfr-3	78.98	471	1829
+b204ff29-6814-4a1f-b147-33dc6d330333	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003548|mdtN	group ceo-mdt-1	77.19	114	2704
+13773163-ad23-453c-9a04-3d99a93ae571	Klebsiella pneumoniae	Klebsiella	ARO:3000216|acrB	group mex-acr-1	72.38	181	8990
+13773163-ad23-453c-9a04-3d99a93ae571	Klebsiella pneumoniae	Klebsiella	ARO:3002983|amrB	group oqx-mex-amr-1	70.49	183	7294
+02435126-12a2-45bd-9008-1413aa567457	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003923|oqxB	group oqx-mex-amr-1	71.77	124	2687
+0b4cba51-883c-45ef-b05c-a2cb396f4924	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000378|mexB	group mex-sme-1	79.28	222	918
+0b4cba51-883c-45ef-b05c-a2cb396f4924	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000502|acrF	group ceo-ade-acr-1	70.37	189	596
+3fa19fac-9c9f-403c-ab45-1577fc8788ff	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000074|emrB	emrB	78.85	104	5957
+2bd2bfd7-444c-4d53-86d9-96883af144a0	Proteus mirabilis	Proteus mirabilis	ARO:3000831|cpxR	cpxR	72.41	232	2708
+924e0df8-f4cb-4ce6-94a5-bd0dc52a020f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003066|smeR	group bae-sme-1	74.07	108	920
+62aef986-6725-454a-aa01-56652f308e25	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002983|amrB	group oqx-mex-amr-1	78.0	100	1449
+0880502d-63cf-4a3c-9e5b-82031d0274b5	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000074|emrB	emrB	74.87	191	490
+ae71b8bb-f9ee-43d7-80ca-d33fb498b2d3	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000825|robA	robA	70.25	810	2216
+b725b4da-62de-4b54-9cb1-31e1b84697b4	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000216|acrB	group mex-acr-1	72.09	129	2820
+4ad685fd-440f-4e54-a703-f344bf8e360f	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003577|PmrE	PmrE	70.5	634	79
+f36c09d1-16c3-40c3-b17d-d2d0cae4cc81	Proteus mirabilis	Proteus mirabilis	ARO:3000177|tetJ	group tet-3	79.82	1115	4604
+464d8021-1a1b-420c-a538-107c5a10e25e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003209|FosA5	group Fos-3	82.4	409	1703
+5b49a546-1311-4f04-98f0-91b55e9e4e08	Klebsiella pneumoniae	Enterobacterales	ARO:3001070|SHV-11	group SHV-LEN-OKP-1	89.9	881	3033
+9d48e2fc-98e5-48c3-9050-0cf1081d24f3	Shigella flexneri	Shigella flexneri	ARO:3002601|aadA	group aad-1	85.85	834	2090
+9d48e2fc-98e5-48c3-9050-0cf1081d24f3	Shigella flexneri	Shigella flexneri	ARO:3002895|sat-1	sat-1	82.59	540	1665
+9d48e2fc-98e5-48c3-9050-0cf1081d24f3	Shigella flexneri	Shigella flexneri	ARO:3002854|dfrA1	group dfr-3	83.57	493	2284
+062d12bf-c862-4a7c-b0c5-08a2707c51ba	Klebsiella pneumoniae	Enterobacterales	ARO:3001137|SHV-83	group SHV-LEN-OKP-1	90.38	364	2661
+cdc59972-17c4-4011-880e-1c609ccb6812	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000024|patA	patA	73.68	209	383
+183420e7-6703-4e19-b554-ef91f1e5f9fb	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000237|tolC	tolC	70.93	664	1926
+72d04edc-31ab-4dee-989e-10c138a4955f	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003923|oqxB	group oqx-mex-amr-1	84.43	1137	227
+72d04edc-31ab-4dee-989e-10c138a4955f	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003922|oqxA	group oqx-mex-1	79.59	196	1134
+e065195a-01e0-41d9-83c0-075b731986d0	Klebsiella pneumoniae	Klebsiella	ARO:3000794|mdtC	group mdt-mex-sme-1	74.19	806	92
+6df44f40-d163-4c54-b6da-193ec3b88112	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	70.51	1180	3764
+759f15cf-ba20-4b86-83ab-1f9fe016fabb	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000828|baeR	group bae-sme-1	73.2	306	324
+f1d0b38e-3255-4349-906c-2c703f09866e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003840|aminocoumarin	cysB	70.45	247	1587
+ca5b6be4-31c7-40e0-ad74-08fdef54bc61	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001215|mdtL	group mdt-bcr-1	76.54	162	1874
+ca5b6be4-31c7-40e0-ad74-08fdef54bc61	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001215|mdtL	group mdt-bcr-1	72.99	211	1402
+5236051a-e03c-4b52-a6b7-d1e493d0ff53	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003209|FosA5	group Fos-3	85.34	423	2544
+91a55b7a-8467-44b7-8c3f-38ebba913336	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000309|emrD	emrD	73.24	340	1503
+91a55b7a-8467-44b7-8c3f-38ebba913336	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000309|emrD	emrD	72.73	143	2175
+771c5970-d618-44ac-8d68-9c5633e3d50d	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000263|marA	group mar-ram-1	73.47	147	1777
+34163973-9aaa-479e-a07c-0b56f9afc933	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000024|patA	patA	72.44	762	305
+254c3e59-2ff9-4857-aea5-e4bddae209b6	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	71.24	897	6341
+254c3e59-2ff9-4857-aea5-e4bddae209b6	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	70.42	497	5411
+254c3e59-2ff9-4857-aea5-e4bddae209b6	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003578|PmrF	PmrF	70.59	901	4446
+88f2b847-44f0-45d6-9a33-ba9822415be7	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000074|emrB	emrB	72.66	757	2619
+df15cfe7-9511-4f90-985c-07dee21b7d0e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	74.17	751	1666
+d828ae71-2e4a-4a52-9f22-1e47da2a86b0	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000309|emrD	emrD	72.39	1188	5355
+297e78b5-471c-496a-a796-63bdc82b5143	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000502|acrF	group ceo-ade-acr-1	74.07	135	1564
+297e78b5-471c-496a-a796-63bdc82b5143	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000378|mexB	group mex-sme-1	73.66	186	1517
+cbee25d7-e33c-43a1-a365-6eb00edb3cc0	Klebsiella pneumoniae	Klebsiella	ARO:3003056|smeE	group mex-sme-1	74.12	456	5300
+cbee25d7-e33c-43a1-a365-6eb00edb3cc0	Klebsiella pneumoniae	Klebsiella	ARO:3003052|smeB	group mdt-mex-sme-1	71.47	340	3813
+cbee25d7-e33c-43a1-a365-6eb00edb3cc0	Klebsiella pneumoniae	Klebsiella	ARO:3000379|oprM	group opr-sme-2	70.87	103	3376
+b2868101-9c5e-4871-aea9-bf64436b6a98	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3002831|vgaC	vgaC	88.46	234	2001
+a1c2e5ee-7fb7-4d09-ba29-9aa275115479	Shigella flexneri	Shigella flexneri	ARO:3002601|aadA	group aad-1	81.0	816	7298
+a1c2e5ee-7fb7-4d09-ba29-9aa275115479	Shigella flexneri	Shigella flexneri	ARO:3002854|dfrA1	group dfr-3	83.2	494	6139
+a1c2e5ee-7fb7-4d09-ba29-9aa275115479	Shigella flexneri	Shigella flexneri	ARO:3002895|sat-1	sat-1	81.26	555	6716
+c0c55578-ccdd-4b27-95ba-ebd35df3e7bf	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003923|oqxB	group oqx-mex-amr-1	84.02	726	1962
+16114555-4065-4d66-85d1-0af3bff59ccf	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000216|acrB	group mex-acr-1	74.12	2222	3163
+16114555-4065-4d66-85d1-0af3bff59ccf	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000207|acrA	group acr-sme-1	72.4	1221	2148
+b8fb969a-4d3b-4755-9393-4f4a74554b80	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002986|bacA	bacA	73.7	365	3528
+836736f3-4a83-4300-8a35-18e72cc8b9dc	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001328|mdfA	group mdt-mdf-1	70.64	218	913
+9f70ec58-72b6-40b3-892d-f6618c6910ec	Klebsiella pneumoniae	Klebsiella	ARO:3000793|mdtB	group mdt-mds-acr-mtr-1	71.49	3188	2419
+9f70ec58-72b6-40b3-892d-f6618c6910ec	Klebsiella pneumoniae	Klebsiella	ARO:3000794|mdtC	group mdt-mex-sme-1	72.19	2388	4407
+f2bba44e-c12d-4e9b-bd49-80719db3d6d6	Klebsiella pneumoniae	Klebsiella	ARO:3000518|CRP	CRP	79.08	349	130
+7b19e86b-546e-4254-9fcf-a9ddb15fd4eb	Klebsiella pneumoniae	Klebsiella	ARO:3003056|smeE	group mex-sme-1	73.51	370	1722
+7b19e86b-546e-4254-9fcf-a9ddb15fd4eb	Klebsiella pneumoniae	Klebsiella	ARO:3003052|smeB	group mdt-mex-sme-1	70.45	176	1152
+7b19e86b-546e-4254-9fcf-a9ddb15fd4eb	Klebsiella pneumoniae	Klebsiella	ARO:3003923|oqxB	group oqx-mex-amr-1	73.87	111	995
+23f3082b-91ec-48db-a76c-4ab097bff0cd	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000074|emrB	emrB	73.91	1602	4971
+565808d9-e860-45e7-bddd-0c965208c7f8	Klebsiella pneumoniae	Klebsiella	ARO:3000518|CRP	CRP	75.0	632	566
+cef4b59e-60ed-4222-9333-d06ad7d99c9f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003830|aminocoumarin	alaS	70.01	907	843
+96c5fc69-69ba-446c-a92d-d93f0cab1843	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003577|PmrE	PmrE	72.16	783	4880
+01f43eef-b85b-463b-aae4-6be735a667ee	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000074|emrB	emrB	76.3	308	265
+a1362049-016c-4bbe-a8ee-3fbd24b2db52	Escherichia coli	Enterobacteriaceae	ARO:3002831|vgaC	vgaC	93.75	128	450
+49009c5a-90fc-4d87-bdc4-1840ae47540e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	70.28	949	3399
+49009c5a-90fc-4d87-bdc4-1840ae47540e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	72.2	205	2778
+49009c5a-90fc-4d87-bdc4-1840ae47540e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003578|PmrF	PmrF	70.09	682	3122
+19fd7779-9c65-465e-b52b-1c8fd9598002	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003830|aminocoumarin	alaS	74.14	321	1767
+d87c5a82-81f0-4adc-97a6-0d132a7f95c7	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	71.98	339	3226
+187ec257-a51a-4cf2-8fb0-39b74e206fca	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000826|sdiA	sdiA	75.0	224	1097
+59183d11-cc29-4f16-8d41-5ea53ca3474b	Klebsiella pneumoniae	Enterobacterales	ARO:3001096|SHV-38	group SHV-LEN-OKP-1	89.29	224	910
+3c8077c0-1b04-46fc-8894-36c954c548d7	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003830|aminocoumarin	alaS	74.08	2708	2406
+e2be5016-f09a-4b72-b974-31c5959a0f02	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002986|bacA	bacA	79.51	122	421
+461de26b-ed92-493f-8c2e-add64f60e89a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000263|marA	group mar-ram-1	71.9	306	2811
+dd609a81-a7c6-4f29-96cd-317c41a7353c	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000676|H-NS	H-NS	76.65	424	210
+87adc2b6-fb40-46d2-a2a1-81f87086bd10	Klebsiella pneumoniae	Enterobacterales	ARO:3001123|SHV-69	group SHV-LEN-OKP-1	80.6	902	3299
+131d1fb8-557c-428a-9f63-8e81849d3398	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003209|FosA5	group Fos-3	85.29	435	527
+9c0155f4-1558-497c-9fcf-ede84042c005	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003923|oqxB	group oqx-mex-amr-1	75.13	969	932
+a8770880-b09e-4bc9-bd41-c6ff14e4cea8	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001328|mdfA	group mdt-mdf-1	70.42	933	773
+a8770880-b09e-4bc9-bd41-c6ff14e4cea8	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001328|mdfA	group mdt-mdf-1	79.82	109	1607
+b4afd396-b136-4616-9a43-3ec2a70833e1	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000237|tolC	tolC	71.64	1393	3039
+ec98e47d-38b1-4766-8e2c-f52361e4024e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000216|acrB	group mex-acr-1	76.37	728	5115
+31b6f18d-20c0-43ea-8dad-840dae23b6c6	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000502|acrF	group ceo-ade-acr-1	71.96	1348	1942
+31b6f18d-20c0-43ea-8dad-840dae23b6c6	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000207|acrA	group acr-sme-1	70.59	544	1796
+1bf87f12-2c88-4c19-8d73-0403b1e97f57	Escherichia coli	Enterobacteriaceae	ARO:3002831|vgaC	vgaC	90.13	233	3162
+85967a6a-cb34-4adb-9612-1988c01b8251	Klebsiella pneumoniae	Enterobacterales	ARO:3001123|SHV-69	group SHV-LEN-OKP-1	84.14	536	412
+3ff69cb3-408c-4aae-bea1-ce4bfb9e0d7e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	72.75	833	675
+14a79dd5-0174-4b2c-9727-86d1f1d5de54	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000676|H-NS	H-NS	75.47	106	2372
+553b38a7-bc3f-4995-ac9a-542bbb110a30	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000823|ramA	group mar-ram-1	73.02	126	236
+6ea9747f-e17c-48b8-b9cf-2d4c80ac79cf	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000676|H-NS	H-NS	74.01	404	1395
+50e9a73b-748d-46d4-bb6f-900ea7fa070c	Klebsiella pneumoniae	Klebsiella	ARO:3000518|CRP	CRP	77.45	439	307
+d88526c9-e2a9-467b-aebb-3454a7befdfa	Klebsiella pneumoniae	Klebsiella	ARO:3003056|smeE	group mex-sme-1	73.26	516	1159
+e4bef367-82cf-4044-ac93-8fadc6a327a9	Klebsiella pneumoniae	Enterobacterales	ARO:3003154|SHV-187	group SHV-LEN-OKP-1	88.59	894	2872
+3b8cd629-743a-4b77-adcb-9b6b0fdbea1a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000516|emrR	emrR	73.33	105	2179
+6353a9ca-3ee3-4464-8c7a-5e36399530c2	Klebsiella pneumoniae	Klebsiella	ARO:3000024|patA	patA	75.0	344	73
+f9addaa5-1b65-4898-8a6f-72aea63e696b	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001328|mdfA	group mdt-mdf-1	70.75	212	324
+05c1a531-ab36-4d4d-b87d-552cabe85db9	Klebsiella pneumoniae	Klebsiella	ARO:3001330|mdtD	mdtD	75.65	649	235
+05c1a531-ab36-4d4d-b87d-552cabe85db9	Klebsiella pneumoniae	Klebsiella	ARO:3000794|mdtC	group mdt-mex-sme-1	81.46	205	783
+171d6fcb-b0a4-46d3-b843-afcf5113629d	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	70.07	137	712
+3139b264-7368-48e8-a01a-6466301330d1	Klebsiella pneumoniae	Enterobacterales	ARO:3001092|SHV-34	group SHV-LEN-OKP-1	90.11	536	321
+d3d5ba3b-d8c5-473d-a286-259df34e9642	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002986|bacA	bacA	70.3	845	1828
+be9ceb13-ada6-431f-bd79-b5fc242c1818	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001328|mdfA	group mdt-mdf-1	78.57	112	1601
+6bc0426d-edec-4a8d-b6dc-f08bc465cf9b	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000502|acrF	group ceo-ade-acr-1	70.39	510	456
+6bc0426d-edec-4a8d-b6dc-f08bc465cf9b	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000499|acrE	group acr-mex-1	70.61	228	688
+67f2a33c-6323-4f09-8747-89bd64b2ab06	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000826|sdiA	sdiA	71.23	219	7755
+f8f76efc-d02d-4a70-b358-8c28cdec4448	Proteus mirabilis	Proteus mirabilis	ARO:3000206|emrK	group emr-5	71.93	285	4225
+f8f76efc-d02d-4a70-b358-8c28cdec4448	Proteus mirabilis	Proteus mirabilis	ARO:3000516|emrR	emrR	74.8	127	4924
+454ecc9f-85bc-47ff-a05c-c9f8937f9786	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003056|smeE	group mex-sme-1	74.46	231	692
+454ecc9f-85bc-47ff-a05c-c9f8937f9786	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	72.46	276	650
+833ca07b-bdfa-43e8-b2d0-d59862c7594d	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000499|acrE	group acr-mex-1	74.04	104	807
+ff03c9bb-ffd1-4ad5-924f-173e9583d99a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	72.56	317	60
+645bf338-b3b5-456c-bad1-deba95d69245	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	70.5	1051	3711
+645bf338-b3b5-456c-bad1-deba95d69245	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	70.37	459	5217
+645bf338-b3b5-456c-bad1-deba95d69245	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003578|PmrF	PmrF	71.26	936	5723
+f7dce2e7-7dee-4d3d-8645-be924575ae18	Proteus mirabilis	Proteus mirabilis	ARO:3002985|arnA	arnA	73.58	299	3136
+2dfd5b64-0189-4a2e-9f0a-0379f8b00ed3	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000502|acrF	group ceo-ade-acr-1	70.34	263	116
+dc5f9de0-d2ef-4d70-8714-b6cb632b90d0	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001216|mdtH	mdtH	70.79	1123	8476
+615d1647-8b7a-4106-ae5d-00b433fb0da9	Klebsiella pneumoniae	Klebsiella	ARO:3003056|smeE	group mex-sme-1	71.64	529	563
+48146dd9-dff0-417c-a479-f1d161e93bf2	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000216|acrB	group mex-acr-1	70.87	230	2214
+48146dd9-dff0-417c-a479-f1d161e93bf2	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000378|mexB	group mex-sme-1	72.22	126	1168
+48146dd9-dff0-417c-a479-f1d161e93bf2	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000801|mexD	group mex-sme-1	72.0	100	1730
+11abe480-ee76-4a63-a378-f78abe89379d	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000216|acrB	group mex-acr-1	74.51	863	105
+09b0229b-9be3-49ba-8819-d6b6e15c44e7	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003048|rosA	rosA	75.0	120	408
+2d2e272a-0162-4328-9f25-d96168dd23d5	Escherichia coli	Enterobacteriaceae	ARO:3002831|vgaC	vgaC	91.95	236	384
+73d397ec-5055-46f1-ad9d-250ef1667ed9	Klebsiella pneumoniae	Enterobacterales	ARO:3002438|OKP-B-5	group SHV-LEN-OKP-1	80.0	105	2087
+b71d5bea-3daa-43ae-95b4-27a3c26904f2	Shigella dysenteriae	Shigella	ARO:3002854|dfrA1	group dfr-3	77.45	510	1700
+8d336d92-9b3e-46ba-b4a1-ece8f6c4a07d	Proteus mirabilis	Proteus mirabilis	ARO:3002670|cat	group cat-1	80.92	697	1289
+d8bcfbf9-e353-4fdc-9f28-9ee62d09aece	Klebsiella pneumoniae	Enterobacterales	ARO:3001096|SHV-38	group SHV-LEN-OKP-1	92.05	302	1032
+88ad6942-6193-4928-ac23-2a0f9fb054eb	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000825|robA	robA	70.52	814	4211
+12db5f91-8049-444f-b624-d1b00f67c41d	Klebsiella pneumoniae	Klebsiella	ARO:3003705|mexN	group oqx-mex-amr-1	73.04	115	2581
+9e762681-6179-4b1e-a095-f79d951647ef	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003830|aminocoumarin	alaS	73.41	2723	1674
+e53962c7-4b56-42f9-94d3-e2a387f477ad	Klebsiella pneumoniae	Klebsiella	ARO:3000263|marA	group mar-ram-1	70.37	324	6722
+4928531a-fdc9-4fa9-9dac-c90fe4c356f6	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003209|FosA5	group Fos-3	82.52	412	1517
+a784743f-e833-4ebf-8158-06d237a73f3e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000830|cpxA	cpxA	71.51	1411	910
+a784743f-e833-4ebf-8158-06d237a73f3e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000831|cpxR	cpxR	73.71	582	2269
+b95cfb82-63fd-4052-be0d-1866e05445be	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000499|acrE	group acr-mex-1	75.5	151	3193
+d5d1b436-9ee9-4176-970e-771d2d181983	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003840|aminocoumarin	cysB	71.93	1026	6315
+93208240-d928-4371-aeb6-8778e939b776	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003583|PmrB	PmrB	75.24	105	855
+244da2a8-ffdd-43ed-9dd8-e8996c501267	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003923|oqxB	group oqx-mex-amr-1	70.06	157	3174
+9904bf13-c7a4-4a49-838e-54a05bd97189	Escherichia coli	Escherichia coli	ARO:3002831|vgaC	vgaC	75.23	218	3414
+0c46ae00-ec08-4c2e-bf1b-ae6dce94096b	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000676|H-NS	H-NS	76.76	426	648
+9414b694-d2a0-4978-a747-41534f3c19ad	Proteus mirabilis	Proteus mirabilis	ARO:3000794|mdtC	group mdt-mex-sme-1	72.73	154	593
+9cb59a21-4222-4bfc-8e5a-f5b1006d3772	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	72.12	434	656
+97314be6-fc01-4224-9960-873a9a6cc2ff	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003548|mdtN	group ceo-mdt-1	72.59	135	2438
+7ecbc070-075a-4512-afee-ce0e636631f8	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000027|emrA	group emr-5	72.12	1069	700
+7ecbc070-075a-4512-afee-ce0e636631f8	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000074|emrB	emrB	76.51	562	1692
+7ecbc070-075a-4512-afee-ce0e636631f8	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000516|emrR	emrR	75.32	385	1868
+d79cfdf1-fbaa-4466-b3ce-4805f1f0c72f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000502|acrF	group ceo-ade-acr-1	71.94	253	1435
+d79cfdf1-fbaa-4466-b3ce-4805f1f0c72f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000502|acrF	group ceo-ade-acr-1	72.5	120	2064
+d79cfdf1-fbaa-4466-b3ce-4805f1f0c72f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	70.24	168	1776
+d79cfdf1-fbaa-4466-b3ce-4805f1f0c72f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000378|mexB	group mex-sme-1	75.19	133	1502
+ad3815a7-a637-4cef-abc2-9e10bb0c7ef8	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000074|emrB	emrB	71.37	468	375
+9e918059-4739-41eb-91dc-07a443f02233	Klebsiella pneumoniae	Klebsiella	ARO:3003578|PmrF	PmrF	72.89	332	359
+9e918059-4739-41eb-91dc-07a443f02233	Klebsiella pneumoniae	Klebsiella	ARO:3002985|arnA	arnA	70.57	282	386
+e1f4555e-ccce-4acd-94f0-c4142ec8b192	Klebsiella pneumoniae	Klebsiella	ARO:3000831|cpxR	cpxR	76.29	717	979
+e1f4555e-ccce-4acd-94f0-c4142ec8b192	Klebsiella pneumoniae	Klebsiella	ARO:3000830|cpxA	cpxA	78.12	224	1702
+a236cd35-3b58-4174-9d81-4e75d6d34afb	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000832|evgA	evgA	70.91	110	2190
+91d8975a-10e2-40b6-9fb4-fc3e83047ae4	Shigella flexneri	Shigella flexneri	ARO:3002601|aadA	group aad-1	89.34	807	6820
+91d8975a-10e2-40b6-9fb4-fc3e83047ae4	Shigella flexneri	Shigella flexneri	ARO:3002895|sat-1	sat-1	85.88	170	7651
+5541c6e5-4ef3-40a6-b743-68a11a07a77d	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003840|aminocoumarin	cysB	75.14	185	417
+67efafa3-efab-4f8c-bb10-00ee4daba67e	Klebsiella pneumoniae	Klebsiella	ARO:3001330|mdtD	mdtD	72.63	285	245
+906a5f6b-6477-4b4e-ac26-b4e3c7c2f109	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002831|vgaC	vgaC	87.65	243	2658
+69972962-a1b5-4b9a-ad80-3370864c73ff	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	70.45	132	5012
+eb3e0ee6-92e3-4971-aa22-e74dee88e506	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000518|CRP	CRP	75.43	647	4513
+97f252ba-18aa-4915-9bdc-ca4e3e3fc60f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000518|CRP	CRP	74.88	637	3869
+01ac2d5d-e116-43e4-bed8-ca908e63134e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003583|PmrB	PmrB	70.62	160	1383
+f92da371-5668-40b3-acac-07d97960bea0	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001215|mdtL	group mdt-bcr-1	74.3	214	2479
+9a1605a8-3690-4a25-9178-16eacf48050e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003049|rosB	rosB	74.83	151	5111
+33a885b7-a0bd-4f45-8dcb-a05de4f58a02	Klebsiella pneumoniae	Klebsiella	ARO:3000216|acrB	group mex-acr-1	78.5	2265	307
+33a885b7-a0bd-4f45-8dcb-a05de4f58a02	Klebsiella pneumoniae	Klebsiella	ARO:3000207|acrA	group acr-sme-1	73.26	288	2241
+308f54f0-a0a0-41c6-a380-5c1a52cd2e5f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001214|mdtM	group mdt-mdf-1	70.1	194	875
+d0a35c86-2e02-40e0-aa99-5d503ac8a41a	Klebsiella pneumoniae	Klebsiella	ARO:3000024|patA	patA	75.92	1304	244
+84c57105-b6b9-4bf7-a742-20d04843e30d	Klebsiella pneumoniae	Klebsiella	ARO:3002817|carA	group srm-tlr-car-ole-1	75.0	132	759
+51996d39-cbe6-4a92-9b5a-89fddcbc4de6	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000207|acrA	group acr-sme-1	74.14	116	2180
+f1e13e89-6863-4fd8-be0a-888d01d49909	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000378|mexB	group mex-sme-1	71.62	377	3465
+8c0134ed-70bf-4e7a-ad38-7a87d0a4f325	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3002831|vgaC	vgaC	78.57	196	1717
+e643ec42-d74f-4eb5-b47c-f8bd30845f00	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000794|mdtC	group mdt-mex-sme-1	73.53	102	361
+bdad3580-d28a-4892-ae17-b659d9b4253f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000027|emrA	group emr-5	70.39	152	1883
+8f7babd8-df17-4d27-8707-02cba5f291bd	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000378|mexB	group mex-sme-1	72.54	386	1699
+59dc7087-07ef-4f86-a15e-49a68aef0f8d	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003830|aminocoumarin	alaS	74.24	2632	5862
+902ad3ae-b0ea-40ff-9916-871dcc34699f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000027|emrA	group emr-5	73.99	323	237
+efee89d3-f4b4-4853-9fba-0df4e1d3f7a6	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000216|acrB	group mex-acr-1	72.61	449	7697
+39131f3e-c3ff-42af-b163-ca0ec0093236	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003830|aminocoumarin	alaS	70.35	1784	788
+3727035d-6822-4a43-ad0b-b9589b657a14	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000516|emrR	emrR	78.1	411	1352
+b080bdea-293f-421f-b3fe-43c75caf52f8	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000832|evgA	evgA	73.94	142	2178
+0ebcd002-daae-41ca-bdc0-e3a64c8776b4	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003049|rosB	rosB	73.08	104	3066
+ff38db75-9f78-4a8a-b01d-382e86d8c171	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002870|tet34	tet34	74.42	129	1688
+3f93c277-90db-4d98-81fc-b8c9ac49ceac	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003922|oqxA	group oqx-mex-1	70.0	710	2157
+a94be529-7648-4ba2-bd17-028d4d71189c	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003922|oqxA	group oqx-mex-1	80.17	1210	541
+a94be529-7648-4ba2-bd17-028d4d71189c	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003923|oqxB	group oqx-mex-amr-1	79.92	528	1254
+770c65db-1a94-4018-87e0-714a766ca585	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003577|PmrE	PmrE	70.96	272	103
+c8ccd454-ac7c-415b-932a-a5b8e7fe069d	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	73.01	2960	1655
+6c8cd7cc-d5b9-4ecc-ac6e-44d6d51d4256	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000263|marA	group mar-ram-1	71.43	329	4472
+4d19ee0a-cca2-40c3-90ff-f7a865bb6cc5	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	76.15	109	397
+11030e10-93ca-48dd-a198-9a206196ebfd	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000535|macB	macB	75.24	105	6246
+12aed0e4-d106-4203-92ff-f201b542c987	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000379|oprM	group opr-sme-2	74.53	106	2592
+c94d7c40-14d1-4333-bb5b-fb36d6fc4b7b	Klebsiella pneumoniae	Klebsiella	ARO:3000216|acrB	group mex-acr-1	76.62	201	119
+87e803e7-7daa-4844-a781-6397856fbc69	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000309|emrD	emrD	70.43	460	1417
+87e497fc-f912-43eb-94f5-4bd49575c840	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001214|mdtM	group mdt-mdf-1	73.11	119	930
+d8c35a14-19df-45aa-8730-497233b4ccfa	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000309|emrD	emrD	71.5	193	8816
+9ce25e39-bc58-416e-8ec1-a80a24cc96da	Klebsiella pneumoniae	Bacteria	ARO:3000207|acrA	group acr-sme-1	74.77	107	615
+091f1a76-ff38-4ae7-ba95-0a1815c5b00f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000263|marA	group mar-ram-1	71.08	325	4274
+9a0c01cd-fb7a-498b-adb0-d2e84df8dd14	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000237|tolC	tolC	73.14	175	8191
+7f039f42-7b1d-4b97-b176-7a851cf64e09	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002986|bacA	bacA	74.52	726	915
+ba4e2966-a735-423a-830f-a025282dde29	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	77.45	102	3121
+ba4e2966-a735-423a-830f-a025282dde29	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003578|PmrF	PmrF	70.3	431	2219
+0ffb3dcd-e9e1-4e2f-849a-6b16103f6e44	Proteus mirabilis	Proteus mirabilis	ARO:3002670|cat	group cat-1	84.66	678	3660
+06f63ddb-026d-4e40-bcaf-8c4f44fb3d6e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000825|robA	robA	78.21	156	432
+5e97ce63-356a-482c-9900-5b2ffed2336b	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003154|SHV-187	group SHV-LEN-OKP-1	90.02	882	4536
+a45f9d59-ed26-4276-a6d8-6cb67c6d1bb2	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000823|ramA	group mar-ram-1	70.22	319	329
+a48cdbf6-c627-4e0e-8d4a-f7b26b4cb4e6	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000831|cpxR	cpxR	70.19	748	5563
+731dac93-fc1a-43bd-ba75-8502d512d7d1	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003844|mfd	mfd	72.63	654	298
+ef8e7564-4aea-44c9-9026-17d49a8fae44	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000207|acrA	group acr-sme-1	74.15	294	756
+ef8e7564-4aea-44c9-9026-17d49a8fae44	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000502|acrF	group ceo-ade-acr-1	72.76	257	808
+f0fd9ccb-1678-457e-9dec-5c7e868e1b13	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003844|mfd	mfd	73.59	2276	793
+1a6a2f2b-9d56-41bc-a02f-ffea55be4c29	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003922|oqxA	group oqx-mex-1	83.85	1152	142
+ff33f8ca-a444-4da4-bd56-76db9de7a9d6	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000825|robA	robA	74.86	350	599
+349089ce-9928-4d26-92ee-c886254e572d	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000832|evgA	evgA	73.24	142	3830
+afc19612-511e-44a3-a050-a24ece36b090	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000794|mdtC	group mdt-mex-sme-1	72.79	2157	2811
+afc19612-511e-44a3-a050-a24ece36b090	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000829|baeS	baeS	72.39	268	3462
+8ebf127a-1dd9-4c35-9d5c-cae8a6adcb23	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000074|emrB	emrB	75.4	187	718
+9c1c5a38-90f0-49d2-ab73-4f9b03188dd4	Klebsiella pneumoniae	Klebsiella	ARO:3000024|patA	patA	75.93	270	1387
+6fd616af-1327-4d02-8c80-47d1fdb65b05	Klebsiella pneumoniae	Klebsiella	ARO:3000024|patA	patA	70.27	693	184
+5a6d3107-59ff-46f0-937f-4a248b43c5cc	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003922|oqxA	group oqx-mex-1	85.19	405	256
+e4d00cc0-b98e-4c6e-a24b-6932847a553e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000825|robA	robA	70.86	501	2959
+ae154d69-70b6-443c-94b1-381d546ae864	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003209|FosA5	group Fos-3	86.73	422	1790
+e7959a18-08e5-433a-8fd2-c4cae5f8095a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000825|robA	robA	72.06	791	5683
+39c69f3e-c7ab-4903-87e3-aa2b6630ac07	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	71.45	1972	3926
+4ea13065-68f1-4977-8994-9151affc4939	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000378|mexB	group mex-sme-1	70.3	542	1342
+4ea13065-68f1-4977-8994-9151affc4939	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003056|smeE	group mex-sme-1	71.43	133	1296
+c47c92c9-4ec6-4009-8fc6-d7589a21bf22	Klebsiella pneumoniae	Klebsiella	ARO:3000024|patA	patA	74.93	375	4067
+aff9c4d3-e310-486f-a5cc-82192e45dac9	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001214|mdtM	group mdt-mdf-1	70.9	488	368
+b1f0218c-2689-4af7-b77f-01400b93c2e1	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003923|oqxB	group oqx-mex-amr-1	78.93	1125	316
+56e613aa-4e9b-44fe-acef-508c9bc817db	Klebsiella pneumoniae	Klebsiella	ARO:3000793|mdtB	group mdt-mds-acr-mtr-1	70.2	406	1092
+11b36bea-b0da-4532-8b69-bd1359b5cb33	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003922|oqxA	group oqx-mex-1	83.49	830	356
+89b10ac5-4fe8-4ae9-b5a6-3b651e361945	Proteus mirabilis	Proteus mirabilis	ARO:3000177|tetJ	group tet-3	88.46	1222	3384
+055b480e-8ad7-48fb-b78d-c858ad8a82b6	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003830|aminocoumarin	alaS	78.46	246	699
+5fa755df-bd3b-415b-83ee-63ba94501b2e	Klebsiella pneumoniae	Klebsiella	ARO:3003056|smeE	group mex-sme-1	74.21	442	1779
+5fa755df-bd3b-415b-83ee-63ba94501b2e	Klebsiella pneumoniae	Klebsiella	ARO:3000378|mexB	group mex-sme-1	70.45	176	1291
+5fa755df-bd3b-415b-83ee-63ba94501b2e	Klebsiella pneumoniae	Klebsiella	ARO:3000216|acrB	group mex-acr-1	73.33	135	1743
+5fa755df-bd3b-415b-83ee-63ba94501b2e	Klebsiella pneumoniae	Klebsiella	ARO:3002983|amrB	group oqx-mex-amr-1	77.71	157	1735
+1374329e-89b6-45bc-a746-4728d29eda5f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003923|oqxB	group oqx-mex-amr-1	71.07	121	1493
+724eee34-8d11-4b18-bcfd-95f1173d4b75	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002986|bacA	bacA	70.92	863	3454
+679bb4f1-94cc-4f61-8bf1-9d0adc9d9c6e	Klebsiella pneumoniae	Klebsiella	ARO:3000828|baeR	group bae-sme-1	75.07	702	778
+a2a932a8-c19c-44ff-b3c5-033598d484c3	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	75.0	128	4085
+a2a932a8-c19c-44ff-b3c5-033598d484c3	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	70.86	175	3667
+cd63a165-78ba-43cb-8578-0d00d2e02d6e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	73.6	197	81
+f3951bb3-2175-4a00-8091-e9c247b94780	Klebsiella pneumoniae	Klebsiella	ARO:3003056|smeE	group mex-sme-1	71.21	528	2334
+f3951bb3-2175-4a00-8091-e9c247b94780	Klebsiella pneumoniae	Klebsiella	ARO:3003056|smeE	group mex-sme-1	76.0	100	4315
+f3951bb3-2175-4a00-8091-e9c247b94780	Klebsiella pneumoniae	Klebsiella	ARO:3003052|smeB	group mdt-mex-sme-1	74.21	221	3947
+f3951bb3-2175-4a00-8091-e9c247b94780	Klebsiella pneumoniae	Klebsiella	ARO:3003033|mexY	group oqx-mex-amr-1	75.0	140	3625
+f3951bb3-2175-4a00-8091-e9c247b94780	Klebsiella pneumoniae	Klebsiella	ARO:3003055|smeD	group acr-sme-1	71.33	150	4239
+09afe604-eb95-4dff-8cb5-01ad9c7c7365	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001216|mdtH	mdtH	71.37	517	1123
+f1605f13-5c34-41c6-8d32-fda3dcf1bcb7	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002986|bacA	bacA	71.88	160	3974
+99f13fb7-0a1a-44fe-b0ce-4e8d96782674	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000207|acrA	group acr-sme-1	74.17	120	3476
+8be809d2-13d9-4edf-80f7-e64b806bf12d	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000793|mdtB	group mdt-mds-acr-mtr-1	71.57	204	704
+249f065c-f6c1-4a86-8355-24b59df88474	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000378|mexB	group mex-sme-1	72.14	463	3599
+249f065c-f6c1-4a86-8355-24b59df88474	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000378|mexB	group mex-sme-1	70.17	181	4398
+9ca23c91-f4f0-4c96-b01e-3a92f8e163b3	Klebsiella pneumoniae	Klebsiella	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	70.56	231	3901
+1511f6f7-bd3b-414a-9884-9b689a75dd95	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000804|mexF	group mex-Tri-1	71.56	109	6226
+d71e1959-8cda-478d-bad2-41e03c59e741	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003154|SHV-187	group SHV-LEN-OKP-1	83.35	895	7324
+7cbf7af5-901f-440e-ba3b-144da22db009	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000502|acrF	group ceo-ade-acr-1	70.0	480	108
+d692fd24-dba8-4206-8d3b-7ff83415b475	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	70.86	985	6325
+7ad7b38f-3fe4-42ab-b7ba-bc682b92730e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003359|Streptomyces	Streptomyces	72.6	219	3594
+7ad7b38f-3fe4-42ab-b7ba-bc682b92730e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003359|Streptomyces	Streptomyces	72.03	118	4068
+1ca930ba-5bfd-4d82-a016-ef78dfb76617	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000825|robA	robA	73.27	793	3657
+3da9f4ff-f96b-476c-8049-1a9e25bf2782	Klebsiella pneumoniae	Klebsiella	ARO:3000828|baeR	group bae-sme-1	74.13	460	1887
+7b30ab27-4f72-4b4e-82b5-835e3c877e22	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003699|mexQ	group mex-acr-1	70.52	268	128
+80139942-54a4-49df-ae05-ee402ac04b1f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	70.66	167	321
+31a443ce-fabf-4246-9e2b-886621575955	Klebsiella pneumoniae	Klebsiella	ARO:3000794|mdtC	group mdt-mex-sme-1	73.15	2972	121
+31a443ce-fabf-4246-9e2b-886621575955	Klebsiella pneumoniae	Klebsiella	ARO:3000793|mdtB	group mdt-mds-acr-mtr-1	81.6	125	2849
+c0318465-64c8-45d4-9061-0d477685e405	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000516|emrR	emrR	72.15	316	3688
+cc792861-094f-45a5-b1a2-e7c4196aa0e9	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002870|tet34	tet34	74.24	132	5022
+748866fa-f753-458c-a9ea-a6a141ab1074	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001327|mdtK	mdtK	73.33	105	281
+8faa6035-6392-49c3-a421-4fe939f49f75	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001328|mdfA	group mdt-mdf-1	72.12	104	1153
+8e859262-6e48-471a-87f4-f96204fce9e6	Klebsiella pneumoniae	Klebsiella	ARO:3000831|cpxR	cpxR	73.16	380	613
+1d38a114-3719-45e0-ae3a-ac2f1e76804c	Klebsiella pneumoniae	Klebsiella	ARO:3000823|ramA	group mar-ram-1	73.5	351	2916
+173adb6d-f55f-4048-af92-55e3d59296fe	Klebsiella pneumoniae	Klebsiella	ARO:3003923|oqxB	group oqx-mex-amr-1	70.0	220	4200
+b137772e-20e4-4a25-9600-bc02bf04c001	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000074|emrB	emrB	76.73	202	402
+b137772e-20e4-4a25-9600-bc02bf04c001	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000027|emrA	group emr-5	70.0	250	361
+476b0b11-4295-4aeb-b92f-15d658b89edd	Klebsiella pneumoniae	Klebsiella	ARO:3000024|patA	patA	77.69	121	640
+021f56cf-0b80-4d94-ad45-f0021cd5b3f9	Klebsiella pneumoniae	Klebsiella	ARO:3003056|smeE	group mex-sme-1	73.44	512	5071
+021f56cf-0b80-4d94-ad45-f0021cd5b3f9	Klebsiella pneumoniae	Klebsiella	ARO:3003052|smeB	group mdt-mex-sme-1	70.14	365	4011
+021f56cf-0b80-4d94-ad45-f0021cd5b3f9	Klebsiella pneumoniae	Klebsiella	ARO:3002983|amrB	group oqx-mex-amr-1	75.93	108	6451
+feb5e7ad-818d-402e-b238-49acfb4f3cbf	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002986|bacA	bacA	78.41	176	741
+4a060ec8-5d71-4d6b-8ee6-b00ca7249703	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000309|emrD	emrD	75.41	431	163
+3fb1042f-d239-4464-a756-0560aaaf4186	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000518|CRP	CRP	77.06	449	8130
+39738920-161b-4752-b15c-c8caea27993f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003705|mexN	group oqx-mex-amr-1	70.06	157	4018
+7a550e1f-74c2-4956-aab6-87c40a6ef5d6	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000502|acrF	group ceo-ade-acr-1	70.98	1351	453
+1a953a84-d9df-42c4-b640-f08d9c393e50	Klebsiella pneumoniae	Klebsiella	ARO:3000793|mdtB	group mdt-mds-acr-mtr-1	75.25	711	924
+1a953a84-d9df-42c4-b640-f08d9c393e50	Klebsiella pneumoniae	Klebsiella	ARO:3000794|mdtC	group mdt-mex-sme-1	75.27	275	1603
+e26154b3-9fe2-4424-ab63-a440d8928d0b	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	72.7	641	954
+8e94e7ea-2d84-4c91-a3f6-739773b63a4e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003209|FosA5	group Fos-3	83.95	430	2926
+2f4c04a5-bd6e-4179-b780-283def3688b4	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000216|acrB	group mex-acr-1	70.41	169	378
+be107e59-d749-4e29-8c7e-c8500fcf5883	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003066|smeR	group bae-sme-1	76.85	108	6037
+d627d1c7-8669-4352-9369-582afbcfb144	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000027|emrA	group emr-5	74.83	143	340
+ea8d9966-a2a8-4cd5-be03-0a4a7ce958ac	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003548|mdtN	group ceo-mdt-1	74.29	105	2845
+23cf25a0-7802-41cb-8fe9-aa32f1ccc10b	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003843|leuO	leuO	72.23	515	2149
+840822cd-7dcc-4beb-9718-4e73840412cd	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003830|aminocoumarin	alaS	70.35	1828	213
+644d0352-ee02-46c1-a934-9d8d28cf7198	Escherichia coli	Escherichia coli	ARO:3002831|vgaC	vgaC	82.76	203	2260
+30cd6edf-265d-40a1-90c0-8f8d23a385df	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003923|oqxB	group oqx-mex-amr-1	88.54	1615	1047
+bc493f1f-7b77-42d2-9897-979fe58619b5	Klebsiella pneumoniae	Klebsiella	ARO:3000793|mdtB	group mdt-mds-acr-mtr-1	70.8	1281	393
+e693a236-f388-447f-a3d2-a8aee870cbe0	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000825|robA	robA	74.54	377	2998
+e693a236-f388-447f-a3d2-a8aee870cbe0	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000825|robA	robA	70.0	200	3489
+dd489996-9bc8-484a-9329-886491a27939	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003922|oqxA	group oqx-mex-1	79.25	212	206
+da2246eb-4f3d-48f1-b477-52aada87d888	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000378|mexB	group mex-sme-1	71.04	511	948
+cbc91ade-3e61-4869-a30b-f9dc8bb03449	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003577|PmrE	PmrE	72.99	685	854
+a7b949ea-4723-4aef-9a17-093b094d9091	Klebsiella pneumoniae	Enterobacterales	ARO:3001125|SHV-71	group SHV-LEN-OKP-1	79.02	877	2159
+7cfd9ab0-866d-4c86-a2a6-ac1270e2e3b4	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003359|Streptomyces	Streptomyces	75.36	207	89
+e8a9125f-b968-445b-b610-49e23b6c9921	Klebsiella pneumoniae	Klebsiella	ARO:3003841|kdpE	kdpE	70.89	694	2467
+b80dbd38-f7ef-4eff-8f54-6180751bab35	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000794|mdtC	group mdt-mex-sme-1	72.25	209	68
+78775584-6065-496f-88b9-5a568da14c97	Klebsiella pneumoniae	Klebsiella	ARO:3003922|oqxA	group oqx-mex-1	82.19	247	915
+2b4f4c3d-761c-4784-a4df-261abc84524b	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003923|oqxB	group oqx-mex-amr-1	87.96	2101	326
+2b4f4c3d-761c-4784-a4df-261abc84524b	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003922|oqxA	group oqx-mex-1	93.67	300	2055
+a460f774-330f-4c34-b404-bb52c967ed6e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001215|mdtL	group mdt-bcr-1	72.94	218	4208
+27381c82-3097-4a70-9d82-8493b924faae	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000024|patA	patA	79.46	560	105
+c72ceb52-3203-433b-9911-fca3ef63ebe4	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000676|H-NS	H-NS	75.15	165	389
+6800d45a-0dba-45f7-b123-75df61575c9c	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000518|CRP	CRP	73.94	614	2428
+605e185e-e38b-423b-8eee-931be153872a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003830|aminocoumarin	alaS	70.33	273	1973
+605e185e-e38b-423b-8eee-931be153872a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003830|aminocoumarin	alaS	74.77	111	1625
+24116c54-5aee-4baa-b830-c8946ce0fa22	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000676|H-NS	H-NS	80.55	293	400
+6352f28d-6f01-4c66-91a9-eaeaaf3df18a	Klebsiella pneumoniae	Klebsiella	ARO:3000024|patA	patA	74.16	1339	66
+91d184fa-5909-443f-bf87-a8230c2e4701	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003209|FosA5	group Fos-3	86.16	419	1775
+dcd773ab-ca81-470b-92c5-d2a9d4f80634	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003209|FosA5	group Fos-3	85.91	369	3649
+5dd293cd-91e7-47c5-a73a-d35b7f861e78	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003923|oqxB	group oqx-mex-amr-1	84.53	543	950
+4610641b-e7cb-4b29-b41e-0cdf1840601c	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	72.46	236	1259
+4877b40a-7132-45a3-95ee-5128d2c9751b	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	70.46	1554	974
+c77922d4-86c1-49a8-9f35-ae7bca67d0f9	Klebsiella pneumoniae	Klebsiella	ARO:3000794|mdtC	group mdt-mex-sme-1	74.3	2191	90
+5d1fdce7-c78f-4cea-8cac-0ade6cb16e27	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003209|FosA5	group Fos-3	87.79	434	1133
+85e97ddb-5119-41be-97bf-6aedafdc3619	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000216|acrB	group mex-acr-1	76.58	2703	834
+ad32a063-f9de-4c0e-8d05-68f5fa8494cf	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000826|sdiA	sdiA	73.23	198	4961
+413428ae-a65c-464f-b3ab-aadc99f8a9e6	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	70.15	134	2136
+deb17fbf-a83b-47ef-a9a6-67bd700dc810	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003209|FosA5	group Fos-3	79.51	283	2297
+d7b4149d-7d7b-443e-9171-4f7329f8f8f6	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3002831|vgaC	vgaC	86.13	238	749
+f5cd1148-b003-46a4-a181-5afa682dc8e7	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001327|mdtK	mdtK	71.83	987	5613
+d04a0600-dcab-47c5-83ee-1424b2f5a64c	Klebsiella pneumoniae	Klebsiella	ARO:3001330|mdtD	mdtD	78.25	446	237
+2739356d-a3da-4870-b160-29d22b40b9a2	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000828|baeR	group bae-sme-1	70.99	724	3400
+555ee157-d191-4c7c-9e30-5929e152c24d	Klebsiella pneumoniae	Klebsiella	ARO:3003055|smeD	group acr-sme-1	71.65	127	983
+0cf15b4f-99a3-407c-9485-753381d303f6	Proteus mirabilis	Proteus mirabilis	ARO:3003844|mfd	mfd	73.48	132	1730
+42b41325-f5cb-4705-b1d2-e5ba9af9cf90	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002827|tlrC	group srm-tlr-car-ole-1	73.55	121	1688
+ae9705e6-10c8-4c15-94f1-0af8b1c1fcec	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000309|emrD	emrD	74.59	492	7515
+7230612b-5daa-4f00-996a-be3604667bbe	Escherichia coli	Escherichia coli	ARO:3002831|vgaC	vgaC	88.36	232	2782
+92954ae6-4da5-4274-9366-7414333cc505	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000499|acrE	group acr-mex-1	72.57	113	1301
+e73bcd68-9477-4d76-85cc-e18b9240729b	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000676|H-NS	H-NS	78.02	414	3829
+d3771513-f067-408d-8102-29cf24b058be	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003844|mfd	mfd	71.42	3565	2920
+8679f778-4868-4baf-84ab-ed01dc6768b7	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000826|sdiA	sdiA	73.91	207	797
+c4ccf810-c21a-41fd-83df-475fc0ae4d30	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001329|mdtG	mdtG	71.01	138	4287
+3a9aa3f0-a664-4256-a8b7-ca3e14ad271a	Klebsiella pneumoniae	Klebsiella	ARO:3000794|mdtC	group mdt-mex-sme-1	73.34	1992	9069
+3a9aa3f0-a664-4256-a8b7-ca3e14ad271a	Klebsiella pneumoniae	Klebsiella	ARO:3001330|mdtD	mdtD	71.25	1374	7696
+3a9aa3f0-a664-4256-a8b7-ca3e14ad271a	Klebsiella pneumoniae	Klebsiella	ARO:3000828|baeR	group bae-sme-1	71.01	652	10257
+e7f32307-83f9-4948-ad35-d4552e82b3a6	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003578|PmrF	PmrF	77.21	351	708
+59d68c54-7835-423d-841a-3f10c93b0d7e	Klebsiella pneumoniae	Enterobacterales	ARO:3001083|SHV-25	group SHV-LEN-OKP-1	76.62	770	1247
+49f92355-d865-4754-8d94-3a79ee68076a	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003922|oqxA	group oqx-mex-1	71.46	1016	433
+49f92355-d865-4754-8d94-3a79ee68076a	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003923|oqxB	group oqx-mex-amr-1	81.82	176	1493
+8ddef409-21e8-4f6f-aaf4-fd11236b173c	Klebsiella pneumoniae	Klebsiella	ARO:3000793|mdtB	group mdt-mds-acr-mtr-1	71.96	107	1549
+8ddef409-21e8-4f6f-aaf4-fd11236b173c	Klebsiella pneumoniae	Klebsiella	ARO:3000793|mdtB	group mdt-mds-acr-mtr-1	72.41	116	1958
+89d592df-d19d-43c4-ae1c-b4d92ef2b6cb	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000074|emrB	emrB	70.2	1611	4983
+89d592df-d19d-43c4-ae1c-b4d92ef2b6cb	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000516|emrR	emrR	72.95	440	4521
+bc4e5b09-c519-4a99-abc8-c211bf46bbd3	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000826|sdiA	sdiA	75.38	130	621
+e9891dae-14b4-469b-82a0-c8d624c7c12f	Klebsiella pneumoniae	Klebsiella	ARO:3000024|patA	patA	73.72	681	7875
+c473d5d3-2810-4b2d-8fa5-91c7b3cab428	Klebsiella pneumoniae	Klebsiella	ARO:3003922|oqxA	group oqx-mex-1	86.74	792	363
+11f1fbea-8619-4f7f-8d27-3dec2ef8b74e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	72.77	1131	4136
+d27bb6a8-8cd2-4304-bba5-d4c2e4c10193	Proteus mirabilis	Proteus mirabilis	ARO:3002670|cat	group cat-1	85.44	515	659
+105bf2f8-d551-42a0-b03c-57e7ec431d3b	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000830|cpxA	cpxA	72.26	1406	694
+105bf2f8-d551-42a0-b03c-57e7ec431d3b	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000831|cpxR	cpxR	75.0	712	1409
+8b166f6d-0ec0-4043-b9ed-b89474b03ed5	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000823|ramA	group mar-ram-1	72.53	364	2349
+2c80d9a4-1631-45d4-a2d6-b2f4ec24b5ff	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000378|mexB	group mex-sme-1	77.39	115	526
+5ee7a8be-39b1-4125-992a-e78485248146	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001329|mdtG	mdtG	73.24	213	288
+fdede996-d58b-47f4-ac20-ea727869fb18	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000216|acrB	group mex-acr-1	70.02	1174	2737
+483b9435-6fdb-42bc-bae0-96c839b0592f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000216|acrB	group mex-acr-1	72.1	706	2700
+b17a1af6-28fb-42e9-a252-e7f4b4e356ae	Klebsiella pneumoniae	Klebsiella	ARO:3003056|smeE	group mex-sme-1	73.26	359	2808
+b17a1af6-28fb-42e9-a252-e7f4b4e356ae	Klebsiella pneumoniae	Klebsiella	ARO:3000378|mexB	group mex-sme-1	70.26	454	1513
+b17a1af6-28fb-42e9-a252-e7f4b4e356ae	Klebsiella pneumoniae	Klebsiella	ARO:3000379|oprM	group opr-sme-2	70.34	145	2778
+cb2b7ce6-286f-4c80-9536-a62e1cba3788	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001137|SHV-83	group SHV-LEN-OKP-1	88.33	900	6307
+4ecd0324-f0ff-44b6-bcb1-95a3d52394b8	Proteus mirabilis	Proteus mirabilis	ARO:3003840|aminocoumarin	cysB	70.79	202	1155
+720d9f2b-7572-4d4e-935b-134a66d66a18	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000216|acrB	group mex-acr-1	71.02	1394	689
+720d9f2b-7572-4d4e-935b-134a66d66a18	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000207|acrA	group acr-sme-1	74.68	154	1827
+26d78d67-dc51-432a-8aae-a5f583a9e438	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003209|FosA5	group Fos-3	81.75	422	5813
+2847a367-1df0-4aeb-9e3f-5b3d061dbbdc	Klebsiella pneumoniae	Klebsiella	ARO:3000801|mexD	group mex-sme-1	74.53	106	1019
+eac54dfe-c098-4966-8332-bb0f899345a4	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3002831|vgaC	vgaC	86.67	240	1016
+933fe110-00b8-46d6-a9e1-2b1e3b96dcde	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000074|emrB	emrB	75.85	1582	3024
+933fe110-00b8-46d6-a9e1-2b1e3b96dcde	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000027|emrA	group emr-5	72.53	1103	4683
+933fe110-00b8-46d6-a9e1-2b1e3b96dcde	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000516|emrR	emrR	73.1	197	5907
+6a9df6b0-9b30-48fc-adfe-96d1fb7d9bdd	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000216|acrB	group mex-acr-1	76.59	2905	1330
+d876864b-94f4-445b-8010-35c960ed5a5a	Klebsiella pneumoniae	Klebsiella	ARO:3003841|kdpE	kdpE	70.29	690	4038
+4755fb9a-ca22-4e07-bf0b-1c0e1ebfe473	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003923|oqxB	group oqx-mex-amr-1	84.75	1128	1447
+26641c7b-cb4e-4c3c-aecc-8ca41be5e478	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000796|mdtF	group mdt-mex-sme-1	78.31	166	582
+8758a119-3f80-475f-addc-196ac89be0dc	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000024|patA	patA	72.77	1425	5020
+b8d5b736-7871-4ac5-8bdb-faaba65cf6c5	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003922|oqxA	group oqx-mex-1	82.04	746	3041
+2bc94c72-e86c-4b79-a4ca-c75150c2956a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003843|leuO	leuO	70.17	905	1001
+ecc69081-e03c-4ce6-b9e3-47835b9574e8	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000825|robA	robA	72.41	406	5087
+ecc69081-e03c-4ce6-b9e3-47835b9574e8	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000825|robA	robA	70.59	136	4802
+7a49cb43-fee2-42e2-a5e1-150d06a72c2a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000676|H-NS	H-NS	75.12	422	477
+7d9d6a1b-3951-43de-9740-7d5eb5bafb1c	Klebsiella pneumoniae	Klebsiella	ARO:3000024|patA	patA	73.68	1341	1755
+fb1e3428-0802-486f-a587-8d6dcf80df01	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001327|mdtK	mdtK	73.52	355	1576
+22ae98e3-bd7a-4850-a8b1-1f6c91831f9b	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3002831|vgaC	vgaC	87.87	239	1010
+4cab320a-c6de-4950-a571-960f4b03e575	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001215|mdtL	group mdt-bcr-1	71.86	231	10016
+d4e2bd8e-45cc-4d70-ad2f-eb66ee5d2090	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000518|CRP	CRP	79.02	224	267
+e94c6a7c-df7e-40f9-8083-312b7d4f218a	Escherichia coli	Escherichia coli	ARO:3002831|vgaC	vgaC	86.58	231	2397
+5e0a1236-4891-466e-a75e-ea1977c51d0b	Escherichia coli	Enterobacteriaceae	ARO:3003923|oqxB	group oqx-mex-amr-1	90.37	405	110
+707d265a-5c86-4619-bdef-6fcb405276a4	Klebsiella pneumoniae	Klebsiella	ARO:3000207|acrA	group acr-sme-1	71.89	402	232
+dce2c466-5bb1-4ac6-8d03-c897a132c1fa	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003840|aminocoumarin	cysB	70.77	992	2432
+163c68de-6129-470e-911f-120ad113a6b8	Proteus mirabilis	Proteus mirabilis	ARO:3003844|mfd	mfd	70.86	429	3088
+af02d76c-a3d8-49e6-a993-8bcfbcbdb6e6	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003841|kdpE	kdpE	74.53	106	2048
+34ec617c-7b1b-46cf-be91-b8e5076475b7	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003922|oqxA	group oqx-mex-1	73.26	1238	2887
+34ec617c-7b1b-46cf-be91-b8e5076475b7	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003923|oqxB	group oqx-mex-amr-1	80.49	405	4062
+8e9889d2-af51-454b-ab44-70c9c73a7822	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003923|oqxB	group oqx-mex-amr-1	82.42	2742	3807
+8e9889d2-af51-454b-ab44-70c9c73a7822	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003922|oqxA	group oqx-mex-1	80.31	1224	2643
+5d416da4-f783-489a-9ce3-bcd55060403c	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	73.49	3191	3316
+0566a436-af4e-470d-885f-bdba7a2ecd07	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000825|robA	robA	77.09	371	263
+d5374a8c-99e2-4689-8ac0-4d47d4378e21	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3003923|oqxB	group oqx-mex-amr-1	82.93	1523	723
+3ad09d9c-fdeb-4814-815e-73f2c5f5c190	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000237|tolC	tolC	73.51	1427	3174
+30dd1bea-9a6a-428e-bc3e-b66b6b400778	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003843|leuO	leuO	70.54	336	946
+15368fea-fc38-488b-b21b-2ccedc568b4c	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001329|mdtG	mdtG	70.12	338	832
+d80f15d8-15ee-4571-96fd-bbdc8646b656	Klebsiella pneumoniae	Klebsiella	ARO:3000378|mexB	group mex-sme-1	70.75	465	1141
+0e1a5466-6579-4136-89d1-b048fff4a1db	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001329|mdtG	mdtG	75.86	145	665
+008fea72-2852-4a0f-b907-adfbced8175b	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000024|patA	patA	73.68	1421	4503
+3497025f-26cd-4a9d-82cf-23ad8fd5b808	Klebsiella pneumoniae	Klebsiella	ARO:3002870|tet34	tet34	73.48	181	788
+e5bfd4b5-925d-4baf-bbc4-146db6bb0599	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	71.54	130	4408
+d55fe73d-c1e4-41c7-a2bb-d1ff945856da	Klebsiella pneumoniae	Enterobacteriaceae	ARO:3002831|vgaC	vgaC	82.64	121	1237
+e288f049-fb57-4cf2-a505-5221ee0a36bf	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000024|patA	patA	79.09	660	2922
+b5bc7420-c484-4a83-a362-5924566bfc91	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001329|mdtG	mdtG	70.27	1167	1055
+b4ac15be-d6bf-496b-9d2d-c5411981c670	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000378|mexB	group mex-sme-1	72.1	466	3954
+b4ac15be-d6bf-496b-9d2d-c5411981c670	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000795|mdtE	mdtE	73.6	125	5950
+29135101-c45f-4d38-b106-508cdcf36b52	Klebsiella pneumoniae	Klebsiella	ARO:3002986|bacA	bacA	73.1	197	1491
+0992c829-6f1c-49fe-a363-175064330341	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000263|marA	group mar-ram-1	72.92	373	2178
+59b51926-5bd4-47de-8447-35c9263ad40e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	70.81	764	4688
+59b51926-5bd4-47de-8447-35c9263ad40e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	70.41	828	4626
+2da6a1c6-ae5a-452a-9b02-4b20e2175ecf	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000823|ramA	group mar-ram-1	70.05	374	4109
+c8c7621c-9a6b-43ac-883b-29d31ad32d47	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001214|mdtM	group mdt-mdf-1	73.64	110	947
+cbe52ab5-0b2f-4b6a-9882-081029318fad	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000216|acrB	group mex-acr-1	70.34	290	80
+cec35fc7-208e-42d6-aad0-3874a33e52b6	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000237|tolC	tolC	72.56	1432	5658
+3ddada3a-a349-4b30-9ebb-c876773f39a3	Klebsiella pneumoniae	Klebsiella	ARO:3000831|cpxR	cpxR	78.95	190	2565
+21e64a2a-a3fc-485e-91b4-b61f32846c40	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003830|aminocoumarin	alaS	70.43	230	1623
+4ba8db7b-fda5-41de-8e7c-d539e9845f5c	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003923|oqxB	group oqx-mex-amr-1	85.62	1161	2949
+9b3fe0e8-9d9d-41b2-8204-b7c9ecc284d9	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000518|CRP	CRP	77.08	650	909
+41b5faf8-afb6-4930-a476-736f15ef4bbb	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000237|tolC	tolC	73.19	1134	2136
+a3a4b306-7f48-48c2-8226-e008009bc6fb	Proteus mirabilis	Proteus mirabilis	ARO:3000825|robA	robA	71.3	115	421
+8493aefa-2e48-4853-af25-6e3b75bccfef	Klebsiella pneumoniae	Klebsiella	ARO:3000830|cpxA	cpxA	76.29	641	2897
+8493aefa-2e48-4853-af25-6e3b75bccfef	Klebsiella pneumoniae	Klebsiella	ARO:3000831|cpxR	cpxR	75.46	709	2228
+6fdea417-f916-4702-8332-61615fa46975	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000830|cpxA	cpxA	76.52	115	512
+7f41b6c7-2b8e-4efd-9b6c-9edc8c59258a	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003209|FosA5	group Fos-3	78.21	413	1259
+18e991d4-a417-4735-ace1-b33aad8424c6	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003049|rosB	rosB	72.87	129	6967
+b1986286-d9a9-4aa7-8e0b-426601474536	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000216|acrB	group mex-acr-1	75.0	164	2211
+c4a3c67e-3cbb-414f-901a-a07056c1c46c	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001215|mdtL	group mdt-bcr-1	70.13	154	532
+3d8f0dfb-9059-4351-931b-937d7ea3eeb9	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000676|H-NS	H-NS	74.81	135	452
+e693fbe3-7a1c-4315-823b-779e1a254fab	Klebsiella pneumoniae	Klebsiella	ARO:3000237|tolC	tolC	75.64	390	50
+12ed8532-c6f3-498a-8f95-ec13164cffb1	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003922|oqxA	group oqx-mex-1	78.44	269	708
+d212ab76-7ddf-4f07-9e10-97cc9c7f8519	Klebsiella pneumoniae	Klebsiella	ARO:3000823|ramA	group mar-ram-1	72.17	345	1374
+1fcf1970-dc9a-437f-b893-2c696c34efc7	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000793|mdtB	group mdt-mds-acr-mtr-1	72.61	241	2765
+1fcf1970-dc9a-437f-b893-2c696c34efc7	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000793|mdtB	group mdt-mds-acr-mtr-1	70.56	248	2417
+1fcf1970-dc9a-437f-b893-2c696c34efc7	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000793|mdtB	group mdt-mds-acr-mtr-1	71.94	196	1950
+1fcf1970-dc9a-437f-b893-2c696c34efc7	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000793|mdtB	group mdt-mds-acr-mtr-1	74.34	113	3510
+b631a202-4945-4947-90a5-bd2ba002f576	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003576|PmrC	PmrC	70.79	291	492
+c09f03c6-fe7f-423a-96e8-79e74878d8e4	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002983|amrB	group oqx-mex-amr-1	74.29	140	6903
+c09f03c6-fe7f-423a-96e8-79e74878d8e4	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000804|mexF	group mex-Tri-1	71.82	110	7092
+863086be-3d09-447f-9d99-b07832d1a2f6	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000825|robA	robA	73.44	305	2902
+8f81b267-4eb3-49a5-9128-fc79e33c5b65	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000676|H-NS	H-NS	76.53	409	3486
+e6a08ce1-db2c-4241-b28b-fa2b5130103d	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000518|CRP	CRP	72.95	647	1528
+bc9b2186-e35b-4b92-b1b4-2b93d06ba8a0	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000216|acrB	group mex-acr-1	76.12	1947	1232
+bc9b2186-e35b-4b92-b1b4-2b93d06ba8a0	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000377|mexA	group acr-mex-1	73.94	142	2457
+1e59953c-4717-46f5-9a80-7c752ee79b27	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000828|baeR	group bae-sme-1	78.76	193	126
+a0ab73fb-5f6d-4be6-b66a-23313f3b454c	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000676|H-NS	H-NS	76.19	399	1790
+b77d5bfe-f04b-4f29-aa93-0a0c89e0a9a5	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	71.34	164	3834
+6959fa16-0b62-471a-994c-3ce0d50ca6e9	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000378|mexB	group mex-sme-1	70.55	421	2402
+6959fa16-0b62-471a-994c-3ce0d50ca6e9	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003056|smeE	group mex-sme-1	73.77	122	3114
+0366488f-579f-41e2-b29d-301350bc5f25	Klebsiella pneumoniae	Klebsiella	ARO:3000024|patA	patA	82.38	210	215
+19534387-c371-4ab8-9dd3-071d1f6d1c0e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000309|emrD	emrD	70.63	286	2282
+5cd4c3d9-bf41-413e-aac1-fa10a9f75563	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003577|PmrE	PmrE	70.85	494	1344
+49c54703-cddb-419b-ba44-fd790fed7aa9	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003578|PmrF	PmrF	71.37	688	5696
+49c54703-cddb-419b-ba44-fd790fed7aa9	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	72.92	373	6390
+56e5a4d0-b09e-49fa-b671-4e93d5e78c07	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003843|leuO	leuO	71.72	297	391
+1f27ea4d-24b6-410b-b168-768d10db6e22	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002986|bacA	bacA	71.01	683	2434
+1f27ea4d-24b6-410b-b168-768d10db6e22	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002986|bacA	bacA	72.88	118	2253
+16a09341-6341-40f4-b30b-82f7b36da400	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	70.86	906	2572
+16a09341-6341-40f4-b30b-82f7b36da400	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002985|arnA	arnA	71.36	447	3857
+5fceac4e-e547-461a-b4a3-27e535b01716	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3001083|SHV-25	group SHV-LEN-OKP-1	73.97	899	6155
+5e45a3d0-4396-449c-b26f-943da96d50b6	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000830|cpxA	cpxA	71.51	516	751
+5011d86b-df00-4396-88d9-7d4a6cb4c751	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000074|emrB	emrB	72.13	506	101
+1a102a7f-e613-4521-a4f9-941400375f9f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003830|aminocoumarin	alaS	74.45	685	524
+88faa527-8aa5-462a-8c1a-4bf1dd4e2249	Klebsiella pneumoniae	Enterobacterales	ARO:3001110|SHV-53	group SHV-LEN-OKP-1	71.02	452	1129
+237e2878-9e54-4544-bc40-9940f04b9873	Proteus mirabilis	Proteus mirabilis	ARO:3003844|mfd	mfd	72.73	187	410
+6bc3ccfc-86a7-458f-bfea-202b0958da0c	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000024|patA	patA	74.82	818	7583
+469ad1cb-7091-48e0-a20c-6fea3cf1653c	Proteus mirabilis	Proteus mirabilis	ARO:3000177|tetJ	group tet-3	74.8	623	5737
+8d334bd6-98c3-4abf-a8d4-a306e142c20c	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000825|robA	robA	70.35	226	272
+fd46a506-a33e-43f5-a470-1d992a61111b	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000237|tolC	tolC	70.61	456	5802
+6834a267-358a-4a3c-a633-c2090e6af359	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000823|ramA	group mar-ram-1	74.88	215	1224
+591d0a92-06e7-49f7-bc1c-f56e6fff3fca	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003844|mfd	mfd	74.73	2002	2121
+f2ba6d89-fbff-43e4-a7a5-bea717905d2c	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003576|PmrC	PmrC	71.85	135	376
+f57c3e0a-0117-4b7f-9853-8944dd18dc80	Escherichia coli	Escherichia coli	ARO:3002831|vgaC	vgaC	86.64	232	2454
+51822737-978c-4135-95cb-dcf1ca9d49ee	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000828|baeR	group bae-sme-1	77.78	189	661
+73787d10-9308-4e2d-b099-11925c1ca5de	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000825|robA	robA	75.21	121	293
+97652b2b-ea18-456c-bba8-ccc27b43cf91	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003923|oqxB	group oqx-mex-amr-1	88.45	1108	1528
+7ba3bc82-969c-4323-98c3-06695b3873be	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000828|baeR	group bae-sme-1	70.65	644	1571
+7ba3bc82-969c-4323-98c3-06695b3873be	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000829|baeS	baeS	70.67	225	2413
+d59a6d34-c0bb-4516-9e02-73635462f7dd	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000823|ramA	group mar-ram-1	71.79	312	4022
+ec6a3803-012f-4f4c-a280-a42a4cd83919	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3002986|bacA	bacA	71.02	728	2468
+d3405410-c9fa-4f90-853a-0e0de90ce01f	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000309|emrD	emrD	70.8	339	5024
+ec8556bb-3e71-4c47-8d88-30b84554d51e	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3003154|SHV-187	group SHV-LEN-OKP-1	82.11	928	4206
+88c7eea0-934d-49d9-ad22-f3bb288e05cc	Klebsiella pneumoniae	Klebsiella	ARO:3003841|kdpE	kdpE	76.42	212	3222
+99d74bba-95f1-4162-a56b-7f2d491c062c	Klebsiella pneumoniae	Klebsiella	ARO:3000491|acrD	group mdt-mds-acr-mtr-1	70.21	188	2369
+99d74bba-95f1-4162-a56b-7f2d491c062c	Klebsiella pneumoniae	Klebsiella	ARO:3000216|acrB	group mex-acr-1	70.08	127	3318
+210f65e4-9393-4b49-a664-6faa10d2ac73	Klebsiella pneumoniae	Klebsiella pneumoniae	ARO:3000216|acrB	group mex-acr-1	71.43	119	275
