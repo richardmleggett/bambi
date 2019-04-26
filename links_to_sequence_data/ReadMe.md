@@ -24,11 +24,11 @@ Oxford Nanopore data
 | 11 | P106I | R9.5 (MIN107) | LSK108 | 1D Ligation | https://www.ebi.ac.uk/ena/data/view/ERR2793137 |
 | 12 | P116I | R9.5 (MIN107) | LSK108 | 1D Ligation | https://www.ebi.ac.uk/ena/data/view/ERR2793135 |
 | 13 | P103M | R9.5 (MIN107) | RAD004 | 1D Rapid | https://www.ebi.ac.uk/ena/data/view/ERR2797012 |
-| 14 | Mock with spike | R9.4.1 (MIN106D) | LSK109 | 1D Ligation | https://www.ebi.ac.uk/ena/data/view/ERR2797012 |
-| 15 | P103M with 4% spike | R9.4.1 (MIN106D) | LSK109 | 1D Ligation | https://www.ebi.ac.uk/ena/data/view/ERR2797012 |
-| 16 | P103M with 40% spike | R9.4.1 (MIN106D) | LSK109 | 1D Ligation | https://www.ebi.ac.uk/ena/data/view/ERR2797012 |
-| 17 | P129B Flongle MinION | R9.4.1 (FLG001) | LSK109 | 1D Ligation | https://www.ebi.ac.uk/ena/data/view/ERR2797012 |
-| 18 | P129B Flongle GridION | R9.4.1 (FLG001) | LSK109 | 1D Ligation | https://www.ebi.ac.uk/ena/data/view/ERR2797012 |
+| 14 | Mock with spike | R9.4.1 (MIN106D) | LSK109 | 1D Ligation | https://www.ebi.ac.uk/ena/data/view/ERR3293650 |
+| 15 | P103M with 4% spike | R9.4.1 (MIN106D) | LSK109 | 1D Ligation | https://www.ebi.ac.uk/ena/data/view/ERR3293651 |
+| 16 | P103M with 40% spike | R9.4.1 (MIN106D) | LSK109 | 1D Ligation | https://www.ebi.ac.uk/ena/data/view/ERR3293652 |
+| 17 | P129B Flongle MinION | R9.4.1 (FLG001) | LSK109 | 1D Ligation | https://www.ebi.ac.uk/ena/data/view/ERR3293658 |
+| 18 | P129B Flongle GridION | R9.4.1 (FLG001) | LSK109 | 1D Ligation | https://www.ebi.ac.uk/ena/data/view/ERR3293659 |
 
 Illumina data
 -------------
