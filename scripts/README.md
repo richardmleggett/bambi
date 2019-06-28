@@ -8,6 +8,8 @@ Scripts used for analysis of data:
 * **remove_low_abundance_taxa.pl** - given a MEGAN exported file, remove nodes with count lower than threshold.
 * **bambi_summary.pl** - summarises BLAST output from NanoOKReporter.
 * **bambi_summary_all.sh** - example of running bambi_summary.pl.
+* **parse_bamstats.pl** - parse output of bamstats.py script.
+* **plot_correlation.R** - plot correlation plots.
 
 Also, see https://github.com/richardmleggett/scripts for other scripts:
 
