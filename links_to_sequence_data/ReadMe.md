@@ -30,7 +30,7 @@ Oxford Nanopore data
 | 17 | P129B Flongle MinION | R9.4.1 (FLG001) | LSK109 | 1D Ligation | https://www.ebi.ac.uk/ena/data/view/ERR3293658 |
 | 18 | P129B Flongle GridION | R9.4.1 (FLG001) | LSK109 | 1D Ligation | https://www.ebi.ac.uk/ena/data/view/ERR3293659 |
 | 19 | Klebsiella pneumoniae isolate | R9.4 (MIN106) | LSK108 | 1D Ligation | https://www.ebi.ac.uk/ena/data/view/ERR3485550 |
-| 20 | Zymo Mock sequencing | R9.4.1 (MIN106D) | LSK109 | 1D Ligation | https://www.ebi.ac.uk/ena/data/view/ERR3485551 |
+| 20 | Zymo Mock sequencing | R9.4.1 (MIN106D) | LSK109 | 1D Ligation | https://www.ebi.ac.uk/ena/data/view/ERR3501855 |
 
 Illumina data
 -------------
