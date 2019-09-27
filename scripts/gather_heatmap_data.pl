@@ -6,55 +6,59 @@ use DateTime;
 use Getopt::Long;
 use File::Copy;
 
+my $reporter_dir="reporter";
+my $base_dir="/Users/leggettr/Documents/Projects/BAMBI/heatmaps";
+
 # Filenames - BAMBI_1D_19092017
 #my $sample = "BAMBI_1D_19092017";
 #my $prefix=$sample."_Template_pass_card_summary_";
 #my $max_chunk = 202;
 #my $exp_start_time = "2017-09-19 15:14:08"; # From fast5 file
-#my $sample_dir="/Volumes/group-si/BAMBI_Pt6/".$sample;
+#my $sample_dir="/Volumes/projects/b5b1d71e-3528-49eb-b757-fc61984d2b79/data/migrated/BAMBI_Pt6/".$sample;
+#my $reporter_dir="reporter_l200id80";
 
 # Filenames - 20180112_1634_BAMBI_P205G_1D_12012018
 #my $sample = "20180112_1634_BAMBI_P205G_1D_12012018";
 #my $prefix=$sample."_Template_pass_card_summary_";
 #my $max_chunk = 955;
 #my $exp_start_time = "2018-01-12 16:34:12"; # From fast5 file
-#my $sample_dir="/Volumes/group-si/BAMBI_Pt7/".$sample;
+#my $sample_dir="/Volumes/projects/b5b1d71e-3528-49eb-b757-fc61984d2b79/data/migrated/BAMBI_Pt7/".$sample;
 
 # Filenames - 20180202_1307_BAMBI_P106I_LSQK108_02022018
 #my $sample = "20180202_1307_BAMBI_P106I_LSQK108_02022018";
 #my $prefix=$sample."_Template_pass_card_summary_";
 #my $max_chunk = 199;
 #my $exp_start_time = "2018-02-02 13:07:49";  # From fast5 file
-#my $sample_dir="/Volumes/group-si/BAMBI_Pt7/".$sample;
+#my $sample_dir="/Volumes/projects/b5b1d71e-3528-49eb-b757-fc61984d2b79/data/migrated/BAMBI_Pt7/".$sample;
 
 # Filenames - 20180202_1324_BAMBI_P116I_SQK108_02022018
 #my $sample = "20180202_1324_BAMBI_P116I_SQK108_02022018";
 #my $prefix=$sample."_Template_pass_card_summary_";
 #my $max_chunk = 199;
 #my $exp_start_time = "2018-02-02 13:24:16";  # From fast5 file
-#my $sample_dir="/Volumes/group-si/BAMBI_Pt7/".$sample;
+#my $sample_dir="/Volumes/projects/b5b1d71e-3528-49eb-b757-fc61984d2b79/data/migrated/BAMBI_Pt7/".$sample;
 
 # Filenames - 20171220_1133_BAMBI_P103M_400ng_RAD4_20122017
 my $sample = "20171220_1133_BAMBI_P103M_400ng_RAD4_20122017";
 my $prefix=$sample."_Template_pass_card_summary_";
 my $max_chunk = 330;
 my $exp_start_time = "2017-12-20 11:33:19";  # From fast5 file
-my $sample_dir="/Volumes/group-si/BAMBI_Pt7/".$sample;
+my $sample_dir="/Volumes/projects/b5b1d71e-3528-49eb-b757-fc61984d2b79/data/migrated/BAMBI_Pt7/".$sample;
 
 # Filenames - 20180112_1459_BAMBI_P49A_1D_12012018
 #my $sample = "20180112_1459_BAMBI_P49A_1D_12012018";
 #my $prefix=$sample."_Template_pass_card_summary_";
 #my $max_chunk = 143;
 #my $exp_start_time = "2018-01-12 14:59:02";  # From fast5 file
-#my $sample_dir="/Volumes/group-si/BAMBI_Pt7/".$sample;
+#my $sample_dir="/Volumes/projects/b5b1d71e-3528-49eb-b757-fc61984d2b79/data/migrated/BAMBI_Pt7/".$sample;
 
 # Generated names
-my $summary_sheet = $sample."/".$prefix.$max_chunk.".txt";
-my $group_names_file = $sample."/groups.txt";
-my $sample_chunktime_file = $sample."/CARD_chunktimes_Template_pass.txt"; # originally $sample_dir."/reporter/chunktimes.txt"
-my $output_chunktime_file= $sample."/".$sample."_yield.txt";
-my $output_hits_file=$sample."/".$sample."_hits.txt";
-my $output_hits_file_sorted=$sample."/".$sample."_hits_sorted.txt";
+my $summary_sheet = $base_dir."/".$sample."/".$prefix.$max_chunk.".txt";
+my $group_names_file = $base_dir."/".$sample."/groups.txt";
+my $sample_chunktime_file = $base_dir."/".$sample."/CARD_chunktimes_Template_pass.txt"; # originally $sample_dir."/reporter/chunktimes.txt"
+my $output_chunktime_file = $base_dir."/".$sample."/".$sample."_yield.txt";
+my $output_hits_file = $base_dir."/".$sample."/".$sample."_hits.txt";
+my $output_hits_file_sorted = $base_dir."/".$sample."/".$sample."_hits_sorted.txt";
 
 my %aro_to_group;
 my $start_time;
@@ -174,7 +178,7 @@ sub write_hits_file
     do {
         $got_one = 0;
         my @counts;
-        my $filename = $sample_dir."/reporter/".$prefix.$chunk.".txt";
+        my $filename = $sample_dir."/".$reporter_dir."/".$prefix.$chunk.".txt";
         print "Reading ".$filename."\n";
         if (-e $filename) {
             $got_one = 1;
@@ -197,6 +201,7 @@ sub write_hits_file
                 
                 if (defined $aro_to_group{$aro}) {
                     my $group = $aro_to_group{$aro};
+                    #print "Group ".$group."\n";
                     
                     if (defined $group_aro_counts{$chunk}{$group}) {
                         $group_aro_counts{$chunk}{$group} = $group_aro_counts{$chunk}{$group} + $count;
